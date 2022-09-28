@@ -1,0 +1,165 @@
+id	region_id	name	short_name	slug	group_id	province_id	group_slug	latitude	longitude
+1815|	1|	Cuenca|	Cuenca|	cuenca|	152|	11|	capital|	NULL|	NULL|
+1816|	1|	Girón|	Girón|	giron|	152|	52|	capital|	NULL|	NULL|
+1817|	1|	Gualaceo|	Gualaceo|	gualaceo|	152|	58|	capital|	NULL|	NULL|
+1818|	1|	Nabón|	Nabón|	nabon|	152|	68|	capital|	NULL|	NULL|
+1819|	1|	Paute|	Paute|	paute|	152|	76|	capital|	NULL|	NULL|
+1820|	1|	Pucará|	Pucará|	pucara|	152|	84|	capital|	NULL|	NULL|
+1821|	1|	San Fernando|	San Fernando|	san-fernando|	152|	87|	capital|	NULL|	NULL|
+1822|	1|	Santa Isabel|	Santa Isabel|	santa-isabel|	152|	90|	capital|	NULL|	NULL|
+1823|	1|	Sigsig|	Sigsig|	sigsig|	152|	99|	capital|	NULL|	NULL|
+1824|	107|	Caluma|	Caluma|	caluma|	152|	108|	capital|	NULL|	NULL|
+1825|	107|	Chillanes|	Chillanes|	chillanes|	152|	110|	capital|	NULL|	NULL|
+1826|	107|	Chimbo|	Chimbo|	chimbo|	152|	113|	capital|	NULL|	NULL|
+1827|	107|	Echeandía|	Echeandía|	echeandia|	152|	119|	capital|	NULL|	NULL|
+1828|	107|	Guaranda |	Guaranda |	guaranda|	152|	121|	capital|	NULL|	NULL|
+1829|	107|	San Miguel|	San Miguel|	san-miguel|	152|	137|	capital|	NULL|	NULL|
+1830|	145|	Azogues|	Azogues|	azogues|	152|	146|	capital|	NULL|	NULL|
+1831|	145|	Biblián|	Biblián|	biblian|	152|	159|	capital|	NULL|	NULL|
+1832|	145|	Cañar|	Cañar|	canar|	152|	165|	capital|	NULL|	NULL|
+1833|	145|	La Troncal|	La Troncal|	la-troncal|	152|	183|	capital|	NULL|	NULL|
+1834|	189|	Bolívar|	Bolívar|	bolivar|	152|	194|	capital|	NULL|	NULL|
+1835|	189|	Carchi|	Carchi|	carchi|	152|	207|	capital|	NULL|	NULL|
+1836|	189|	El Ángel|	El Ángel|	el-angel|	152|	201|	capital|	NULL|	NULL|
+1837|	189|	San Gabriel|	San Gabriel|	san-gabriel|	152|	212|	capital|	NULL|	NULL|
+1838|	189|	Tulcán|	Tulcán|	tulcan|	152|	190|	capital|	NULL|	NULL|
+1839|	233|	Alausí|	Alausí|	alausi|	152|	234|	capital|	NULL|	NULL|
+1840|	233|	Chambo|	Chambo|	chambo|	152|	245|	capital|	NULL|	NULL|
+1841|	233|	Chunchi|	Chunchi|	chunchi|	152|	247|	capital|	NULL|	NULL|
+1842|	233|	Colta|	Colta|	colta|	152|	253|	capital|	NULL|	NULL|
+1843|	233|	Guamote|	Guamote|	guamote|	152|	263|	capital|	NULL|	NULL|
+1844|	233|	Guano|	Guano|	guano|	152|	267|	capital|	NULL|	NULL|
+1845|	233|	Pallatanga|	Pallatanga|	pallatanga|	152|	276|	capital|	NULL|	NULL|
+1846|	233|	Penipe|	Penipe|	penipe|	152|	278|	capital|	NULL|	NULL|
+1847|	233|	Riobamba|	Riobamba|	riobamba|	152|	285|	capital|	NULL|	NULL|
+1848|	304|	Guayzimi|	Guayzimi|	guayzimi|	152|	322|	capital|	NULL|	NULL|
+1849|	353|	La Maná|	La Maná|	la-mana|	152|	354|	capital|	NULL|	NULL|
+1850|	353|	Latacunga|	Latacunga|	latacunga|	152|	360|	capital|	NULL|	NULL|
+1851|	353|	Pangua|	Pangua|	pangua|	152|	378|	capital|	NULL|	NULL|
+1852|	353|	Pujilí|	Pujilí|	pujili|	152|	383|	capital|	NULL|	NULL|
+1853|	353|	Salcedo|	Salcedo|	salcedo|	152|	391|	capital|	NULL|	NULL|
+1854|	353|	Saquisilí|	Saquisilí|	saquisili|	152|	398|	capital|	NULL|	NULL|
+1855|	409|	Santo Domingo|	Santo Domingo|	santo-domingo|	152|	410|	capital|	NULL|	NULL|
+1856|	427|	Arenillas|	Arenillas|	arenillas|	152|	428|	capital|	NULL|	NULL|
+1857|	427|	Balsas|	Balsas|	balsas|	152|	440|	capital|	NULL|	NULL|
+1858|	427|	Chilla|	Chilla|	chilla|	152|	443|	capital|	NULL|	NULL|
+1859|	427|	El Guabo|	El Guabo|	el-guabo|	152|	445|	capital|	NULL|	NULL|
+1860|	427|	Huaquillas|	Huaquillas|	huaquillas|	152|	451|	capital|	NULL|	NULL|
+1861|	427|	La Victoria|	La Victoria|	la-victoria|	152|	458|	capital|	NULL|	NULL|
+1862|	427|	Machala|	Machala|	machala|	152|	465|	capital|	NULL|	NULL|
+1863|	427|	Marcabelí|	Marcabelí|	marcabeli|	152|	473|	capital|	NULL|	NULL|
+1864|	427|	Pasaje|	Pasaje|	pasaje|	152|	476|	capital|	NULL|	NULL|
+1865|	427|	Piñas|	Piñas|	pinas|	152|	488|	capital|	NULL|	NULL|
+1866|	427|	Santa Rosa|	Santa Rosa|	santa-rosa|	152|	504|	capital|	NULL|	NULL|
+1867|	427|	Zaruma|	Zaruma|	zaruma|	152|	517|	capital|	NULL|	NULL|
+1868|	528|	Esmeraldas(Ciudad)|	Esmeraldas(Ciudad)|	esmeraldas-ciudad|	152|	552|	capital|	NULL|	NULL|
+1869|	607|	Puerto Ayora|	Puerto Ayora|	puerto-ayora|	152|	621|	capital|	NULL|	NULL|
+1870|	607|	Puerto Baquerizo Moreno |	Puerto Baquerizo Moreno |	puerto-baquerizo-moreno|	152|	614|	capital|	NULL|	NULL|
+1871|	607|	Puerto Villamil|	Puerto Villamil|	puerto-villamil|	152|	608|	capital|	NULL|	NULL|
+1872|	630|	Balao|	Balao|	balao|	152|	633|	capital|	NULL|	NULL|
+1873|	630|	Balzar|	Balzar|	balzar|	152|	635|	capital|	NULL|	NULL|
+1874|	630|	Colimes|	Colimes|	colimes|	152|	637|	capital|	NULL|	NULL|
+1875|	630|	Daule|	Daule|	daule|	152|	642|	capital|	NULL|	NULL|
+1876|	630|	Durán|	Durán|	duran|	152|	655|	capital|	NULL|	NULL|
+1877|	630|	El Empalme|	El Empalme|	el-empalme|	152|	658|	capital|	NULL|	NULL|
+1878|	630|	El Triunfo|	El Triunfo|	el-triunfo|	152|	662|	capital|	NULL|	NULL|
+1879|	630|	Guayaquil |	Guayaquil |	guayaquil|	152|	666|	capital|	NULL|	NULL|
+1880|	630|	Milagro|	Milagro|	milagro|	152|	692|	capital|	NULL|	NULL|
+1881|	630|	Naranjal|	Naranjal|	naranjal|	152|	697|	capital|	NULL|	NULL|
+1882|	630|	Naranjito|	Naranjito|	naranjito|	152|	703|	capital|	NULL|	NULL|
+1883|	630|	Palestina|	Palestina|	palestina|	152|	707|	capital|	NULL|	NULL|
+1884|	630|	Pedro Carbo|	Pedro Carbo|	pedro-carbo|	152|	709|	capital|	NULL|	NULL|
+1885|	630|	Playas|	Playas|	playas|	152|	713|	capital|	NULL|	NULL|
+1886|	630|	Samborondón|	Samborondón|	samborondon|	152|	725|	capital|	NULL|	NULL|
+1887|	630|	San Jacinto De Yaguachi|	San Jacinto De Yaguachi|	san-jacinto-de-yaguachi|	152|	729|	capital|	NULL|	NULL|
+1888|	630|	Santa Lucía|	Santa Lucía|	santa-lucia|	152|	734|	capital|	NULL|	NULL|
+1889|	739|	Atuntaqui|	Atuntaqui|	atuntaqui|	152|	740|	capital|	NULL|	NULL|
+1890|	739|	Cotacachi|	Cotacachi|	cotacachi|	152|	747|	capital|	NULL|	NULL|
+1891|	739|	Ibarra|	Ibarra|	ibarra|	152|	759|	capital|	NULL|	NULL|
+1892|	739|	Otavalo|	Otavalo|	otavalo|	152|	773|	capital|	NULL|	NULL|
+1893|	739|	Pimampiro|	Pimampiro|	pimampiro|	152|	786|	capital|	NULL|	NULL|
+1894|	739|	Urcuquí |	Urcuquí |	urcuqui|	152|	791|	capital|	NULL|	NULL|
+1895|	798|	Alamor|	Alamor|	alamor|	152|	880|	capital|	NULL|	NULL|
+1896|	798|	Calvas |	Calvas |	calvas|	152|	799|	capital|	NULL|	NULL|
+1897|	798|	Catacocha|	Catacocha|	catacocha|	152|	865|	capital|	NULL|	NULL|
+1898|	798|	Catamayo |	Catamayo |	catamayo|	152|	807|	capital|	NULL|	NULL|
+1899|	798|	Celica |	Celica |	celica|	152|	814|	capital|	NULL|	NULL|
+1900|	798|	Chaguarpamba |	Chaguarpamba |	chaguarpamba|	152|	820|	capital|	NULL|	NULL|
+1901|	798|	Espíndola |	Espíndola |	espindola|	152|	826|	capital|	NULL|	NULL|
+1902|	798|	Gonzanamá |	Gonzanamá |	gonzanama|	152|	831|	capital|	NULL|	NULL|
+1903|	798|	Loja|	Loja|	loja|	152|	837|	capital|	NULL|	NULL|
+1904|	798|	Macará |	Macará |	macara|	152|	856|	capital|	NULL|	NULL|
+1905|	798|	Pindal|	Pindal|	pindal|	152|	875|	capital|	NULL|	NULL|
+1906|	798|	Quilanga|	Quilanga|	quilanga|	152|	887|	capital|	NULL|	NULL|
+1907|	798|	Saraguro|	Saraguro|	saraguro|	152|	891|	capital|	NULL|	NULL|
+1908|	798|	Sozoranga|	Sozoranga|	sozoranga|	152|	903|	capital|	NULL|	NULL|
+1909|	798|	Urdaneta|	Urdaneta|	urdaneta|	152|	891|	capital|	NULL|	NULL|
+1910|	798|	Zapotillo|	Zapotillo|	zapotillo|	152|	907|	capital|	NULL|	NULL|
+1911|	915|	Baba|	Baba|	baba|	152|	916|	capital|	NULL|	NULL|
+1912|	915|	Babahoyo|	Babahoyo|	babahoyo|	152|	920|	capital|	NULL|	NULL|
+1913|	915|	Montalvo |	Montalvo |	montalvo|	152|	937|	capital|	NULL|	NULL|
+1914|	915|	Palenque|	Palenque|	palenque|	152|	940|	capital|	NULL|	NULL|
+1915|	915|	Puebloviejo|	Puebloviejo|	puebloviejo|	152|	942|	capital|	NULL|	NULL|
+1916|	915|	Quevedo |	Quevedo |	quevedo|	152|	946|	capital|	NULL|	NULL|
+1917|	915|	Vinces|	Vinces|	vinces|	152|	971|	capital|	NULL|	NULL|
+1918|	974|	Atahualpa|	Atahualpa|	atahualpa|	152|	1044|	capital|	NULL|	NULL|
+1919|	974|	Chone |	Chone |	chone|	152|	984|	capital|	NULL|	NULL|
+1920|	974|	El Carmen |	El Carmen |	el-carmen|	152|	994|	capital|	NULL|	NULL|
+1921|	974|	Flavio Alfaro |	Flavio Alfaro |	flavio-alfaro|	152|	999|	capital|	NULL|	NULL|
+1922|	974|	Jipijapa |	Jipijapa |	jipijapa|	152|	1007|	capital|	NULL|	NULL|
+1923|	974|	Junín |	Junín |	junin|	152|	1019|	capital|	NULL|	NULL|
+1924|	974|	Manta |	Manta |	manta|	152|	1021|	capital|	NULL|	NULL|
+1925|	974|	Montecristi |	Montecristi |	montecristi|	152|	1029|	capital|	NULL|	NULL|
+1926|	974|	Paján |	Paján |	pajan|	152|	1038|	capital|	NULL|	NULL|
+1927|	974|	Pedernales|	Pedernales|	pedernales|	152|	1044|	capital|	NULL|	NULL|
+1928|	974|	Pichincha |	Pichincha |	pichincha|	152|	1049|	capital|	NULL|	NULL|
+1929|	974|	Portoviejo(Ciudad)|	Portoviejo(Ciudad)|	portoviejo-ciudad|	152|	1053|	capital|	NULL|	NULL|
+1930|	974|	Rocafuerte|	Rocafuerte|	rocafuerte|	152|	1075|	capital|	NULL|	NULL|
+1931|	974|	Santa Ana|	Santa Ana|	santa-ana|	152|	1080|	capital|	NULL|	NULL|
+1932|	974|	Sucre|	Sucre|	sucre|	152|	1087|	capital|	NULL|	NULL|
+1933|	974|	Tosagua|	Tosagua|	tosagua|	152|	1092|	capital|	NULL|	NULL|
+1934|	1096|	Gualaquiza |	Gualaquiza |	gualaquiza|	152|	1097|	capital|	NULL|	NULL|
+1935|	1096|	Limón Indanza |	Limón Indanza |	limon-indanza|	152|	1111|	capital|	NULL|	NULL|
+1936|	1096|	Macas|	Macas|	macas|	152|	1122|	capital|	NULL|	NULL|
+1937|	1096|	Palora |	Palora |	palora|	152|	1135|	capital|	NULL|	NULL|
+1938|	1096|	Santiago |	Santiago |	santiago|	152|	1147|	capital|	NULL|	NULL|
+1939|	1096|	Sucúa |	Sucúa |	sucua|	152|	1155|	capital|	NULL|	NULL|
+1940|	1169|	Archidona|	Archidona|	archidona|	152|	1170|	capital|	NULL|	NULL|
+1941|	1169|	Baeza|	Baeza|	baeza|	152|	1184|	capital|	NULL|	NULL|
+1942|	1169|	El Chaco|	El Chaco|	el-chaco|	152|	1177|	capital|	NULL|	NULL|
+1943|	1169|	Tena|	Tena|	tena|	152|	1191|	capital|	NULL|	NULL|
+1944|	1200|	Aguarico|	Aguarico|	aguarico|	152|	1201|	capital|	NULL|	NULL|
+1945|	1200|	La Joya De Los Sachas|	La Joya De Los Sachas|	la-joya-de-los-sachas|	152|	1207|	capital|	NULL|	NULL|
+1946|	1200|	Puerto Francisco De Orellana|	Puerto Francisco De Orellana|	puerto-francisco-de-orellana|	152|	1224|	capital|	NULL|	NULL|
+1947|	1237|	Mera|	Mera|	mera|	152|	1241|	capital|	NULL|	NULL|
+1948|	1237|	Puyo|	Puyo|	puyo|	152|	1245|	capital|	NULL|	NULL|
+1949|	1263|	Aloag|	Aloag|	aloag|	152|	1273|	capital|	NULL|	NULL|
+1950|	1263|	Cayambe|	Cayambe|	cayambe|	152|	1264|	capital|	NULL|	NULL|
+1951|	1263|	Machachi|	Machachi|	machachi|	152|	1273|	capital|	NULL|	NULL|
+1952|	1263|	Quito |	Quito |	quito|	152|	1292|	capital|	NULL|	NULL|
+1953|	1263|	San Miguel De Los Bancos|	San Miguel De Los Bancos|	san-miguel-de-los-bancos|	152|	1366|	capital|	NULL|	NULL|
+1954|	1263|	Sangolquí|	Sangolquí|	sangolqui|	152|	1360|	capital|	NULL|	NULL|
+1955|	1263|	Tabacundo|	Tabacundo|	tabacundo|	152|	1282|	capital|	NULL|	NULL|
+1956|	1369|	Salinas|	Salinas|	salinas|	152|	1372|	capital|	NULL|	NULL|
+1957|	1369|	Santa Elena|	Santa Elena|	santa-elena|	152|	1380|	capital|	NULL|	NULL|
+1958|	1390|	Cascales|	Cascales|	cascales|	152|	1391|	capital|	NULL|	NULL|
+1959|	1390|	La Bonita|	La Bonita|	la-bonita|	152|	1426|	capital|	NULL|	NULL|
+1960|	1390|	Lumbaquí|	Lumbaquí|	lumbaqui|	152|	1399|	capital|	NULL|	NULL|
+1961|	1390|	Nueva Loja|	Nueva Loja|	nueva-loja|	152|	1404|	capital|	NULL|	NULL|
+1962|	1390|	Puerto El Carmen De Putumayo|	Puerto El Carmen De Putumayo|	puerto-el-carmen-de-putumayo|	152|	1413|	capital|	NULL|	NULL|
+1963|	1390|	Shushufindi|	Shushufindi|	shushufindi|	152|	1419|	capital|	NULL|	NULL|
+1964|	1432|	Ambato|	Ambato|	ambato|	152|	1433|	capital|	NULL|	NULL|
+1965|	1432|	Ant. Baq. Moreno|	Ant. Baq. Moreno|	ant-baq-moreno|	152|	1493|	capital|	NULL|	NULL|
+1966|	1432|	Baños|	Baños|	banos|	152|	1462|	capital|	NULL|	NULL|
+1967|	1432|	Cevallos|	Cevallos|	cevallos|	152|	1468|	capital|	NULL|	NULL|
+1968|	1432|	Mocha|	Mocha|	mocha|	152|	1470|	capital|	NULL|	NULL|
+1969|	1432|	Patate|	Patate|	patate|	152|	1473|	capital|	NULL|	NULL|
+1970|	1432|	Pelileo|	Pelileo|	pelileo|	152|	1482|	capital|	NULL|	NULL|
+1971|	1432|	Píllaro|	Píllaro|	pillaro|	152|	1493|	capital|	NULL|	NULL|
+1972|	1432|	Quero|	Quero|	quero|	152|	1478|	capital|	NULL|	NULL|
+1973|	1432|	Tisaleo|	Tisaleo|	tisaleo|	152|	1503|	capital|	NULL|	NULL|
+1974|	304|	Yacuambí|	Yacuambí|	yacuambi|	152|	326|	capital|	NULL|	NULL|
+1975|	304|	Yantzaza|	Yantzaza|	yantzaza|	152|	330|	capital|	NULL|	NULL|
+1976|	304|	Zamora|	Zamora|	zamora|	152|	305|	capital|	NULL|	NULL|
+1999|	607|	Islas Galápagos|	Galápagos|	galapagos|	152|	NULL|	capital|	NULL|	NULL|
+2000|	974|	Puerto López|	Puerto López|	puerto-lopez|	152|	NULL|	capital|	NULL|	NULL|

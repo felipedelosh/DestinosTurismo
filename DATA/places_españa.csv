@@ -1,0 +1,143 @@
+id	region_id	name	short_name	slug	group_id	province_id	group_slug	latitude	longitude
+8180|	1|	Almería|	Almería|	almeria|	152|	2|	capital|	37.1035|	-2.3024|
+8181|	1|	Cádiz|	Cádiz|	cadiz|	152|	105|	capital|	36.527|	-6.2884|
+8182|	1|	Córdoba|	Córdoba|	cordoba|	152|	150|	capital|	37.8882|	-4.7794|
+8183|	1|	Granada|	Granada|	granada|	152|	226|	capital|	37.1773|	-3.5985|
+8184|	1|	Huelva|	Huelva|	huelva|	152|	395|	capital|	37.2614|	-6.9447|
+8185|	1|	Jaén|	Jaén|	jaen|	152|	475|	capital|	37.7795|	-3.7849|
+8186|	1|	Málaga|	Málaga|	malaga|	152|	573|	capital|	36.7212|	-4.4213|
+8187|	1|	Sevilla|	Sevilla|	sevilla|	152|	674|	capital|	37.389|	-5.9844|
+8188|	780|	Huesca|	Huesca|	huesca|	152|	781|	capital|	42.1318|	-0.4078|
+8189|	780|	Teruel|	Teruel|	teruel|	152|	984|	capital|	40.3456|	-1.1064|
+8190|	780|	Zaragoza|	Zaragoza|	zaragoza|	152|	1221|	capital|	41.6488|	-0.8897|
+8192|	1686|	Santander|	Santander|	santander|	152|	1687|	capital|	43.4623|	-3.8099|
+8193|	2715|	Ávila|	Ávila|	avila|	152|	2716|	capital|	40.6421|	-4.6657|
+8194|	1790|	Albacete|	Albacete|	albacete|	152|	1791|	capital|	38.9944|	-1.8585|
+8195|	1790|	Ciudad Real|	Ciudad Real|	ciudad-real|	152|	1879|	capital|	38.9831|	-3.9671|
+8196|	1790|	Cuenca|	Cuenca|	cuenca|	152|	1982|	capital|	40.0703|	-2.1374|
+8197|	1790|	Guadalajara|	Guadalajara|	guadalajara|	152|	2221|	capital|	40.6324|	-3.1601|
+8198|	1790|	Toledo|	Toledo|	toledo|	152|	2510|	capital|	39.8628|	-4.0273|
+8199|	2715|	Burgos|	Burgos|	burgos|	152|	2965|	capital|	42.3439|	-3.6969|
+8200|	2715|	León|	León|	leon|	152|	3337|	capital|	42.5987|	-5.567|
+8201|	2715|	Palencia|	Palencia|	palencia|	152|	3549|	capital|	42.0096|	-4.5288|
+8202|	2715|	Salamanca|	Salamanca|	salamanca|	152|	3741|	capital|	40.9701|	-5.6635|
+8203|	2715|	Soria|	Soria|	soria|	152|	4314|	capital|	41.7665|	-2.479|
+8204|	2715|	Valladolid|	Valladolid|	valladolid|	152|	4498|	capital|	41.6522|	-4.7245|
+8205|	2715|	Segovia|	Segovia|	segovia|	152|	4104|	capital|	40.9429|	-4.1088|
+8206|	4973|	Barcelona|	Barcelona|	barcelona|	152|	4974|	capital|	41.385|	2.1734|
+8208|	4973|	Gerona|	Gerona|	gerona|	152|	5286|	capital|	42.0407|	2.9375|
+8210|	4973|	Lérida|	Lérida|	lerida|	152|	5508|	capital|	41.6175|	0.62|
+8211|	4973|	Tarragona|	Tarragona|	tarragona|	152|	5740|	capital|	41.1188|	1.2444|
+8213|	8178|	Ceuta|	Ceuta|	ceuta|	152|	8212|	capital|	35.8893|	-5.3213|
+8219|	5924|	Badajoz|	Badajoz|	badajoz|	152|	5925|	capital|	38.8794|	-6.9706|
+8220|	5924|	Cáceres|	Cáceres|	caceres|	152|	6090|	capital|	39.4752|	-6.3722|
+8221|	6310|	La Coruña|	La Coruña|	la-coruna|	152|	6311|	capital|	43.3623|	-8.4115|
+8222|	6310|	Lugo|	Lugo|	lugo|	152|	6406|	capital|	43.0097|	-7.5567|
+8223|	6310|	Orense|	Orense|	orense|	152|	6474|	capital|	42.3357|	-7.8638|
+8224|	6310|	Pontevedra|	Pontevedra|	pontevedra|	152|	6567|	capital|	42.4298|	-8.6446|
+8226|	6630|	Palma de Mallorca|	Palma de Mallorca|	palma-de-mallorca|	152|	6631|	capital|	39.5696|	2.6501|
+8233|	6699|	Logroño|	Logroño|	la-rioja|	152|	6700|	capital|	42.4653|	-2.4801|
+8234|	6875|	Madrid|	Madrid|	madrid|	152|	6876|	capital|	40.4167|	-3.7037|
+8236|	8179|	Melilla|	Melilla|	melilla|	152|	8235|	capital|	35.2922|	-2.938|
+8237|	7056|	Murcia|	Murcia|	murcia|	152|	7057|	capital|	37.9922|	-1.1306|
+8239|	7103|	Pamplona|	Pamplona|	navarra|	152|	7104|	capital|	42.8125|	-1.6457|
+8240|	7377|	Vitoria|	Vitoria|	vitoria|	152|	7378|	capital|	42.8591|	-2.6818|
+8242|	7377|	San Sebastián|	San Sebastián|	san-sebastian|	152|	7430|	capital|	43.3183|	-1.9812|
+8245|	1515|	Oviedo|	Oviedo|	oviedo|	152|	1516|	capital|	43.3619|	-5.8493|
+8246|	7632|	Valencia|	Valencia|	valencia|	152|	7911|	capital|	39.4699|	-0.3762|
+8294|	7632|	Alicante|	Alicante|	alicante|	152|	7633|	capital|	38.346|	-0.4906|
+8295|	7632|	Castellón de la Plana|	Castellón de la Plana|	castellon-de-la-plana|	152|	7775|	capital|	39.9863|	-0.0513|
+8296|	1595|	Las Palmas de Gran Canaria|	Las Palmas de Gran Canaria|	las-palmas-de-gran-canaria|	152|	1596|	capital|	28.1235|	-15.4362|
+8305|	7377|	Bilbao|	Bilbao|	bilbao|	152|	7519|	capital|	43.263|	-2.9349|
+8311|	2715|	Zamora|	Zamora|	zamora|	152|	4724|	capital|	41.5034|	-5.7467|
+8312|	1595|	Santa Cruz de Tenerife|	Santa Cruz de Tenerife|	santa-cruz-de-tenerife|	152|	1631|	capital|	28.4636|	-16.2518|
+9403|	6310|	Santiago de Compostela|	Santiago de Compostela|	santiago-de-compostela|	152|	6311|	capital|	NULL|	NULL|
+9404|	6310|	Vigo|	Vigo|	vigo|	152|	6567|	capital|	NULL|	NULL|
+9405|	1515|	Gijón|	Gijón|	gijon|	152|	1516|	capital|	NULL|	NULL|
+9406|	1515|	Avilés|	Avilés|	aviles|	152|	1516|	capital|	NULL|	NULL|
+9407|	1515|	Llanes|	Llanes|	llanes|	152|	1516|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9408|	4973|	Sitges|	Sitges|	sitges|	152|	4974|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9409|	4973|	Lloret de Mar|	Lloret de Mar|	lloret-de-mar|	152|	5286|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9410|	4973|	Rosas|	Rosas|	rosas|	152|	5286|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9411|	4973|	Tossa de Mar|	Tossa de Mar|	tossa-de-mar|	152|	5286|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9412|	4973|	Salou|	Salou|	salou|	152|	5740|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9413|	4973|	Cambrils|	Cambrils|	cambrils|	152|	5740|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9414|	6630|	Calviá|	Calviá|	calvia|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9415|	6630|	Pollensa|	Pollensa|	pollensa|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9416|	6630|	Alcudia|	Alcudia|	alcudia|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9417|	6630|	Ciudadela|	Ciudadela|	ciudadela|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9418|	6630|	Sant Antoni de Portmany|	Sant Antoni de Portmany|	sant-antoni-de-portmany|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9419|	6630|	Santa Eulalia del Río|	Santa Eulalia del Río|	santa-eulalia-del-rio|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9420|	6630|	Ibiza|	Ibiza|	ibiza|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9421|	6630|	Menorca|	Menorca|	menorca|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9422|	6630|	Formentera|	Formentera|	formentera|	152|	6631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9423|	1595|	Adeje|	Adeje|	adeje|	152|	1631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9424|	1595|	Puerto de la Cruz|	Puerto de la Cruz|	puerto-de-la-cruz|	152|	1631|	capital|	NULL|	NULL|
+9425|	1595|	La Palma|	La Palma|	la-palma|	152|	1631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9426|	1595|	La Gomera|	La Gomera|	la-gomera|	152|	1631|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9427|	1595|	Maspalomas|	Maspalomas|	maspalomas|	152|	1596|	capital|	NULL|	NULL|
+9428|	1595|	Fuerteventura|	Fuerteventura|	fuerteventura|	152|	1596|	capital|	NULL|	NULL|
+9429|	1595|	Lanzarote|	Lanzarote|	lanzarote|	152|	1596|	capital|	NULL|	NULL|
+9430|	1595|	La Oliva|	La Oliva|	la-oliva|	152|	1596|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9431|	1595|	Puerto del Carmen|	Puerto del Carmen|	puerto-del-carmen|	152|	1596|	capital|	NULL|	NULL|
+9432|	1595|	Playa Blanca|	Playa Blanca|	playa-blanca|	152|	1596|	capital|	NULL|	NULL|
+9433|	7632|	Benidorm|	Benidorm|	benidorm|	152|	7633|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9434|	7632|	Javea|	Javea|	javea|	152|	7633|	capital|	NULL|	NULL|
+9435|	7632|	Denia|	Denia|	denia|	152|	7633|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9436|	7632|	Calpe|	Calpe|	calpe|	152|	7633|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9437|	7632|	Torrevieja|	Torrevieja|	torrevieja|	152|	7633|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9438|	7632|	Moraira|	Moraira|	moraira|	152|	7633|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9439|	7632|	Altea|	Altea|	altea|	152|	7633|	capital|	NULL|	NULL|
+9440|	7632|	Guardamar del Segura|	Guardamar del Segura|	guardamar-del-segura|	152|	7633|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9441|	7632|	Peñíscola|	Peñíscola|	peniscola|	152|	7775|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9442|	7632|	Oliva|	Oliva|	oliva|	152|	7911|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9443|	7632|	Gandía|	Gandía|	gandia|	152|	7911|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9444|	1|	Marbella|	Marbella|	marbella|	152|	573|	capital|	NULL|	NULL|
+9445|	1|	Nerja|	Nerja|	nerja|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9446|	1|	Benalmádena|	Benalmádena|	benalmadena|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9447|	1|	Estepona|	Estepona|	estepona|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9448|	1|	Fuengirola|	Fuengirola|	fuengirola|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9449|	1|	Torremolinos|	Torremolinos|	torremolinos|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9450|	1|	Mijas|	Mijas|	mijas|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9451|	1|	Puerto Banús|	Puerto Banús|	puerto-banus|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9452|	1|	Ronda|	Ronda|	ronda|	152|	573|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9453|	1|	Sanlúcar de Barrameda|	Sanlúcar de Barrameda|	sanlucar-de-barrameda|	152|	105|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9454|	1|	Conil de la Frontera|	Conil de la Frontera|	conil-de-la-frontera|	152|	105|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9455|	1|	Tarifa|	Tarifa|	tarifa|	152|	105|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9456|	1|	Jerez de la Frontera|	Jerez de la Frontera|	jerez-de-la-frontera|	152|	105|	capital|	NULL|	NULL|
+9457|	1|	Chiclana de la Frontera|	Chiclana de la Frontera|	chiclana-de-la-frontera|	152|	105|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9458|	1|	Chipiona|	Chipiona|	chipiona|	152|	105|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9459|	1|	El Puerto de Santa María|	El Puerto de Santa María|	el-puerto-de-santa-maria|	152|	105|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9460|	1|	Algeciras|	Algeciras|	algeciras|	152|	105|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9461|	1|	Mojácar|	Mojácar|	mojacar|	152|	2|	capital|	NULL|	NULL|
+9462|	1|	Vera|	Vera|	vera|	152|	2|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9463|	1|	Roquetas de Mar|	Roquetas de Mar|	roquetas-de-mar|	152|	2|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9464|	1|	Almuñécar|	Almuñécar|	almunecar|	152|	226|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9465|	1|	Motril|	Motril|	motril|	152|	226|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9466|	1|	Ayamonte|	Ayamonte|	ayamonte|	152|	395|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9467|	1|	Matalascañas|	Matalascañas|	matalascanas|	152|	395|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9468|	1|	Punta Umbría|	Punta Umbría|	punta-umbria|	152|	395|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9469|	1|	Isla Cristina|	Isla Cristina|	isla-cristina|	152|	395|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9470|	1|	Islantilla|	Islantilla|	islantilla|	152|	395|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9471|	5924|	Mérida|	Mérida|	merida|	152|	5925|	agencias-de-viajes-virtuales|	NULL|	NULL|
+9472|	6875|	Aranjuez|	Aranjuez|	aranjuez|	152|	6876|	capital|	40.0333|	-3.6166|
+9473|	6875|	Villanueva de la Cañada|	Villanueva de la Cañada|	villanueva-de-la-canada|	3|	6876|	municipio|	40.4467|	-4.00495|
+9474|	2715|	Ciudad Rodrigo|	Ciudad Rodrigo|	rodrigo|	152|	3741|	capital|	40.5969|	-6.5225|
+9475|	6875|	El Escorial|	El Escorial|	el-escorial|	152|	6876|	capital|	40.5847|	-4.1269|
+9476|	1515|	Ribadesella|	Ribadesella|	ribadesella|	152|	1516|	capital|	43.4459|	-5.0834|
+9478|	6875|	Collado Villalba|	Collado Villalba|	collado-villalba|	3|	6876|	municipio|	40.6333|	-4.00833|
+9479|	6875|	Cercedilla|	Cercedilla|	cercedilla|	3|	6876|	municipio|	40.7411|	-4.05694|
+9480|	6875|	Becerril de la Sierra|	Becerril de la Sierra|	becerril-de-la-sierra|	152|	6876|	capital|	40.7075|	-3.99277|
+9481|	6875|	Navacerrada|	Navacerrada|	navacerrada|	3|	6876|	municipio|	40.7331|	-4.02222|
+9482|	7056|	Cartagena|	Cartagena|	cartagena|	152|	7057|	capital|	37.6|	-0.981944|
+9483|	1|	Villacarrillo|	Villacarrillo|	villacarrillo|	152|	475|	capital|	NULL|	NULL|
+9484|	1|	Baeza|	Baeza|	baeza|	152|	475|	capital|	NULL|	NULL|
+9485|	1|	Úbeda|	Úbeda|	ubeda|	152|	475|	capital|	NULL|	NULL|
+9486|	1|	Cazorla|	Cazorla|	cazorla|	152|	475|	capital|	NULL|	NULL|
+9487|	6699|	Haro|	Haro|	haro|	152|	6700|	capital|	NULL|	NULL|
+9488|	6310|	Cambados|	Cambados|	cambados|	3|	6567|	municipio|	42.505|	-8.80782|
+9489|	6310|	Combarro|	Combarro|	combarro|	3|	6567|	municipio|	42.4319|	-8.70649|
+9490|	6310|	El Grove|	El Grove|	el-grove|	3|	6567|	municipio|	42.4785|	-8.88778|
+9491|	6310|	Finisterre|	Finisterre|	finisterre|	3|	6311|	municipio|	42|	-9|
+9492|	6310|	Mugía|	Mugía|	mugia|	3|	6311|	municipio|	43|	-9|
+9493|	6310|	Muros|	Muros|	muros|	3|	6311|	municipio|	42.7754|	-9.05934|

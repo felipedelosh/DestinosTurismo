@@ -1,0 +1,243 @@
+id	region_id	name	short_name	slug	group_id	province_id	group_slug	latitude	longitude
+21829|	21415|	Puerto Aisén|	Puerto Aisén|	puerto-aisen|	152|	21416|	capital|	-45.4035|	-72.6864|
+21830|	21415|	Coihaique|	Coihaique|	coihaique|	152|	21424|	capital|	-45.5712|	-72.0682|
+21831|	21430|	Antofagasta|	Antofagasta|	antofagasta|	152|	21431|	capital|	NULL|	NULL|
+21832|	21430|	Taltal|	Taltal|	taltal|	152|	21431|	capital|	NULL|	NULL|
+21833|	21430|	Mejillones|	Mejillones|	mejillones|	152|	21431|	capital|	NULL|	NULL|
+21834|	21430|	Calama|	Calama|	calama|	152|	21436|	capital|	NULL|	NULL|
+21835|	21430|	María Elena|	María Elena|	maria-elena|	152|	21440|	capital|	NULL|	NULL|
+21836|	21430|	Tocopilla|	Tocopilla|	tocopilla|	152|	21440|	capital|	NULL|	NULL|
+21837|	21443|	Arica|	Arica|	arica|	152|	21444|	capital|	-18.4782|	-70.3125|
+21838|	21450|	Caldera|	Caldera|	caldera|	152|	21454|	capital|	NULL|	NULL|
+21839|	21450|	Copiapó|	Copiapó|	copiapo|	152|	21454|	capital|	NULL|	NULL|
+21840|	21450|	Tierra Amarilla|	Tierra Amarilla|	tierra-amarilla|	152|	21454|	capital|	NULL|	NULL|
+21841|	21450|	Chañaral|	Chañaral|	chanaral|	152|	21451|	capital|	NULL|	NULL|
+21842|	21450|	Diego De Almagro|	Diego De Almagro|	diego-de-almagro|	152|	21451|	capital|	NULL|	NULL|
+21843|	21450|	El Salvador|	El Salvador|	el-salvador|	152|	21451|	capital|	NULL|	NULL|
+21844|	21450|	Huasco|	Huasco|	huasco|	152|	21458|	capital|	NULL|	NULL|
+21845|	21450|	Vallenar|	Vallenar|	vallenar|	152|	21458|	capital|	NULL|	NULL|
+21846|	21567|	Arauco|	Arauco|	arauco|	152|	21568|	capital|	NULL|	NULL|
+21847|	21567|	Cañete|	Cañete|	canete|	152|	21568|	capital|	NULL|	NULL|
+21848|	21567|	Curanilahue|	Curanilahue|	curanilahue|	152|	21568|	capital|	NULL|	NULL|
+21849|	21567|	Lebu|	Lebu|	lebu|	152|	21568|	capital|	NULL|	NULL|
+21850|	21567|	Los Álamos|	Los Álamos|	los-alamos|	152|	21568|	capital|	NULL|	NULL|
+21851|	21567|	Cabrero|	Cabrero|	cabrero|	152|	21576|	capital|	NULL|	NULL|
+21852|	21567|	Monte Águila|	Monte Águila|	monte-aguila|	152|	21576|	capital|	NULL|	NULL|
+21853|	21567|	La Laja|	La Laja|	la-laja|	152|	21576|	capital|	NULL|	NULL|
+21854|	21567|	Los Ángeles|	Los Ángeles|	los-angeles|	152|	21576|	capital|	NULL|	NULL|
+21855|	21567|	Mulchén|	Mulchén|	mulchen|	152|	21576|	capital|	NULL|	NULL|
+21856|	21567|	Nacimiento|	Nacimiento|	nacimiento|	152|	21576|	capital|	NULL|	NULL|
+21857|	21567|	San Rosendo|	San Rosendo|	san-rosendo|	152|	21576|	capital|	NULL|	NULL|
+21858|	21567|	Santa Bárbara|	Santa Bárbara|	santa-barbara|	152|	21576|	capital|	NULL|	NULL|
+21859|	21567|	Huépil|	Huépil|	huepil|	152|	21576|	capital|	NULL|	NULL|
+21860|	21567|	Yumbel|	Yumbel|	yumbel|	152|	21576|	capital|	NULL|	NULL|
+21861|	21567|	Chiguayante|	Chiguayante|	chiguayante|	152|	21591|	capital|	NULL|	NULL|
+21862|	21567|	Concepción|	Concepción|	concepcion|	152|	21591|	capital|	NULL|	NULL|
+21863|	21567|	Coronel|	Coronel|	coronel|	152|	21591|	capital|	NULL|	NULL|
+21864|	21567|	Hualpén|	Hualpén|	hualpen|	152|	21591|	capital|	NULL|	NULL|
+21865|	21567|	Hualqui|	Hualqui|	hualqui|	152|	21591|	capital|	NULL|	NULL|
+21866|	21567|	Lota|	Lota|	lota|	152|	21591|	capital|	NULL|	NULL|
+21867|	21567|	Penco|	Penco|	penco|	152|	21591|	capital|	NULL|	NULL|
+21868|	21567|	San Pedro De La Paz|	San Pedro De La Paz|	san-pedro-de-la-paz|	152|	21591|	capital|	NULL|	NULL|
+21869|	21567|	Santa Juana|	Santa Juana|	santa-juana|	152|	21591|	capital|	NULL|	NULL|
+21870|	21567|	Talcahuano|	Talcahuano|	talcahuano|	152|	21591|	capital|	NULL|	NULL|
+21871|	21567|	Tomé|	Tomé|	tome|	152|	21591|	capital|	NULL|	NULL|
+21872|	21567|	Bulnes|	Bulnes|	bulnes|	152|	21604|	capital|	NULL|	NULL|
+21873|	21567|	Chillán|	Chillán|	chillan|	152|	21604|	capital|	NULL|	NULL|
+21874|	21567|	Chillán Viejo|	Chillán Viejo|	chillan-viejo|	152|	21604|	capital|	NULL|	NULL|
+21875|	21567|	Coelemu|	Coelemu|	coelemu|	152|	21604|	capital|	NULL|	NULL|
+21876|	21567|	Coihueco|	Coihueco|	coihueco|	152|	21604|	capital|	NULL|	NULL|
+21877|	21567|	Quillón|	Quillón|	quillon|	152|	21604|	capital|	NULL|	NULL|
+21878|	21567|	Quirihue|	Quirihue|	quirihue|	152|	21604|	capital|	NULL|	NULL|
+21879|	21567|	San Carlos|	San Carlos|	san-carlos|	152|	21604|	capital|	NULL|	NULL|
+21880|	21567|	Yungay|	Yungay|	yungay|	152|	21604|	capital|	NULL|	NULL|
+21881|	21463|	Andacollo|	Andacollo|	andacollo|	152|	21469|	capital|	NULL|	NULL|
+21882|	21463|	Illapel|	Illapel|	illapel|	152|	21464|	capital|	NULL|	NULL|
+21883|	21463|	Los Vilos|	Los Vilos|	los-vilos|	152|	21464|	capital|	NULL|	NULL|
+21884|	21463|	Combarbalá|	Combarbalá|	combarbala|	152|	21476|	capital|	NULL|	NULL|
+21885|	21463|	Coquimbo|	Coquimbo|	coquimbo|	152|	21469|	capital|	NULL|	NULL|
+21886|	21463|	La Serena|	La Serena|	la-serena|	152|	21469|	capital|	-29.903|	-71.2514|
+21887|	21463|	Vicuña|	Vicuña|	vicuna|	152|	21469|	capital|	NULL|	NULL|
+21888|	21463|	Ovalle|	Ovalle|	ovalle|	152|	21476|	capital|	NULL|	NULL|
+21889|	21463|	Monte Patria|	Monte Patria|	monte-patria|	152|	21476|	capital|	NULL|	NULL|
+21890|	21463|	El Palqui|	El Palqui|	el-palqui|	152|	21476|	capital|	NULL|	NULL|
+21891|	21463|	Salamanca|	Salamanca|	salamanca|	152|	21464|	capital|	NULL|	NULL|
+21892|	21626|	Codegua|	Codegua|	codegua|	152|	21627|	capital|	NULL|	NULL|
+21893|	21626|	Doñihue|	Doñihue|	donihue|	152|	21627|	capital|	NULL|	NULL|
+21894|	21626|	Lo Miranda|	Lo Miranda|	lo-miranda|	152|	21627|	capital|	NULL|	NULL|
+21895|	21626|	Graneros|	Graneros|	graneros|	152|	21627|	capital|	NULL|	NULL|
+21896|	21626|	Las Cabras|	Las Cabras|	las-cabras|	152|	21627|	capital|	NULL|	NULL|
+21897|	21626|	Machalí|	Machalí|	machali|	152|	21627|	capital|	NULL|	NULL|
+21898|	21626|	San Francisco De Mostazal|	San Francisco De Mostazal|	san-francisco-de-mostazal|	152|	21627|	capital|	NULL|	NULL|
+21899|	21626|	Gultro|	Gultro|	gultro|	152|	21627|	capital|	NULL|	NULL|
+21900|	21626|	Peumo|	Peumo|	peumo|	152|	21627|	capital|	NULL|	NULL|
+21901|	21626|	Punta Diamante|	Punta Diamante|	punta-diamante|	152|	21627|	capital|	NULL|	NULL|
+21902|	21626|	Pichilemu|	Pichilemu|	pichilemu|	152|	21627|	capital|	NULL|	NULL|
+21903|	21626|	Quinta De Tilcoco|	Quinta De Tilcoco|	quinta-de-tilcoco|	152|	21627|	capital|	NULL|	NULL|
+21904|	21626|	Rancagua|	Rancagua|	rancagua|	152|	21627|	capital|	NULL|	NULL|
+21905|	21626|	Rengo|	Rengo|	rengo|	152|	21627|	capital|	NULL|	NULL|
+21906|	21626|	Requínoa|	Requínoa|	requinoa|	152|	21627|	capital|	NULL|	NULL|
+21907|	21626|	San Vicente De Taguatagua|	San Vicente De Taguatagua|	san-vicente-de-taguatagua|	152|	21627|	capital|	NULL|	NULL|
+21908|	21626|	Nancagua|	Nancagua|	nancagua|	152|	21652|	capital|	NULL|	NULL|
+21909|	21626|	Palmilla|	Palmilla|	palmilla|	152|	21652|	capital|	NULL|	NULL|
+21910|	21626|	San Fernando|	San Fernando|	san-fernando|	152|	21652|	capital|	NULL|	NULL|
+21911|	21626|	Santa Cruz|	Santa Cruz|	santa-cruz|	152|	21652|	capital|	NULL|	NULL|
+21912|	21482|	Carahue|	Carahue|	carahue|	152|	21483|	capital|	NULL|	NULL|
+21913|	21482|	Cunco|	Cunco|	cunco|	152|	21483|	capital|	NULL|	NULL|
+21914|	21482|	Freire|	Freire|	freire|	152|	21483|	capital|	NULL|	NULL|
+21915|	21482|	Gorbea|	Gorbea|	gorbea|	152|	21483|	capital|	NULL|	NULL|
+21916|	21482|	Lautaro|	Lautaro|	lautaro|	152|	21483|	capital|	NULL|	NULL|
+21917|	21482|	Loncoche|	Loncoche|	loncoche|	152|	21483|	capital|	NULL|	NULL|
+21918|	21482|	Nueva Imperial|	Nueva Imperial|	nueva-imperial|	152|	21483|	capital|	NULL|	NULL|
+21919|	21482|	Padre Las Casas|	Padre Las Casas|	padre-las-casas|	152|	21483|	capital|	NULL|	NULL|
+21920|	21482|	Pitrufquén|	Pitrufquén|	pitrufquen|	152|	21483|	capital|	NULL|	NULL|
+21921|	21482|	Pucón|	Pucón|	pucon|	152|	21483|	capital|	-39.2722|	-71.9776|
+21922|	21482|	Labranza|	Labranza|	labranza|	152|	21483|	capital|	NULL|	NULL|
+21923|	21482|	Temuco|	Temuco|	temuco|	152|	21483|	capital|	NULL|	NULL|
+21924|	21482|	Villarrica|	Villarrica|	villarrica|	152|	21483|	capital|	-39.282|	-72.2307|
+21925|	21482|	Angol|	Angol|	angol|	152|	21505|	capital|	NULL|	NULL|
+21926|	21482|	Collipulli|	Collipulli|	collipulli|	152|	21505|	capital|	NULL|	NULL|
+21927|	21482|	Curacautín|	Curacautín|	curacautin|	152|	21505|	capital|	NULL|	NULL|
+21928|	21482|	Purén|	Purén|	puren|	152|	21505|	capital|	NULL|	NULL|
+21929|	21482|	Renaico|	Renaico|	renaico|	152|	21505|	capital|	NULL|	NULL|
+21930|	21482|	Traiguén|	Traiguén|	traiguen|	152|	21505|	capital|	NULL|	NULL|
+21931|	21482|	Victoria|	Victoria|	victoria|	152|	21505|	capital|	NULL|	NULL|
+21932|	21517|	Ancud|	Ancud|	ancud|	152|	21518|	capital|	NULL|	NULL|
+21933|	21517|	Castro|	Castro|	castro|	152|	21518|	capital|	NULL|	NULL|
+21934|	21517|	Quellón|	Quellón|	quellon|	152|	21518|	capital|	NULL|	NULL|
+21935|	21517|	Calbuco|	Calbuco|	calbuco|	152|	21529|	capital|	NULL|	NULL|
+21936|	21517|	Fresia|	Fresia|	fresia|	152|	21529|	capital|	NULL|	NULL|
+21937|	21517|	Frutillar|	Frutillar|	frutillar|	152|	21529|	capital|	NULL|	NULL|
+21938|	21517|	Llanquihue|	Llanquihue|	llanquihue|	152|	21529|	capital|	NULL|	NULL|
+21939|	21517|	Los Muermos|	Los Muermos|	los-muermos|	152|	21529|	capital|	NULL|	NULL|
+21940|	21517|	Puerto Montt|	Puerto Montt|	puerto-montt|	152|	21529|	capital|	NULL|	NULL|
+21941|	21517|	Puerto Varas|	Puerto Varas|	puerto-varas|	152|	21529|	capital|	NULL|	NULL|
+21942|	21517|	Osorno|	Osorno|	osorno|	152|	21539|	capital|	NULL|	NULL|
+21943|	21517|	Purranque|	Purranque|	purranque|	152|	21539|	capital|	NULL|	NULL|
+21944|	21517|	Río Negro|	Río Negro|	rio-negro|	152|	21539|	capital|	NULL|	NULL|
+21945|	21552|	Futrono|	Futrono|	futrono|	152|	21558|	capital|	NULL|	NULL|
+21946|	21552|	La Unión|	La Unión|	la-union|	152|	21558|	capital|	NULL|	NULL|
+21947|	21552|	Lanco|	Lanco|	lanco|	152|	21558|	capital|	NULL|	NULL|
+21948|	21552|	Los Lagos|	Los Lagos|	los-lagos|	152|	21558|	capital|	NULL|	NULL|
+21949|	21552|	San José De La Mariquina|	San José De La Mariquina|	san-jose-de-la-mariquina|	152|	21558|	capital|	NULL|	NULL|
+21950|	21552|	Paillaco|	Paillaco|	paillaco|	152|	21558|	capital|	NULL|	NULL|
+21951|	21552|	Panguipulli|	Panguipulli|	panguipulli|	152|	21558|	capital|	NULL|	NULL|
+21952|	21552|	Río Bueno|	Río Bueno|	rio-bueno|	152|	21558|	capital|	NULL|	NULL|
+21953|	21552|	Valdivia|	Valdivia|	valdivia|	152|	21558|	capital|	NULL|	NULL|
+21954|	21697|	Punta Arenas|	Punta Arenas|	punta-arenas|	152|	21701|	capital|	-53.1638|	-70.917|
+21955|	21697|	Puerto Natales|	Puerto Natales|	puerto-natales|	152|	21710|	capital|	NULL|	NULL|
+21956|	21663|	Cauquenes|	Cauquenes|	cauquenes|	152|	21664|	capital|	NULL|	NULL|
+21957|	21663|	Curicó|	Curicó|	curico|	152|	21668|	capital|	NULL|	NULL|
+21958|	21663|	Hualañé|	Hualañé|	hualane|	152|	21668|	capital|	NULL|	NULL|
+21959|	21663|	Molina|	Molina|	molina|	152|	21668|	capital|	NULL|	NULL|
+21960|	21663|	Teno|	Teno|	teno|	152|	21668|	capital|	NULL|	NULL|
+21961|	21663|	Linares|	Linares|	linares|	152|	21678|	capital|	NULL|	NULL|
+21962|	21663|	Longaví|	Longaví|	longavi|	152|	21678|	capital|	NULL|	NULL|
+21963|	21663|	Parral|	Parral|	parral|	152|	21678|	capital|	NULL|	NULL|
+21964|	21663|	San Javier|	San Javier|	san-javier|	152|	21678|	capital|	NULL|	NULL|
+21965|	21663|	Villa Alegre|	Villa Alegre|	villa-alegre|	152|	21678|	capital|	NULL|	NULL|
+21966|	21663|	Constitución|	Constitución|	constitucion|	152|	21686|	capital|	NULL|	NULL|
+21967|	21663|	San Clemente|	San Clemente|	san-clemente|	152|	21686|	capital|	NULL|	NULL|
+21968|	21663|	Talca|	Talca|	talca|	152|	21686|	capital|	NULL|	NULL|
+21969|	21713|	Colina|	Colina|	colina|	152|	21714|	capital|	NULL|	NULL|
+21970|	21713|	Batuco|	Batuco|	batuco|	152|	21714|	capital|	NULL|	NULL|
+21971|	21713|	Lampa|	Lampa|	lampa|	152|	21714|	capital|	NULL|	NULL|
+21972|	21713|	Tiltil|	Tiltil|	tiltil|	152|	21714|	capital|	NULL|	NULL|
+21973|	21713|	Pirque|	Pirque|	pirque|	152|	21718|	capital|	NULL|	NULL|
+21974|	21713|	Puente Alto|	Puente Alto|	puente-alto|	152|	21718|	capital|	NULL|	NULL|
+21975|	21713|	San José De Maipo|	San José De Maipo|	san-jose-de-maipo|	152|	21718|	capital|	NULL|	NULL|
+21976|	21713|	Alto Jahuel|	Alto Jahuel|	alto-jahuel|	152|	21722|	capital|	NULL|	NULL|
+21977|	21713|	Buin|	Buin|	buin|	152|	21722|	capital|	NULL|	NULL|
+21978|	21713|	Bajos De San Agustín|	Bajos De San Agustín|	bajos-de-san-agustin|	152|	21722|	capital|	NULL|	NULL|
+21979|	21713|	Hospital|	Hospital|	hospital|	152|	21722|	capital|	NULL|	NULL|
+21980|	21713|	Paine|	Paine|	paine|	152|	21722|	capital|	NULL|	NULL|
+21981|	21713|	San Bernardo|	San Bernardo|	san-bernardo|	152|	21722|	capital|	NULL|	NULL|
+21982|	21713|	Curacaví|	Curacaví|	curacavi|	152|	21727|	capital|	NULL|	NULL|
+21983|	21713|	Melipilla|	Melipilla|	melipilla|	152|	21727|	capital|	NULL|	NULL|
+21984|	21713|	Cerrillos|	Cerrillos|	cerrillos|	152|	21733|	capital|	NULL|	NULL|
+21985|	21713|	Cerro Navía|	Cerro Navía|	cerro-navia|	152|	21733|	capital|	NULL|	NULL|
+21986|	21713|	Conchalí|	Conchalí|	conchali|	152|	21733|	capital|	NULL|	NULL|
+21987|	21713|	El Bosque|	El Bosque|	el-bosque|	152|	21733|	capital|	NULL|	NULL|
+21988|	21713|	Estación Central|	Estación Central|	estacion-central|	152|	21733|	capital|	NULL|	NULL|
+21989|	21713|	Huechuraba|	Huechuraba|	huechuraba|	152|	21733|	capital|	NULL|	NULL|
+21990|	21713|	Independencia|	Independencia|	independencia|	152|	21733|	capital|	NULL|	NULL|
+21991|	21713|	La Cisterna|	La Cisterna|	la-cisterna|	152|	21733|	capital|	NULL|	NULL|
+21992|	21713|	La Florida|	La Florida|	la-florida|	152|	21733|	capital|	NULL|	NULL|
+21993|	21713|	La Granja|	La Granja|	la-granja|	152|	21733|	capital|	NULL|	NULL|
+21994|	21713|	La Pintana|	La Pintana|	la-pintana|	152|	21733|	capital|	NULL|	NULL|
+21995|	21713|	La Reina|	La Reina|	la-reina|	152|	21733|	capital|	NULL|	NULL|
+21996|	21713|	Las Condes|	Las Condes|	las-condes|	152|	21733|	capital|	NULL|	NULL|
+21997|	21713|	Lo Barnechea|	Lo Barnechea|	lo-barnechea|	152|	21733|	capital|	NULL|	NULL|
+21998|	21713|	Lo Espejo|	Lo Espejo|	lo-espejo|	152|	21733|	capital|	NULL|	NULL|
+21999|	21713|	Lo Prado|	Lo Prado|	lo-prado|	152|	21733|	capital|	NULL|	NULL|
+22000|	21713|	Macul|	Macul|	macul|	152|	21733|	capital|	NULL|	NULL|
+22001|	21713|	Maipú|	Maipú|	maipu|	152|	21733|	capital|	NULL|	NULL|
+22002|	21713|	Ñuñoa|	Ñuñoa|	nunoa|	152|	21733|	capital|	NULL|	NULL|
+22003|	21713|	Pedro Aguirre Cerda|	Pedro Aguirre Cerda|	pedro-aguirre-cerda|	152|	21733|	capital|	NULL|	NULL|
+22004|	21713|	Peñalolén|	Peñalolén|	penalolen|	152|	21733|	capital|	NULL|	NULL|
+22005|	21713|	Providencia|	Providencia|	providencia|	152|	21733|	capital|	NULL|	NULL|
+22006|	21713|	Pudahuel|	Pudahuel|	pudahuel|	152|	21733|	capital|	NULL|	NULL|
+22007|	21713|	Quilicura|	Quilicura|	quilicura|	152|	21733|	capital|	NULL|	NULL|
+22008|	21713|	Quinta Normal|	Quinta Normal|	quinta-normal|	152|	21733|	capital|	NULL|	NULL|
+22009|	21713|	Recoleta|	Recoleta|	recoleta|	152|	21733|	capital|	NULL|	NULL|
+22010|	21713|	Renca|	Renca|	renca|	152|	21733|	capital|	NULL|	NULL|
+22011|	21713|	San Joaquín|	San Joaquín|	san-joaquin|	152|	21733|	capital|	NULL|	NULL|
+22012|	21713|	San Miguel|	San Miguel|	san-miguel|	152|	21733|	capital|	NULL|	NULL|
+22013|	21713|	San Ramón|	San Ramón|	san-ramon|	152|	21733|	capital|	NULL|	NULL|
+22014|	21713|	Santiago|	Santiago|	santiago|	152|	21733|	capital|	-33.4488|	-70.6692|
+22015|	21713|	Vitacura|	Vitacura|	vitacura|	152|	21733|	capital|	NULL|	NULL|
+22016|	21713|	El Monte|	El Monte|	el-monte|	152|	21766|	capital|	NULL|	NULL|
+22017|	21713|	Isla De Maipo|	Isla De Maipo|	isla-de-maipo|	152|	21766|	capital|	NULL|	NULL|
+22018|	21713|	La Islita|	La Islita|	la-islita|	152|	21722|	capital|	NULL|	NULL|
+22019|	21713|	Padre Hurtado|	Padre Hurtado|	padre-hurtado|	152|	21766|	capital|	NULL|	NULL|
+22020|	21713|	Peñaflor|	Peñaflor|	penaflor|	152|	21766|	capital|	NULL|	NULL|
+22021|	21713|	Talagante|	Talagante|	talangate|	152|	21766|	capital|	NULL|	NULL|
+22022|	21772|	Alto Hospicio|	Alto Hospicio|	alto-hospicio|	152|	21773|	capital|	NULL|	NULL|
+22023|	21772|	Iquique|	Iquique|	iquique|	152|	21773|	capital|	-20.217|	-70.1376|
+22024|	21772|	Pozo Almonte|	Pozo Almonte|	pozo-almonte|	152|	21773|	capital|	NULL|	NULL|
+22025|	21782|	Cabildo|	Cabildo|	cabildo|	152|	21795|	capital|	NULL|	NULL|
+22026|	21782|	Hanga Roa|	Hanga Roa|	hanga-roa|	152|	21783|	capital|	NULL|	NULL|
+22027|	21782|	Calle Larga|	Calle Larga|	calle-larga|	152|	21785|	capital|	NULL|	NULL|
+22028|	21782|	Los Andes|	Los Andes|	los-andes|	152|	21785|	capital|	NULL|	NULL|
+22029|	21782|	Rinconada|	Rinconada|	rinconada|	152|	21785|	capital|	NULL|	NULL|
+22030|	21782|	San Esteban|	San Esteban|	san-esteban|	152|	21785|	capital|	NULL|	NULL|
+22031|	21782|	La Ligua|	La Ligua|	la-ligua|	152|	21795|	capital|	NULL|	NULL|
+22032|	21782|	La Calera|	La Calera|	la-calera|	152|	21801|	capital|	NULL|	NULL|
+22033|	21782|	Hijuelas|	Hijuelas|	hijuelas|	152|	21801|	capital|	NULL|	NULL|
+22034|	21782|	La Cruz|	La Cruz|	la-cruz|	152|	21801|	capital|	NULL|	NULL|
+22035|	21782|	Limache|	Limache|	limache|	152|	21801|	capital|	NULL|	NULL|
+22036|	21782|	Nogales|	Nogales|	nogales|	152|	21801|	capital|	NULL|	NULL|
+22037|	21782|	El Melón|	El Melón|	el-melon|	152|	21801|	capital|	NULL|	NULL|
+22038|	21782|	Olmué|	Olmué|	olmue|	152|	21801|	capital|	NULL|	NULL|
+22039|	21782|	Quillota|	Quillota|	quillota|	152|	21801|	capital|	NULL|	NULL|
+22040|	21782|	Algarrobo|	Algarrobo|	algarrobo|	152|	21807|	capital|	NULL|	NULL|
+22041|	21782|	Cartagena|	Cartagena|	cartagena|	152|	21807|	capital|	NULL|	NULL|
+22042|	21782|	El Quisco|	El Quisco|	el-quisco|	152|	21807|	capital|	NULL|	NULL|
+22043|	21782|	El Tabo|	El Tabo|	el-tabo|	152|	21807|	capital|	NULL|	NULL|
+22044|	21782|	San Antonio|	San Antonio|	san-antonio|	152|	21807|	capital|	NULL|	NULL|
+22045|	21782|	Santo Domingo|	Santo Domingo|	santo-domingo|	152|	21807|	capital|	NULL|	NULL|
+22046|	21782|	Catemu|	Catemu|	catemu|	152|	21814|	capital|	NULL|	NULL|
+22047|	21782|	Llaillay|	Llaillay|	llaillay|	152|	21814|	capital|	NULL|	NULL|
+22048|	21782|	Putaendo|	Putaendo|	putaendo|	152|	21814|	capital|	NULL|	NULL|
+22049|	21782|	Villa Los Almendros|	Villa Los Almendros|	villa-los-almendros|	152|	21814|	capital|	NULL|	NULL|
+22050|	21782|	Santa María|	Santa María|	santa-maria|	152|	21821|	capital|	NULL|	NULL|
+22051|	21782|	Casablanca|	Casablanca|	casablanca|	152|	21821|	capital|	-33.319|	-71.4076|
+22052|	21782|	Concón|	Concón|	concon|	152|	21821|	capital|	NULL|	NULL|
+22053|	21782|	Las Ventanas|	Las Ventanas|	las-ventanas|	152|	21821|	capital|	NULL|	NULL|
+22054|	21782|	Quilpué|	Quilpué|	quilpue|	152|	21821|	capital|	NULL|	NULL|
+22055|	21782|	Quintero|	Quintero|	quintero|	152|	21821|	capital|	NULL|	NULL|
+22056|	21782|	Placilla De Peñuelas|	Placilla De Peñuelas|	placilla-de-penuelas|	152|	21821|	capital|	NULL|	NULL|
+22057|	21782|	Valparaíso|	Valparaíso|	valparaiso|	152|	21821|	capital|	-33.0472|	-71.6126|
+22058|	21782|	Villa Alemana|	Villa Alemana|	villa-alemana|	152|	21821|	capital|	NULL|	NULL|
+22059|	21782|	Viña Del Mar|	Viña Del Mar|	vina-del-mar|	152|	21821|	capital|	-33.0247|	-71.5523|
+22064|	21443|	Poblado de Putre|	Poblado de Putre|	poblado-de-putre|	3|	21447|	distrito|	-18.1451|	-69.523|
+22069|	21443|	Arica|	Arica|	arica-0b1d435e-695d-40d5-853b-d399b683b3f7|	NULL|	21444|	otros|	NULL|	NULL|
+22077|	21443|	Poblado de Parinacota|	Poblado de Parinacota|	poblado-de-parinacota|	152|	21447|	capital|	-18.2|	-69.2667|
+22225|	22224|	Chile chico|	Chile chico|	chile-chico|	NULL|	NULL|	otros|	NULL|	NULL|
+22226|	22224|	Puerto Tranquilo|	Puerto Tranquilo|	puerto-tranquilo|	NULL|	NULL|	otros|	NULL|	NULL|
+22227|	21430|	San Pedro de Atacama|	San Pedro de Atacama|	san-pedro-de-atacama|	152|	NULL|	capital|	NULL|	NULL|
+22228|	22224|	Coyhaique|	Coyhaique|	coyhaique|	NULL|	NULL|	otros|	NULL|	NULL|
+22229|	21782|	Isla de Pascua|	Isla de Pascua|	isla-de-pascua|	NULL|	NULL|	otros|	NULL|	NULL|
+22230|	21697|	Torres de Paine|	Torres de Paine|	torres-de-paine|	NULL|	NULL|	otros|	NULL|	NULL|
+22231|	22224|	Puerto Rio Tranquilo|	Puerto Rio Tranquilo|	puerto-rio-tranquilo|	NULL|	NULL|	otros|	NULL|	NULL|
+22233|	NULL|	Puerto Lopezo|	Puerto Lopez|	puerto-lopez|	NULL|	NULL|	otros|	NULL|	NULL|

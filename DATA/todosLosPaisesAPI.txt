@@ -1,0 +1,227 @@
+   1 | AF    | AFGHANISTAN                                | Afganistán                                 | AFG   |       4 | Afganistán
+   2 | AL    | ALBANIA                                    | Albania                                    | ALB   |       8 | Albania
+   3 | DZ    | ALGERIA                                    | Algeria                                    | DZA   |      12 | Argelia
+   4 | AS    | AMERICAN SAMOA                             | American Samoa                             | ASM   |      16 | Samoa Americana
+   5 | AD    | ANDORRA                                    | Andorra                                    | AND   |      20 | Andorra
+  39 | TD    | CHAD                                       | Chad                                       | TCD   |     148 | Chad
+ 110 | LV    | LATVIA                                     | Latvia                                     | LVA   |     428 | Letonia
+ 124 | ML    | MALI                                       | Mali                                       | MLI   |     466 | Mali
+   6 | AO    | ANGOLA                                     | Angola                                     | AGO   |      24 | Angola
+   7 | AI    | ANGUILLA                                   | Anguilla                                   | AIA   |     660 | Anguila
+   8 | AG    | ANTIGUA AND BARBUDA                        | Antigua and Barbuda                        | ATG   |      28 | Antigua y Barbuda
+  10 | AM    | ARMENIA                                    | Armenia                                    | ARM   |      51 | Armenia
+  11 | AW    | ARUBA                                      | Aruba                                      | ABW   |     533 | Aruba
+  12 | AU    | AUSTRALIA                                  | Australia                                  | AUS   |      36 | Australia
+  13 | AT    | AUSTRIA                                    | Austria                                    | AUT   |      40 | Austria
+  14 | AZ    | AZERBAIJAN                                 | Azerbaijan                                 | AZE   |      31 | Azerbaiyán
+  15 | BS    | BAHAMAS                                    | Bahamas                                    | BHS   |      44 | Bahamas
+  16 | BH    | BAHRAIN                                    | Bahrain                                    | BHR   |      48 | Bahrein
+  17 | BD    | BANGLADESH                                 | Bangladesh                                 | BGD   |      50 | Bangladesh
+  18 | BB    | BARBADOS                                   | Barbados                                   | BRB   |      52 | Barbados
+  19 | BY    | BELARUS                                    | Belarus                                    | BLR   |     112 | Bielorrusia
+  20 | BE    | BELGIUM                                    | Belgium                                    | BEL   |      56 | Bélgica
+  22 | BJ    | BENIN                                      | Benin                                      | BEN   |     204 | Benin
+  23 | BM    | BERMUDA                                    | Bermuda                                    | BMU   |      60 | Islas Bermudas
+  24 | BT    | BHUTAN                                     | Bhutan                                     | BTN   |      64 | Bután
+  26 | BA    | BOSNIA AND HERZEGOVINA                     | Bosnia and Herzegovina                     | BIH   |      70 | Bosnia y Herzegovina
+  27 | BW    | BOTSWANA                                   | Botswana                                   | BWA   |      72 | Botsuana
+  28 | BR    | BRAZIL                                     | Brazil                                     | BRA   |      76 | Brasil
+  29 | BN    | BRUNEI DARUSSALAM                          | Brunei Darussalam                          | BRN   |      96 | Brunei Darussalam
+  30 | BG    | BULGARIA                                   | Bulgaria                                   | BGR   |     100 | Bulgaria
+  31 | BF    | BURKINA FASO                               | Burkina Faso                               | BFA   |     854 | Burkina Faso
+  32 | BI    | BURUNDI                                    | Burundi                                    | BDI   |     108 | Burundi
+  33 | KH    | CAMBODIA                                   | Cambodia                                   | KHM   |     116 | Camboya
+  34 | CM    | CAMEROON                                   | Cameroon                                   | CMR   |     120 | Camerún
+  35 | CA    | CANADA                                     | Canada                                     | CAN   |     124 | Canadá
+  36 | CV    | CAPE VERDE                                 | Cape Verde                                 | CPV   |     132 | Cabo Verde
+  37 | KY    | CAYMAN ISLANDS                             | Cayman Islands                             | CYM   |     136 | Islas Caimán
+  38 | CF    | CENTRAL AFRICAN REPUBLIC                   | Central African Republic                   | CAF   |     140 | República Centroafricana
+  41 | CN    | CHINA                                      | China                                      | CHN   |     156 | China
+  43 | KM    | COMOROS                                    | Comoros                                    | COM   |     174 | Comoras
+  44 | CG    | CONGO                                      | Congo                                      | COG   |     178 | Congo
+  45 | CD    | CONGO, THE DEMOCRATIC REPUBLIC OF THE      | Congo, the Democratic Republic of the      | COD   |     180 | República Democrática del Congo
+  46 | CK    | COOK ISLANDS                               | Cook Islands                               | COK   |     184 | Islas Cook
+  48 | CI    | COTE D'IVOIRE                              | Cote D'Ivoire                              | CIV   |     384 | Costa de Marfil
+  49 | HR    | CROATIA                                    | Croatia                                    | HRV   |     191 | Croacia
+  51 | CY    | CYPRUS                                     | Cyprus                                     | CYP   |     196 | Chipre
+  52 | CZ    | CZECH REPUBLIC                             | Czech Republic                             | CZE   |     203 | Republica Checa
+  53 | DK    | DENMARK                                    | Denmark                                    | DNK   |     208 | Dinamarca
+  54 | DJ    | DJIBOUTI                                   | Djibouti                                   | DJI   |     262 | Djibouti
+  55 | DM    | DOMINICA                                   | Dominica                                   | DMA   |     212 | Dominica
+  58 | EG    | EGYPT                                      | Egypt                                      | EGY   |     818 | Egipto
+  59 | SV    | EL SALVADOR                                | El Salvador                                | SLV   |     222 | El Salvador
+  60 | GQ    | EQUATORIAL GUINEA                          | Equatorial Guinea                          | GNQ   |     226 | Guinea Ecuatorial
+  61 | ER    | ERITREA                                    | Eritrea                                    | ERI   |     232 | Eritrea
+  62 | EE    | ESTONIA                                    | Estonia                                    | EST   |     233 | Estonia
+  63 | ET    | ETHIOPIA                                   | Ethiopia                                   | ETH   |     231 | Etiopía
+  64 | FK    | FALKLAND ISLANDS (MALVINAS)                | Falkland Islands (Malvinas)                | FLK   |     238 | Islas Malvinas (Falkland Islands)
+  65 | FO    | FAROE ISLANDS                              | Faroe Islands                              | FRO   |     234 | Islas Faroe
+  66 | FJ    | FIJI                                       | Fiji                                       | FJI   |     242 | Fiyi
+  67 | FI    | FINLAND                                    | Finland                                    | FIN   |     246 | Finlandia
+  68 | FR    | FRANCE                                     | France                                     | FRA   |     250 | Francia
+  69 | GF    | FRENCH GUIANA                              | French Guiana                              | GUF   |     254 | Guayana Francesa
+  70 | PF    | FRENCH POLYNESIA                           | French Polynesia                           | PYF   |     258 | Polinesia francés
+  71 | GA    | GABON                                      | Gabon                                      | GAB   |     266 | Gabón
+  72 | GM    | GAMBIA                                     | Gambia                                     | GMB   |     270 | Gambia
+  73 | GE    | GEORGIA                                    | Georgia                                    | GEO   |     268 | Georgia
+  74 | DE    | GERMANY                                    | Germany                                    | DEU   |     276 | Alemania
+  75 | GH    | GHANA                                      | Ghana                                      | GHA   |     288 | Ghana
+  76 | GI    | GIBRALTAR                                  | Gibraltar                                  | GIB   |     292 | Gibraltar
+  77 | GR    | GREECE                                     | Greece                                     | GRC   |     300 | Grecia
+  78 | GL    | GREENLAND                                  | Greenland                                  | GRL   |     304 | Groenlandia
+  79 | GD    | GRENADA                                    | Grenada                                    | GRD   |     308 | Granada
+  80 | GP    | GUADELOUPE                                 | Guadeloupe                                 | GLP   |     312 | Guadalupe
+  81 | GU    | GUAM                                       | Guam                                       | GUM   |     316 | Guam
+  83 | GN    | GUINEA                                     | Guinea                                     | GIN   |     324 | Guinea
+  84 | GW    | GUINEA-BISSAU                              | Guinea-Bissau                              | GNB   |     624 | Guinea-Bissau
+  85 | GY    | GUYANA                                     | Guyana                                     | GUY   |     328 | Guayana
+  86 | HT    | HAITI                                      | Haiti                                      | HTI   |     332 | Haití
+  87 | VA    | HOLY SEE (VATICAN CITY STATE)              | Holy See (Vatican City State)              | VAT   |     336 | Santa Sede (Estado de la Ciudad del Vaticano)
+  88 | HN    | HONDURAS                                   | Honduras                                   | HND   |     340 | Honduras
+  89 | HK    | HONG KONG                                  | Hong Kong                                  | HKG   |     344 | Hong Kong
+  90 | HU    | HUNGARY                                    | Hungary                                    | HUN   |     348 | Hungría
+  91 | IS    | ICELAND                                    | Iceland                                    | ISL   |     352 | Islandia
+  92 | IN    | INDIA                                      | India                                      | IND   |     356 | India
+  93 | ID    | INDONESIA                                  | Indonesia                                  | IDN   |     360 | Indonesia
+  94 | IR    | IRAN, ISLAMIC REPUBLIC OF                  | Iran, Islamic Republic of                  | IRN   |     364 | República Islámica de Irán
+  95 | IQ    | IRAQ                                       | Iraq                                       | IRQ   |     368 | Irak
+  96 | IE    | IRELAND                                    | Ireland                                    | IRL   |     372 | Irlanda
+  97 | IL    | ISRAEL                                     | Israel                                     | ISR   |     376 | Israel
+  98 | IT    | ITALY                                      | Italy                                      | ITA   |     380 | Italia
+  99 | JM    | JAMAICA                                    | Jamaica                                    | JAM   |     388 | Jamaica
+ 100 | JP    | JAPAN                                      | Japan                                      | JPN   |     392 | Japón
+ 101 | JO    | JORDAN                                     | Jordan                                     | JOR   |     400 | Jordán
+ 102 | KZ    | KAZAKHSTAN                                 | Kazakhstan                                 | KAZ   |     398 | Kazajstán
+ 103 | KE    | KENYA                                      | Kenya                                      | KEN   |     404 | Kenia
+ 104 | KI    | KIRIBATI                                   | Kiribati                                   | KIR   |     296 | Kiribati
+ 105 | KP    | KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF     | Korea, Democratic People's Republic of     | PRK   |     408 | República Popular Democrática de Corea
+ 106 | KR    | KOREA, REPUBLIC OF                         | Korea, Republic of                         | KOR   |     410 | República de Corea
+ 107 | KW    | KUWAIT                                     | Kuwait                                     | KWT   |     414 | Kuwait
+ 108 | KG    | KYRGYZSTAN                                 | Kyrgyzstan                                 | KGZ   |     417 | Kirguistán
+   9 | AR    | ARGENTINA                                  | Argentina                                  | ARG   |      32 | Argentina
+  21 | BZ    | BELIZE                                     | Belize                                     | BLZ   |      84 | Belice
+ 109 | LA    | LAO PEOPLE'S DEMOCRATIC REPUBLIC           | Lao People's Democratic Republic           | LAO   |     418 | República Democrática Popular Lao
+ 111 | LB    | LEBANON                                    | Lebanon                                    | LBN   |     422 | Líbano
+ 112 | LS    | LESOTHO                                    | Lesotho                                    | LSO   |     426 | Lesoto
+ 113 | LR    | LIBERIA                                    | Liberia                                    | LBR   |     430 | Liberia
+ 114 | LY    | LIBYAN ARAB JAMAHIRIYA                     | Libyan Arab Jamahiriya                     | LBY   |     434 | Jamahiriya Árabe Libia
+ 115 | LI    | LIECHTENSTEIN                              | Liechtenstein                              | LIE   |     438 | Liechtenstein
+ 116 | LT    | LITHUANIA                                  | Lithuania                                  | LTU   |     440 | Lituania
+ 117 | LU    | LUXEMBOURG                                 | Luxembourg                                 | LUX   |     442 | Luxemburgo
+ 118 | MO    | MACAO                                      | Macao                                      | MAC   |     446 | Macao
+ 119 | MK    | MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF | Macedonia, the Former Yugoslav Republic of | MKD   |     807 | Macedonia
+ 120 | MG    | MADAGASCAR                                 | Madagascar                                 | MDG   |     450 | Madagascar
+ 121 | MW    | MALAWI                                     | Malawi                                     | MWI   |     454 | Malawi
+ 122 | MY    | MALAYSIA                                   | Malaysia                                   | MYS   |     458 | Malasia
+ 123 | MV    | MALDIVES                                   | Maldives                                   | MDV   |     462 | Maldivas
+ 125 | MT    | MALTA                                      | Malta                                      | MLT   |     470 | Malta
+ 126 | MH    | MARSHALL ISLANDS                           | Marshall Islands                           | MHL   |     584 | Islas Marshall
+ 127 | MQ    | MARTINIQUE                                 | Martinique                                 | MTQ   |     474 | Martinica
+ 128 | MR    | MAURITANIA                                 | Mauritania                                 | MRT   |     478 | Mauritania
+ 129 | MU    | MAURITIUS                                  | Mauritius                                  | MUS   |     480 | Mauricio
+ 131 | FM    | MICRONESIA, FEDERATED STATES OF            | Micronesia, Federated States of            | FSM   |     583 | Estados Federados de Micronesia
+ 132 | MD    | MOLDOVA, REPUBLIC OF                       | Moldova, Republic of                       | MDA   |     498 | República de Moldavia
+ 133 | MC    | MONACO                                     | Monaco                                     | MCO   |     492 | Mónaco
+ 134 | MN    | MONGOLIA                                   | Mongolia                                   | MNG   |     496 | Mongolia
+ 135 | MS    | MONTSERRAT                                 | Montserrat                                 | MSR   |     500 | Montserrat
+ 136 | MA    | MOROCCO                                    | Morocco                                    | MAR   |     504 | Marruecos
+ 137 | MZ    | MOZAMBIQUE                                 | Mozambique                                 | MOZ   |     508 | Mozambique
+ 138 | MM    | MYANMAR                                    | Myanmar                                    | MMR   |     104 | Myanmar
+ 139 | NA    | NAMIBIA                                    | Namibia                                    | NAM   |     516 | Namibia
+ 140 | NR    | NAURU                                      | Nauru                                      | NRU   |     520 | Nauru
+ 141 | NP    | NEPAL                                      | Nepal                                      | NPL   |     524 | Nepal
+ 142 | NL    | NETHERLANDS                                | Netherlands                                | NLD   |     528 | Países Bajos
+ 143 | AN    | NETHERLANDS ANTILLES                       | Netherlands Antilles                       | ANT   |     530 | Antillas Holandesas
+ 144 | NC    | NEW CALEDONIA                              | New Caledonia                              | NCL   |     540 | Nueva Caledonia
+ 145 | NZ    | NEW ZEALAND                                | New Zealand                                | NZL   |     554 | Nueva Zelanda
+ 146 | NI    | NICARAGUA                                  | Nicaragua                                  | NIC   |     558 | Nicaragua
+ 147 | NE    | NIGER                                      | Niger                                      | NER   |     562 | Níger
+ 148 | NG    | NIGERIA                                    | Nigeria                                    | NGA   |     566 | Nigeria
+ 149 | NU    | NIUE                                       | Niue                                       | NIU   |     570 | Niue
+ 150 | NF    | NORFOLK ISLAND                             | Norfolk Island                             | NFK   |     574 | Isla Norfolk
+ 151 | MP    | NORTHERN MARIANA ISLANDS                   | Northern Mariana Islands                   | MNP   |     580 | Islas Marianas del Norte
+ 152 | NO    | NORWAY                                     | Norway                                     | NOR   |     578 | Noruega
+ 153 | OM    | OMAN                                       | Oman                                       | OMN   |     512 | Omán
+ 154 | PK    | PAKISTAN                                   | Pakistan                                   | PAK   |     586 | Pakistán
+ 155 | PW    | PALAU                                      | Palau                                      | PLW   |     585 | Palau
+ 157 | PG    | PAPUA NEW GUINEA                           | Papua New Guinea                           | PNG   |     598 | Papúa Nueva Guinea
+ 160 | PH    | PHILIPPINES                                | Philippines                                | PHL   |     608 | Filipinas
+ 161 | PN    | PITCAIRN                                   | Pitcairn                                   | PCN   |     612 | Pitcairn
+ 162 | PL    | POLAND                                     | Poland                                     | POL   |     616 | Polonia
+ 163 | PT    | PORTUGAL                                   | Portugal                                   | PRT   |     620 | Portugal
+ 164 | PR    | PUERTO RICO                                | Puerto Rico                                | PRI   |     630 | Puerto Rico
+ 165 | QA    | QATAR                                      | Qatar                                      | QAT   |     634 | Katar
+ 166 | RE    | REUNION                                    | Reunion                                    | REU   |     638 | Reunión
+ 167 | RO    | ROMANIA                                    | Romania                                    | ROM   |     642 | Rumania
+ 168 | RU    | RUSSIAN FEDERATION                         | Russian Federation                         | RUS   |     643 | Federación Rusa
+ 169 | RW    | RWANDA                                     | Rwanda                                     | RWA   |     646 | Ruanda
+ 170 | SH    | SAINT HELENA                               | Saint Helena                               | SHN   |     654 | Santa helena
+ 171 | KN    | SAINT KITTS AND NEVIS                      | Saint Kitts and Nevis                      | KNA   |     659 | San Cristóbal y Nieves
+ 172 | LC    | SAINT LUCIA                                | Saint Lucia                                | LCA   |     662 | Santa Lucía
+ 173 | PM    | SAINT PIERRE AND MIQUELON                  | Saint Pierre and Miquelon                  | SPM   |     666 | San Pedro y Miquelón
+ 174 | VC    | SAINT VINCENT AND THE GRENADINES           | Saint Vincent and the Grenadines           | VCT   |     670 | San Vicente y las Granadinas
+ 175 | WS    | SAMOA                                      | Samoa                                      | WSM   |     882 | Samoa
+ 176 | SM    | SAN MARINO                                 | San Marino                                 | SMR   |     674 | San Marino
+ 177 | ST    | SAO TOME AND PRINCIPE                      | Sao Tome and Principe                      | STP   |     678 | Santo Tomé y Príncipe
+ 178 | SA    | SAUDI ARABIA                               | Saudi Arabia                               | SAU   |     682 | Arabia Saudita
+ 179 | SN    | SENEGAL                                    | Senegal                                    | SEN   |     686 | Senegal
+ 180 | SC    | SEYCHELLES                                 | Seychelles                                 | SYC   |     690 | Seychelles
+ 181 | SL    | SIERRA LEONE                               | Sierra Leone                               | SLE   |     694 | Sierra Leona
+ 182 | SG    | SINGAPORE                                  | Singapore                                  | SGP   |     702 | Singapur
+ 183 | SK    | SLOVAKIA                                   | Slovakia                                   | SVK   |     703 | Eslovaquia
+ 184 | SI    | SLOVENIA                                   | Slovenia                                   | SVN   |     705 | Eslovenia
+ 185 | SB    | SOLOMON ISLANDS                            | Solomon Islands                            | SLB   |      90 | Islas Salomón
+ 186 | SO    | SOMALIA                                    | Somalia                                    | SOM   |     706 | Somalia
+ 187 | ZA    | SOUTH AFRICA                               | South Africa                               | ZAF   |     710 | Sudáfrica
+ 189 | LK    | SRI LANKA                                  | Sri Lanka                                  | LKA   |     144 | Sri Lanka
+ 190 | SD    | SUDAN                                      | Sudan                                      | SDN   |     736 | Sudán
+ 191 | SR    | SURINAME                                   | Suriname                                   | SUR   |     740 | Surinam
+ 192 | SJ    | SVALBARD AND JAN MAYEN                     | Svalbard and Jan Mayen                     | SJM   |     744 | Svalbard y Jan Mayen
+ 193 | SZ    | SWAZILAND                                  | Swaziland                                  | SWZ   |     748 | Swazilandia
+ 194 | SE    | SWEDEN                                     | Sweden                                     | SWE   |     752 | Suecia
+ 195 | CH    | SWITZERLAND                                | Switzerland                                | CHE   |     756 | Suiza
+ 196 | SY    | SYRIAN ARAB REPUBLIC                       | Syrian Arab Republic                       | SYR   |     760 | República Árabe Siria
+ 197 | TW    | TAIWAN, PROVINCE OF CHINA                  | Taiwan, Province of China                  | TWN   |     158 | Taiwan, provincia de China
+ 198 | TJ    | TAJIKISTAN                                 | Tajikistan                                 | TJK   |     762 | Tayikistán
+ 199 | TZ    | TANZANIA, UNITED REPUBLIC OF               | Tanzania, United Republic of               | TZA   |     834 | República Unida de Tanzania
+ 200 | TH    | THAILAND                                   | Thailand                                   | THA   |     764 | Tailandia
+ 201 | TG    | TOGO                                       | Togo                                       | TGO   |     768 | Togo
+ 202 | TK    | TOKELAU                                    | Tokelau                                    | TKL   |     772 | Tokelau
+ 203 | TO    | TONGA                                      | Tonga                                      | TON   |     776 | Tonga
+ 204 | TT    | TRINIDAD AND TOBAGO                        | Trinidad and Tobago                        | TTO   |     780 | Trinidad y Tobago
+ 205 | TN    | TUNISIA                                    | Tunisia                                    | TUN   |     788 | Túnez
+ 206 | TR    | TURKEY                                     | Turkey                                     | TUR   |     792 | Turquía
+ 207 | TM    | TURKMENISTAN                               | Turkmenistan                               | TKM   |     795 | Turkmenistán
+ 208 | TC    | TURKS AND CAICOS ISLANDS                   | Turks and Caicos Islands                   | TCA   |     796 | Islas Turcas y Caicos
+ 209 | TV    | TUVALU                                     | Tuvalu                                     | TUV   |     798 | Tuvalu
+ 210 | UG    | UGANDA                                     | Uganda                                     | UGA   |     800 | Uganda
+ 211 | UA    | UKRAINE                                    | Ukraine                                    | UKR   |     804 | Ucrania
+ 130 | MX    | MEXICO                                     | Mexico                                     | MEX   |     484 | Mexico
+ 156 | PA    | PANAMA                                     | Panama                                     | PAN   |     591 | Panamá
+ 212 | AE    | UNITED ARAB EMIRATES                       | United Arab Emirates                       | ARE   |     784 | Emiratos Árabes Unidos
+ 213 | GB    | UNITED KINGDOM                             | United Kingdom                             | GBR   |     826 | Reino Unido
+ 214 | US    | UNITED STATES                              | United States                              | USA   |     840 | Estados Unidos
+ 216 | UZ    | UZBEKISTAN                                 | Uzbekistan                                 | UZB   |     860 | Uzbekistán
+ 217 | VU    | VANUATU                                    | Vanuatu                                    | VUT   |     548 | Vanuatu
+ 218 | VE    | VENEZUELA                                  | Venezuela                                  | VEN   |     862 | Venezuela
+ 219 | VN    | VIET NAM                                   | Viet Nam                                   | VNM   |     704 | Vietnam
+ 220 | VG    | VIRGIN ISLANDS, BRITISH                    | Virgin Islands, British                    | VGB   |      92 | Islas Vírgenes Británicas
+ 221 | VI    | VIRGIN ISLANDS, U.S.                       | Virgin Islands, U.s.                       | VIR   |     850 | Islas Vírgenes, EE.UU.
+ 222 | WF    | WALLIS AND FUTUNA                          | Wallis and Futuna                          | WLF   |     876 | Wallis y Futuna
+ 223 | EH    | WESTERN SAHARA                             | Western Sahara                             | ESH   |     732 | Sahara Occidental
+ 224 | YE    | YEMEN                                      | Yemen                                      | YEM   |     887 | Yemen
+ 225 | ZM    | ZAMBIA                                     | Zambia                                     | ZMB   |     894 | Zambia
+ 226 | ZW    | ZIMBABWE                                   | Zimbabwe                                   | ZWE   |     716 | Zimbabue
+ 227 | NN    | NONE                                       | No proporcionado                           | NON   |         | No proporcionado
+  42 | CO    | COLOMBIA                                   | Colombia                                   | COL   |     170 | Colombia
+  57 | EC    | ECUADOR                                    | Ecuador                                    | ECU   |     218 | Ecuador
+ 188 | ES    | SPAIN                                      | España                                     | ESP   |     724 | España
+ 159 | PE    | PERU                                       | Peru                                       | PER   |     604 | Perú
+  40 | CL    | CHILE                                      | Chile                                      | CHL   |     152 | Chile
+  25 | BO    | BOLIVIA                                    | Bolivia                                    | BOL   |      68 | Bolivia
+  47 | CR    | COSTA RICA                                 | Costa Rica                                 | CRI   |     188 | Costa Rica
+  50 | CU    | CUBA                                       | Cuba                                       | CUB   |     192 | Cuba
+  56 | DO    | DOMINICAN REPUBLIC                         | Dominican Republic                         | DOM   |     214 | República Dominicana
+  82 | GT    | GUATEMALA                                  | Guatemala                                  | GTM   |     320 | Guatemala
+ 158 | PY    | PARAGUAY                                   | Paraguay                                   | PRY   |     600 | Paraguay
+ 215 | UY    | URUGUAY                                    | Uruguay                                    | URY   |     858 | Uruguay

@@ -1,0 +1,270 @@
+Cargado... los headers
+Cargado los host id de los paises
+Se cargo toda la info de paises
+En Peru se cargaron:  207  Sitios. 
+En chile se cargaron:  242  Sitios. 
+En colombia se cargaron:  1124  Sitios. 
+En ecuador se cargando:  164  Sitios. 
+En españa se cargando:  142  Sitios. 
+En mexico se cargando:  681  Sitios. 
+En  argentina  se han cargado  170  Sitios 
+En  costa rica  se han cargado  86  Sitios 
+En  panamá  se han cargado  605  Sitios 
+En  guatemala  se han cargado  341  Sitios 
+En  república dominicana  se han cargado  156  Sitios 
+En  cuba  se han cargado  170  Sitios 
+En  uruguay  se han cargado  72  Sitios 
+En  paraguay  se han cargado  255  Sitios 
+En  bolivia  se han cargado  337  Sitios 
+En  belice  se han cargado  123  Sitios 
+En  sudafrica  se han cargado  2  Sitios 
+Exportando el Excel...
+Creando info de argentina... TOTAL INSETR:  170
+Creando info de belice... TOTAL INSETR:  123
+Creando info de sudáfrica... TOTAL INSETR:  2
+Creando info de mexico... TOTAL INSETR:  681
+Creando info de panamá... TOTAL INSETR:  605
+Creando info de colombia... TOTAL INSETR:  1124
+Creando info de ecuador... TOTAL INSETR:  164
+Creando info de españa... TOTAL INSETR:  142
+Creando info de peru... TOTAL INSETR:  207
+Creando info de chile... TOTAL INSETR:  242
+Creando info de bolivia... TOTAL INSETR:  337
+Creando info de costa rica... TOTAL INSETR:  86
+Creando info de cuba... TOTAL INSETR:  170
+Creando info de república dominicana... TOTAL INSETR:  156
+Creando info de guatemala... TOTAL INSETR:  341
+Creando info de paraguay... TOTAL INSETR:  255
+Creando info de uruguay... TOTAL INSETR:  72
+Fin del programa... 
+Total de registros insertados.. 5087
+Estado general de insertado por pais
+Afganistán  Status:  1
+Albania  Status:  1
+Argelia  Status:  1
+Samoa Americana  Status:  1
+Andorra  Status:  1
+Chad  Status:  1
+Letonia  Status:  1
+Mali  Status:  1
+Angola  Status:  1
+Anguila  Status:  1
+Antigua y Barbuda  Status:  1
+Armenia  Status:  1
+Aruba  Status:  1
+Australia  Status:  1
+Austria  Status:  1
+Azerbaiyán  Status:  1
+Bahamas  Status:  1
+Bahrein  Status:  1
+Bangladesh  Status:  1
+Barbados  Status:  1
+Bielorrusia  Status:  1
+Bélgica  Status:  1
+Benin  Status:  1
+Islas Bermudas  Status:  1
+Bután  Status:  1
+Bosnia y Herzegovina  Status:  1
+Botsuana  Status:  1
+Brasil  Status:  1
+Brunei Darussalam  Status:  1
+Bulgaria  Status:  1
+Burkina Faso  Status:  1
+Burundi  Status:  1
+Camboya  Status:  1
+Camerún  Status:  1
+Canadá  Status:  1
+Cabo Verde  Status:  1
+Islas Caimán  Status:  1
+República Centroafricana  Status:  1
+China  Status:  1
+Comoras  Status:  1
+Congo  Status:  1
+República Democrática del Congo  Status:  1
+Islas Cook  Status:  1
+Costa de Marfil  Status:  1
+Croacia  Status:  1
+Chipre  Status:  1
+Republica Checa  Status:  1
+Dinamarca  Status:  1
+Djibouti  Status:  1
+Dominica  Status:  1
+Egipto  Status:  1
+El Salvador  Status:  1
+Guinea Ecuatorial  Status:  1
+Eritrea  Status:  1
+Estonia  Status:  1
+Etiopía  Status:  1
+Islas Malvinas (Falkland Islands)  Status:  1
+Islas Faroe  Status:  1
+Fiyi  Status:  1
+Finlandia  Status:  1
+Francia  Status:  1
+Guayana Francesa  Status:  1
+Polinesia francés  Status:  1
+Gabón  Status:  1
+Gambia  Status:  1
+Georgia  Status:  1
+Alemania  Status:  1
+Ghana  Status:  1
+Gibraltar  Status:  1
+Grecia  Status:  1
+Groenlandia  Status:  1
+Granada  Status:  1
+Guadalupe  Status:  1
+Guam  Status:  1
+Guinea  Status:  1
+Guinea-Bissau  Status:  1
+Guayana  Status:  1
+Haití  Status:  1
+Santa Sede (Estado de la Ciudad del Vaticano)  Status:  1
+Honduras  Status:  1
+Hong Kong  Status:  1
+Hungría  Status:  1
+Islandia  Status:  1
+India  Status:  1
+Indonesia  Status:  1
+República Islámica de Irán  Status:  1
+Irak  Status:  1
+Irlanda  Status:  1
+Israel  Status:  1
+Italia  Status:  1
+Jamaica  Status:  1
+Japón  Status:  1
+Jordán  Status:  1
+Kazajstán  Status:  1
+Kenia  Status:  1
+Kiribati  Status:  1
+República Popular Democrática de Corea  Status:  1
+República de Corea  Status:  1
+Kuwait  Status:  1
+Kirguistán  Status:  1
+Argentina  Status:  1
+Belice  Status:  1
+República Democrática Popular Lao  Status:  1
+Líbano  Status:  1
+Lesoto  Status:  1
+Liberia  Status:  1
+Jamahiriya Árabe Libia  Status:  1
+Liechtenstein  Status:  1
+Lituania  Status:  1
+Luxemburgo  Status:  1
+Macao  Status:  1
+Macedonia  Status:  1
+Madagascar  Status:  1
+Malawi  Status:  1
+Malasia  Status:  1
+Maldivas  Status:  1
+Malta  Status:  1
+Islas Marshall  Status:  1
+Martinica  Status:  1
+Mauritania  Status:  1
+Mauricio  Status:  1
+Estados Federados de Micronesia  Status:  1
+República de Moldavia  Status:  1
+Mónaco  Status:  1
+Mongolia  Status:  1
+Montserrat  Status:  1
+Marruecos  Status:  1
+Mozambique  Status:  1
+Myanmar  Status:  1
+Namibia  Status:  1
+Nauru  Status:  1
+Nepal  Status:  1
+Países Bajos  Status:  1
+Antillas Holandesas  Status:  1
+Nueva Caledonia  Status:  1
+Nueva Zelanda  Status:  1
+Nicaragua  Status:  1
+Níger  Status:  1
+Nigeria  Status:  1
+Niue  Status:  1
+Isla Norfolk  Status:  1
+Islas Marianas del Norte  Status:  1
+Noruega  Status:  1
+Omán  Status:  1
+Pakistán  Status:  1
+Palau  Status:  1
+Papúa Nueva Guinea  Status:  1
+Filipinas  Status:  1
+Pitcairn  Status:  1
+Polonia  Status:  1
+Portugal  Status:  1
+Puerto Rico  Status:  1
+Katar  Status:  1
+Reunión  Status:  1
+Rumania  Status:  1
+Federación Rusa  Status:  1
+Ruanda  Status:  1
+Santa helena  Status:  1
+San Cristóbal y Nieves  Status:  1
+Santa Lucía  Status:  1
+San Pedro y Miquelón  Status:  1
+San Vicente y las Granadinas  Status:  1
+Samoa  Status:  1
+San Marino  Status:  1
+Santo Tomé y Príncipe  Status:  1
+Arabia Saudita  Status:  1
+Senegal  Status:  1
+Seychelles  Status:  1
+Sierra Leona  Status:  1
+Singapur  Status:  1
+Eslovaquia  Status:  1
+Eslovenia  Status:  1
+Islas Salomón  Status:  1
+Somalia  Status:  1
+Sudáfrica  Status:  1
+Sri Lanka  Status:  1
+Sudán  Status:  1
+Surinam  Status:  1
+Svalbard y Jan Mayen  Status:  1
+Swazilandia  Status:  1
+Suecia  Status:  1
+Suiza  Status:  1
+República Árabe Siria  Status:  1
+Taiwan, provincia de China  Status:  1
+Tayikistán  Status:  1
+República Unida de Tanzania  Status:  1
+Tailandia  Status:  1
+Togo  Status:  1
+Tokelau  Status:  1
+Tonga  Status:  1
+Trinidad y Tobago  Status:  1
+Túnez  Status:  1
+Turquía  Status:  1
+Turkmenistán  Status:  1
+Islas Turcas y Caicos  Status:  1
+Tuvalu  Status:  1
+Uganda  Status:  1
+Ucrania  Status:  1
+Mexico  Status:  1
+Panamá  Status:  1
+Emiratos Árabes Unidos  Status:  1
+Reino Unido  Status:  1
+Estados Unidos  Status:  1
+Uzbekistán  Status:  1
+Vanuatu  Status:  1
+Venezuela  Status:  1
+Vietnam  Status:  1
+Islas Vírgenes Británicas  Status:  1
+Islas Vírgenes, EE.UU.  Status:  1
+Wallis y Futuna  Status:  1
+Sahara Occidental  Status:  1
+Yemen  Status:  1
+Zambia  Status:  1
+Zimbabue  Status:  1
+No proporcionado  Status:  1
+Colombia  Status:  1
+Ecuador  Status:  1
+España  Status:  1
+Perú  Status:  1
+Chile  Status:  1
+Bolivia  Status:  1
+Costa Rica  Status:  1
+Cuba  Status:  1
+República Dominicana  Status:  1
+Guatemala  Status:  1
+Paraguay  Status:  1
+Uruguay  Status:  1
+Estado de la estructura de control server otros paises: 
+{'argentina': 1, 'costa rica': 1, 'panamá': 1, 'guatemala': 1, 'república dominicana': 1, 'cuba': 1, 'uruguay': 1, 'paraguay': 1, 'bolivia': 1, 'belice': 1, 'sudafrica': 1}

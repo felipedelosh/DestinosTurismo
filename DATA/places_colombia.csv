@@ -1,0 +1,1125 @@
+id	region_id	name	short_name	slug	group_id	province_id	group_slug	latitude	longitude
+21422|	21415|	Leticia|	Leticia|	leticia|	152|	21416|	capital|	NULL|	NULL|
+21432|	21429|	Caucasia|	Caucasia|	caucasia|	152|	21430|	capital|	NULL|	NULL|
+21500|	21429|	Granada|	Granada|	granada|	152|	21493|	capital|	NULL|	NULL|
+21504|	21429|	La Ceja|	La Ceja|	la-ceja|	152|	21493|	capital|	NULL|	NULL|
+21507|	21429|	Marinilla|	Marinilla|	marinilla|	152|	21493|	capital|	NULL|	NULL|
+21512|	21429|	Rionegro|	Rionegro|	rionegro|	152|	21493|	capital|	NULL|	NULL|
+21547|	21429|	Apartadó|	Apartadó|	apartado|	152|	21546|	capital|	NULL|	NULL|
+21550|	21429|	Carepa|	Carepa|	carepa|	152|	21546|	capital|	NULL|	NULL|
+21552|	21429|	Chigorodó|	Chigorodó|	chigorodo|	152|	21546|	capital|	NULL|	NULL|
+21556|	21429|	Necocli|	Necocli|	necocli|	152|	21546|	capital|	NULL|	NULL|
+21560|	21429|	Turbo|	Turbo|	turbo|	152|	21546|	capital|	NULL|	NULL|
+21565|	21429|	Bello|	Bello|	bello|	152|	21563|	capital|	NULL|	NULL|
+21567|	21429|	Caldas|	Caldas|	caldas|	152|	21563|	capital|	NULL|	NULL|
+21569|	21429|	Copacabana|	Copacabana|	copacabana|	152|	21563|	capital|	NULL|	NULL|
+21571|	21429|	Envigado|	Envigado|	envigado|	152|	21563|	capital|	NULL|	NULL|
+21573|	21429|	Girardota|	Girardota|	girardota|	152|	21563|	capital|	NULL|	NULL|
+21575|	21429|	Itagüi|	Itagüi|	itagui|	152|	21563|	capital|	NULL|	NULL|
+21577|	21429|	La Estrella|	La Estrella|	la-estrella|	152|	21563|	capital|	NULL|	NULL|
+21579|	21429|	Medellín|	Medellín|	medellin|	152|	21563|	capital|	NULL|	NULL|
+21581|	21429|	Sabaneta|	Sabaneta|	sabaneta|	152|	21563|	capital|	NULL|	NULL|
+21585|	21583|	Arauca|	Arauca|	arauca|	152|	21584|	capital|	NULL|	NULL|
+21592|	21583|	Tame|	Tame|	tame|	152|	21584|	capital|	NULL|	NULL|
+21600|	21598|	Barranquilla|	Barranquilla|	barranquilla|	152|	21599|	capital|	NULL|	NULL|
+21603|	21598|	Malambo|	Malambo|	malambo|	152|	21599|	capital|	NULL|	NULL|
+21606|	21598|	Soledad|	Soledad|	soledad|	152|	21599|	capital|	NULL|	NULL|
+21617|	21598|	Baranoa|	Baranoa|	baranoa|	152|	21616|	capital|	NULL|	NULL|
+21623|	21598|	Sabanalarga|	Sabanalarga|	sabanalarga|	152|	21616|	capital|	NULL|	NULL|
+21633|	21631|	Bogotá D.C.|	Bogotá D.C.|	bogota-d-c|	152|	21632|	capital|	4.59889|	-74.0808|
+21643|	21634|	Arjona|	Arjona|	arjona|	152|	21642|	capital|	NULL|	NULL|
+21647|	21634|	Cartagena de Indias|	Cartagena|	cartagena|	152|	21642|	capital|	NULL|	NULL|
+21656|	21634|	Turbaco|	Turbaco|	turbaco|	152|	21642|	capital|	NULL|	NULL|
+21676|	21634|	Magangué|	Magangué|	magangue|	152|	21674|	capital|	NULL|	NULL|
+21683|	21634|	Carmen De Bolívar|	Carmen De Bolívar|	carmen-de-bolivar|	152|	21682|	capital|	NULL|	NULL|
+21705|	21691|	Tunja|	Tunja|	tunja|	152|	21692|	capital|	NULL|	NULL|
+21761|	21691|	Chiquinquirá|	Chiquinquirá|	chiquinquira|	152|	21757|	capital|	NULL|	NULL|
+21769|	21691|	Puerto Boyaca|	Puerto Boyaca|	puerto-boyaca|	152|	21757|	capital|	NULL|	NULL|
+21809|	21691|	Sogamoso|	Sogamoso|	sogamoso|	152|	21799|	capital|	NULL|	NULL|
+21819|	21691|	Duitama|	Duitama|	duitama|	152|	21814|	capital|	NULL|	NULL|
+21838|	21833|	Riosucio|	Riosucio|	riosucio|	152|	21834|	capital|	NULL|	NULL|
+21853|	21833|	Chinchiná|	Chinchiná|	chinchina|	152|	21852|	capital|	NULL|	NULL|
+21855|	21833|	Manizales|	Manizales|	manizales|	152|	21852|	capital|	NULL|	NULL|
+21859|	21833|	Villamaria|	Villamaria|	villamaria|	152|	21852|	capital|	NULL|	NULL|
+21867|	21833|	La Dorada|	La Dorada|	la-dorada|	152|	21866|	capital|	NULL|	NULL|
+21880|	21872|	Florencia|	Florencia|	florencia|	152|	21873|	capital|	NULL|	NULL|
+21888|	21872|	Caquetá|	Caquetá|	caqueta|	152|	21873|	capital|	NULL|	NULL|
+21913|	21893|	Yopal|	Yopal|	yopal|	152|	21894|	capital|	NULL|	NULL|
+21922|	21915|	Popayán|	Popayán|	popayan|	152|	21916|	capital|	NULL|	NULL|
+21934|	21915|	Santander De Quilichao|	Santander De Quilichao|	santander-de-quilichao|	152|	21927|	capital|	NULL|	NULL|
+21979|	21964|	Agustín Codazzi|	Agustín Codazzi|	agustin-codazzi|	152|	21978|	capital|	NULL|	NULL|
+21985|	21964|	Valledupar|	Valledupar|	valledupar|	152|	21978|	capital|	NULL|	NULL|
+21988|	21964|	Aguachica|	Aguachica|	aguachica|	152|	21987|	capital|	NULL|	NULL|
+22005|	21997|	Quibdó|	Quibdó|	quibdo|	152|	21998|	capital|	NULL|	NULL|
+22042|	22035|	Lorica|	Lorica|	lorica|	152|	22039|	capital|	NULL|	NULL|
+22047|	22035|	Montería|	Montería|	monteria|	152|	22046|	capital|	NULL|	NULL|
+22058|	22035|	Sahagún|	Sahagún|	sahagun|	152|	22056|	capital|	NULL|	NULL|
+22062|	22035|	Ayapel|	Ayapel|	ayapel|	152|	22061|	capital|	NULL|	NULL|
+22066|	22035|	Montelíbano|	Montelíbano|	montelibano|	152|	22061|	capital|	NULL|	NULL|
+22068|	22035|	Planeta Rica|	Planeta Rica|	planeta-rica|	152|	22061|	capital|	NULL|	NULL|
+22073|	22035|	Cereté|	Cereté|	cerete|	152|	22072|	capital|	NULL|	NULL|
+22075|	22035|	Ciénaga De Oro|	Ciénaga De Oro|	cienaga-de-oro|	152|	22072|	capital|	NULL|	NULL|
+22090|	22079|	Girardot|	Girardot|	girardot|	152|	22088|	capital|	NULL|	NULL|
+22156|	22079|	Cajicá|	Cajicá|	cajica|	152|	22155|	capital|	NULL|	NULL|
+22158|	22079|	Chía|	Chía|	chia|	152|	22155|	capital|	NULL|	NULL|
+22166|	22079|	Zipaquirá|	Zipaquirá|	zipaquira|	152|	22155|	capital|	NULL|	NULL|
+22172|	22079|	Facatativá|	Facatativá|	facatativa|	152|	22168|	capital|	NULL|	NULL|
+22174|	22079|	Funza|	Funza|	funza|	152|	22168|	capital|	NULL|	NULL|
+22176|	22079|	Madrid|	Madrid|	madrid|	152|	22168|	capital|	NULL|	NULL|
+22178|	22079|	Mosquera|	Mosquera|	mosquera|	152|	22168|	capital|	NULL|	NULL|
+22185|	22079|	Soacha|	Soacha|	soacha|	152|	22183|	capital|	NULL|	NULL|
+22190|	22079|	Fusagasugá|	Fusagasugá|	fusagasuga|	152|	22187|	capital|	NULL|	NULL|
+22225|	22221|	Inirida|	Inirida|	inirida|	152|	22222|	capital|	NULL|	NULL|
+22238|	22233|	San José De Guaviare|	San José De Guaviare|	san-jose-de-guaviare|	152|	22234|	capital|	NULL|	NULL|
+22244|	22240|	Garzón|	Garzón|	garzon|	152|	22241|	capital|	NULL|	NULL|
+22259|	22240|	Neiva|	Neiva|	neiva|	152|	22251|	capital|	NULL|	NULL|
+22270|	22240|	La Plata|	La Plata|	la-plata|	152|	22268|	capital|	NULL|	NULL|
+22281|	22240|	Pitalito|	Pitalito|	pitalito|	152|	22275|	capital|	NULL|	NULL|
+22290|	22286|	Maicao|	Maicao|	maicao|	152|	22287|	capital|	NULL|	NULL|
+22292|	22286|	Manaure|	Manaure|	manaure|	152|	22287|	capital|	NULL|	NULL|
+22294|	22286|	Riohacha|	Riohacha|	riohacha|	152|	22287|	capital|	NULL|	NULL|
+22296|	22286|	Uribia|	Uribia|	uribia|	152|	22287|	capital|	NULL|	NULL|
+22313|	22308|	Plato|	Plato|	plato|	152|	22309|	capital|	NULL|	NULL|
+22320|	22308|	Ciénaga|	Ciénaga|	cienaga|	152|	22317|	capital|	NULL|	NULL|
+22323|	22308|	Fundación|	Fundación|	fundacion|	152|	22317|	capital|	NULL|	NULL|
+22326|	22308|	Zona Bananera|	Zona Bananera|	zona-bananera|	152|	22317|	capital|	NULL|	NULL|
+22339|	22308|	Santa Marta|	Santa Marta|	santa-marta|	152|	22338|	capital|	NULL|	NULL|
+22342|	22308|	El Banco|	El Banco|	el-banco|	152|	22341|	capital|	NULL|	NULL|
+22367|	22350|	Villavicencio|	Villavicencio|	villavicencio|	152|	22366|	capital|	NULL|	NULL|
+22370|	22350|	Acacias|	Acacias|	acacias|	152|	22369|	capital|	NULL|	NULL|
+22394|	22386|	San Juan De Pasto|	San Juan De Pasto|	san-juan-de-pasto|	152|	22387|	capital|	NULL|	NULL|
+22423|	22386|	San Andrés De Tumaco|	San Andrés De Tumaco|	san-andres-de-tumaco|	152|	22413|	capital|	NULL|	NULL|
+22454|	22386|	Ipiales|	Ipiales|	ipiales|	152|	22443|	capital|	NULL|	NULL|
+22481|	22459|	Ocaña|	Ocaña|	ocana|	152|	22473|	capital|	NULL|	NULL|
+22486|	22459|	Cúcuta|	Cúcuta|	cucuta|	152|	22485|	capital|	NULL|	NULL|
+22489|	22459|	Los Patios|	Los Patios|	los-patios|	152|	22485|	capital|	NULL|	NULL|
+22493|	22459|	Villa Del Rosario|	Villa Del Rosario|	villa-del-rosario|	152|	22485|	capital|	NULL|	NULL|
+22499|	22459|	Pamplona|	Pamplona|	pamplona|	152|	22495|	capital|	NULL|	NULL|
+22528|	22526|	Armenia|	Armenia|	armenia|	152|	22527|	capital|	NULL|	NULL|
+22531|	22526|	Calarca|	Calarca|	calarca|	152|	22527|	capital|	NULL|	NULL|
+22548|	22546|	Dosquebradas|	Dosquebradas|	dosquebradas|	152|	22547|	capital|	NULL|	NULL|
+22552|	22546|	Pereira|	Pereira|	pereira|	152|	22547|	capital|	NULL|	NULL|
+22554|	22546|	Santa Rosa De Cabal|	Santa Rosa De Cabal|	santa-rosa-de-cabal|	152|	22547|	capital|	NULL|	NULL|
+22596|	22567|	San Andrés|	San Andrés|	san-andres|	152|	22585|	capital|	NULL|	NULL|
+22619|	22567|	Barrancabermeja|	Barrancabermeja|	barrancabermeja|	152|	22618|	capital|	NULL|	NULL|
+22628|	22567|	Bucaramanga|	Bucaramanga|	bucaramanga|	152|	22627|	capital|	NULL|	NULL|
+22633|	22567|	Floridablanca|	Floridablanca|	floridablanca|	152|	22627|	capital|	NULL|	NULL|
+22635|	22567|	San Juan De Girón|	San Juan De Girón|	san-juan-de-giron|	152|	22627|	capital|	NULL|	NULL|
+22640|	22567|	Piedecuesta|	Piedecuesta|	piedecuesta|	152|	22627|	capital|	NULL|	NULL|
+22677|	22667|	Sincelejo|	Sincelejo|	sincelejo|	152|	22672|	capital|	NULL|	NULL|
+22687|	22667|	Corozal|	Corozal|	corozal|	152|	22685|	capital|	NULL|	NULL|
+22700|	22667|	San Marcos|	San Marcos|	san-marcos|	152|	22696|	capital|	NULL|	NULL|
+22732|	22702|	Espinal|	Espinal|	espinal|	152|	22727|	capital|	NULL|	NULL|
+22735|	22702|	Ibague|	Ibague|	ibague|	152|	22727|	capital|	NULL|	NULL|
+22761|	22758|	Guadalajara De Buga|	Guadalajara De Buga|	guadalajara-de-buga|	152|	22759|	capital|	NULL|	NULL|
+22772|	22758|	Tuluá|	Tuluá|	tulua|	152|	22759|	capital|	NULL|	NULL|
+22780|	22758|	Cartago|	Cartago|	cartago|	152|	22775|	capital|	NULL|	NULL|
+22794|	22758|	Buenaventura|	Buenaventura|	buenaventura|	152|	22793|	capital|	NULL|	NULL|
+22800|	22758|	Cali|	Cali|	cali|	152|	22799|	capital|	NULL|	NULL|
+22802|	22758|	Candelaria|	Candelaria|	candelaria|	152|	22799|	capital|	NULL|	NULL|
+22805|	22758|	Florida|	Florida|	florida|	152|	22799|	capital|	NULL|	NULL|
+22807|	22758|	Jamundí|	Jamundí|	jamundi|	152|	22799|	capital|	NULL|	NULL|
+22810|	22758|	Palmira|	Palmira|	palmira|	152|	22799|	capital|	NULL|	NULL|
+22812|	22758|	Pradera|	Pradera|	pradera|	152|	22799|	capital|	NULL|	NULL|
+22815|	22758|	Yumbo|	Yumbo|	yumbo|	152|	22799|	capital|	NULL|	NULL|
+22831|	21415|	El Encanto |	El Encanto |	el-encanto|	152|	21416|	capital|	NULL|	NULL|
+22832|	21415|	La Chorrera|	La Chorrera|	la-chorrera|	152|	21416|	capital|	NULL|	NULL|
+22833|	21415|	La Pedrera|	La Pedrera|	la-pedrera|	152|	21416|	capital|	NULL|	NULL|
+22834|	21415|	La Victoria|	La Victoria|	la-victoria|	152|	21416|	capital|	NULL|	NULL|
+22835|	21415|	Miriti - Paraná|	Miriti - Paraná|	miriti-parana|	152|	21416|	capital|	NULL|	NULL|
+22836|	21415|	Puerto Alegria|	Puerto Alegria|	puerto-alegria|	152|	21416|	capital|	NULL|	NULL|
+22837|	21415|	Puerto Arica|	Puerto Arica|	puerto-arica|	152|	21416|	capital|	NULL|	NULL|
+22838|	21415|	Puerto Nariño|	Puerto Nariño|	puerto-narino|	152|	21416|	capital|	NULL|	NULL|
+22839|	21415|	Puerto Santander|	Puerto Santander|	puerto-santander|	152|	21416|	capital|	NULL|	NULL|
+22840|	21415|	Tarapacá|	Tarapacá|	tarapaca|	152|	21416|	capital|	NULL|	NULL|
+22841|	21429|	Cáceres|	Cáceres|	caceres|	152|	21430|	capital|	NULL|	NULL|
+22842|	21429|	El Bagre|	El Bagre|	el-bagre|	152|	21430|	capital|	NULL|	NULL|
+22843|	21429|	Nechí|	Nechí|	nechi|	152|	21430|	capital|	NULL|	NULL|
+22844|	21429|	Tarazá|	Tarazá|	taraza|	152|	21430|	capital|	NULL|	NULL|
+22845|	21429|	Zaragoza|	Zaragoza|	zaragoza|	152|	21430|	capital|	NULL|	NULL|
+22846|	21429|	Caracolí|	Caracolí|	caracoli|	152|	21438|	capital|	NULL|	NULL|
+22847|	21429|	Maceo|	Maceo|	maceo|	152|	21438|	capital|	NULL|	NULL|
+22848|	21429|	Puerto Berrio|	Puerto Berrio|	puerto-berrio|	152|	21438|	capital|	NULL|	NULL|
+22849|	21429|	Puerto Nare|	Puerto Nare|	puerto-nare|	152|	21438|	capital|	NULL|	NULL|
+22850|	21429|	Puerto Triunfo|	Puerto Triunfo|	puerto-triunfo|	152|	21438|	capital|	NULL|	NULL|
+22851|	21429|	Yondó|	Yondó|	yondo|	152|	21438|	capital|	NULL|	NULL|
+22852|	21429|	Amalfi|	Amalfi|	amalfi|	152|	21445|	capital|	NULL|	NULL|
+22853|	21429|	Anori|	Anori|	anori|	152|	21445|	capital|	NULL|	NULL|
+22854|	21429|	Cisneros|	Cisneros|	cisneros|	152|	21445|	capital|	NULL|	NULL|
+22855|	21429|	Remedios|	Remedios|	remedios|	152|	21445|	capital|	NULL|	NULL|
+22856|	21429|	San Roque|	San Roque|	san-roque|	152|	21445|	capital|	NULL|	NULL|
+22857|	21429|	Santo Domingo|	Santo Domingo|	santo-domingo|	152|	21445|	capital|	NULL|	NULL|
+22858|	21429|	Segovia|	Segovia|	segovia|	152|	21445|	capital|	NULL|	NULL|
+22859|	21429|	Vegachi|	Vegachi|	vegachi|	152|	21445|	capital|	NULL|	NULL|
+22860|	21429|	Yalí|	Yalí|	yali|	152|	21445|	capital|	NULL|	NULL|
+22861|	21429|	Yolombó|	Yolombó|	yolombo|	152|	21445|	capital|	NULL|	NULL|
+22862|	21429|	Angostura|	Angostura|	angostura|	152|	21456|	capital|	NULL|	NULL|
+22863|	21429|	Belmira|	Belmira|	belmira|	152|	21456|	capital|	NULL|	NULL|
+22864|	21429|	Briceño|	Briceño|	briceno|	152|	21456|	capital|	NULL|	NULL|
+22865|	21429|	Campamento|	Campamento|	campamento|	152|	21456|	capital|	NULL|	NULL|
+22866|	21429|	Carolina|	Carolina|	carolina|	152|	21456|	capital|	NULL|	NULL|
+22867|	21429|	Don Matías|	Don Matías|	don-matias|	152|	21456|	capital|	NULL|	NULL|
+22868|	21429|	Entrerrios|	Entrerrios|	entrerrios|	152|	21456|	capital|	NULL|	NULL|
+22869|	21429|	Gómez Plata|	Gómez Plata|	gomez-plata|	152|	21456|	capital|	NULL|	NULL|
+22870|	21429|	Guadalupe|	Guadalupe|	guadalupe|	152|	21456|	capital|	NULL|	NULL|
+22871|	21429|	Ituango|	Ituango|	ituango|	152|	21456|	capital|	NULL|	NULL|
+22872|	21429|	San Andrés|	San Andrés|	san-andres-22872|	152|	21456|	capital|	NULL|	NULL|
+22873|	21429|	San José De La Montaña|	San José De La Montaña|	san-jose-de-la-montana|	152|	21456|	capital|	NULL|	NULL|
+22874|	21429|	San Pedro|	San Pedro|	san-pedro|	152|	21456|	capital|	NULL|	NULL|
+22875|	21429|	Santa Rosa De Osos|	Santa Rosa De Osos|	santa-rosa-de-osos|	152|	21456|	capital|	NULL|	NULL|
+22876|	21429|	Toledo|	Toledo|	toledo|	152|	21456|	capital|	NULL|	NULL|
+22877|	21429|	Valdivia|	Valdivia|	valdivia|	152|	21456|	capital|	NULL|	NULL|
+22878|	21429|	Yarumal|	Yarumal|	yarumal|	152|	21456|	capital|	NULL|	NULL|
+22879|	21429|	Abriaqui|	Abriaqui|	abriaqui|	152|	21474|	capital|	NULL|	NULL|
+22880|	21429|	Anza|	Anza|	anza|	152|	21474|	capital|	NULL|	NULL|
+22881|	21429|	Armenia|	Armenia|	armenia-22881|	152|	21474|	capital|	NULL|	NULL|
+22882|	21429|	Buriticá|	Buriticá|	buritica|	152|	21474|	capital|	NULL|	NULL|
+22883|	21429|	Cañasgordas|	Cañasgordas|	canasgordas|	152|	21474|	capital|	NULL|	NULL|
+22884|	21429|	Dabeiba|	Dabeiba|	dabeiba|	152|	21474|	capital|	NULL|	NULL|
+22885|	21429|	Ebéjico|	Ebéjico|	ebejico|	152|	21474|	capital|	NULL|	NULL|
+22886|	21429|	Frontino|	Frontino|	frontino|	152|	21474|	capital|	NULL|	NULL|
+22887|	21429|	Giraldo|	Giraldo|	giraldo|	152|	21474|	capital|	NULL|	NULL|
+22888|	21429|	Heliconia|	Heliconia|	heliconia|	152|	21474|	capital|	NULL|	NULL|
+22889|	21429|	Liborina|	Liborina|	liborina|	152|	21474|	capital|	NULL|	NULL|
+22890|	21429|	Olaya|	Olaya|	olaya|	152|	21474|	capital|	NULL|	NULL|
+22891|	21429|	Peque|	Peque|	peque|	152|	21474|	capital|	NULL|	NULL|
+22892|	21429|	Sabanalarga|	Sabanalarga|	sabanalarga-22892|	152|	21474|	capital|	NULL|	NULL|
+22893|	21429|	San Jerónimo|	San Jerónimo|	san-jeronimo|	152|	21474|	capital|	NULL|	NULL|
+22894|	21429|	Santa Fe De Antioquía|	Santa Fe De Antioquía|	santa-fe-de-antioquia|	152|	21474|	capital|	NULL|	NULL|
+22895|	21429|	Sopetrán|	Sopetrán|	sopetran|	152|	21474|	capital|	NULL|	NULL|
+22896|	21429|	Uramita|	Uramita|	uramita|	152|	21474|	capital|	NULL|	NULL|
+22897|	21429|	Abejorral|	Abejorral|	abejorral|	152|	21493|	capital|	NULL|	NULL|
+22898|	21429|	Alejandría|	Alejandría|	alejandria|	152|	21493|	capital|	NULL|	NULL|
+22899|	21429|	Argelia|	Argelia|	argelia|	152|	21493|	capital|	NULL|	NULL|
+22900|	21429|	Carmen De Viboral|	Carmen De Viboral|	carmen-de-viboral|	152|	21493|	capital|	NULL|	NULL|
+22901|	21429|	Cocorná|	Cocorná|	cocorna|	152|	21493|	capital|	NULL|	NULL|
+22902|	21429|	Concepción|	Concepción|	concepcion|	152|	21493|	capital|	NULL|	NULL|
+22903|	21429|	Guarne|	Guarne|	guarne|	152|	21493|	capital|	NULL|	NULL|
+22904|	21429|	Guatape|	Guatape|	guatape|	152|	21493|	capital|	NULL|	NULL|
+22905|	21429|	La Unión|	La Unión|	la-union|	152|	21493|	capital|	NULL|	NULL|
+22906|	21429|	Nariño|	Nariño|	narino|	152|	21493|	capital|	NULL|	NULL|
+22907|	21429|	Peñol|	Peñol|	penol|	152|	21493|	capital|	NULL|	NULL|
+22908|	21429|	Retiro|	Retiro|	retiro|	152|	21493|	capital|	NULL|	NULL|
+22909|	21429|	San Carlos|	San Carlos|	san-carlos|	152|	21493|	capital|	NULL|	NULL|
+22910|	21429|	San Francisco|	San Francisco|	san-francisco|	152|	21493|	capital|	NULL|	NULL|
+22911|	21429|	San Luis|	San Luis|	san-luis|	152|	21493|	capital|	NULL|	NULL|
+22912|	21429|	San Rafael|	San Rafael|	san-rafael|	152|	21493|	capital|	NULL|	NULL|
+22913|	21429|	San Vicente|	San Vicente|	san-vicente|	152|	21493|	capital|	NULL|	NULL|
+22914|	21429|	Santuario|	Santuario|	santuario|	152|	21493|	capital|	NULL|	NULL|
+22915|	21429|	Sonson|	Sonson|	sonson|	152|	21493|	capital|	NULL|	NULL|
+22916|	21429|	Amaga|	Amaga|	amaga|	152|	21521|	capital|	NULL|	NULL|
+22917|	21429|	Andes|	Andes|	andes|	152|	21521|	capital|	NULL|	NULL|
+22918|	21429|	Angelopolis|	Angelopolis|	angelopolis|	152|	21521|	capital|	NULL|	NULL|
+22919|	21429|	Betania|	Betania|	betania|	152|	21521|	capital|	NULL|	NULL|
+22920|	21429|	Betulia|	Betulia|	betulia|	152|	21521|	capital|	NULL|	NULL|
+22921|	21429|	Caicedo|	Caicedo|	caicedo|	152|	21521|	capital|	NULL|	NULL|
+22922|	21429|	Caramanta|	Caramanta|	caramanta|	152|	21521|	capital|	NULL|	NULL|
+22923|	21429|	Ciudad Bolívar|	Ciudad Bolívar|	ciudad-bolivar|	152|	21521|	capital|	NULL|	NULL|
+22924|	21429|	Concordia|	Concordia|	concordia|	152|	21521|	capital|	NULL|	NULL|
+22925|	21429|	Fredonia|	Fredonia|	fredonia|	152|	21521|	capital|	NULL|	NULL|
+22926|	21429|	Hispania|	Hispania|	hispania|	152|	21521|	capital|	NULL|	NULL|
+22927|	21429|	Jardín|	Jardín|	jardin|	152|	21521|	capital|	NULL|	NULL|
+22928|	21429|	Jericó|	Jericó|	jerico|	152|	21521|	capital|	NULL|	NULL|
+22929|	21429|	La Pintada|	La Pintada|	la-pintada|	152|	21521|	capital|	NULL|	NULL|
+22930|	21429|	Montebello|	Montebello|	montebello|	152|	21521|	capital|	NULL|	NULL|
+22931|	21429|	Pueblorrico|	Pueblorrico|	pueblorrico|	152|	21521|	capital|	NULL|	NULL|
+22932|	21429|	Salgar|	Salgar|	salgar|	152|	21521|	capital|	NULL|	NULL|
+22933|	21429|	Santa Bárbara|	Santa Bárbara|	santa-barbara|	152|	21521|	capital|	NULL|	NULL|
+22934|	21429|	Támesis|	Támesis|	tamesis|	152|	21521|	capital|	NULL|	NULL|
+22935|	21429|	Tarso|	Tarso|	tarso|	152|	21521|	capital|	NULL|	NULL|
+22936|	21429|	Titiribí|	Titiribí|	titiribi|	152|	21521|	capital|	NULL|	NULL|
+22937|	21429|	Urrao|	Urrao|	urrao|	152|	21521|	capital|	NULL|	NULL|
+22938|	21429|	Valparaíso|	Valparaíso|	valparaiso|	152|	21521|	capital|	NULL|	NULL|
+22939|	21429|	Venecia|	Venecia|	venecia|	152|	21521|	capital|	NULL|	NULL|
+22940|	21429|	Arboletes|	Arboletes|	arboletes|	152|	21546|	capital|	NULL|	NULL|
+22941|	21429|	Murindó|	Murindó|	murindo|	152|	21546|	capital|	NULL|	NULL|
+22942|	21429|	Mutata|	Mutata|	mutata|	152|	21546|	capital|	NULL|	NULL|
+22943|	21429|	San Juan De Uraba|	San Juan De Uraba|	san-juan-de-uraba|	152|	21546|	capital|	NULL|	NULL|
+22944|	21429|	San Pedro De Uraba|	San Pedro De Uraba|	san-pedro-de-uraba|	152|	21546|	capital|	NULL|	NULL|
+22945|	21429|	Vigía Del Fuerte|	Vigía Del Fuerte|	vigia-del-fuerte|	152|	21546|	capital|	NULL|	NULL|
+22946|	21429|	Barbosa|	Barbosa|	barbosa|	152|	21563|	capital|	NULL|	NULL|
+22947|	21583|	Arauquita|	Arauquita|	arauquita|	152|	21584|	capital|	NULL|	NULL|
+22948|	21583|	Cravo Norte|	Cravo Norte|	cravo-norte|	152|	21584|	capital|	NULL|	NULL|
+22949|	21583|	Fortul|	Fortul|	fortul|	152|	21584|	capital|	NULL|	NULL|
+22950|	21583|	Puerto Rondón|	Puerto Rondón|	puerto-rondon|	152|	21584|	capital|	NULL|	NULL|
+22951|	21583|	Saravena|	Saravena|	saravena|	152|	21584|	capital|	NULL|	NULL|
+22954|	21594|	Providencia Y Santa Catalina|	Providencia Y Santa Catalina|	providencia-y-santa-catalina|	152|	22953|	capital|	NULL|	NULL|
+22955|	21594|	San Andrés|	San Andrés|	san-andres-22955|	152|	22953|	capital|	NULL|	NULL|
+22956|	21598|	Palmar De Varela|	Palmar De Varela|	palmar-de-varela|	152|	21616|	capital|	NULL|	NULL|
+22957|	21598|	Polonuevo|	Polonuevo|	polonuevo|	152|	21616|	capital|	NULL|	NULL|
+22958|	21598|	Ponedera|	Ponedera|	ponedera|	152|	21616|	capital|	NULL|	NULL|
+22959|	21598|	Sabanagrande|	Sabanagrande|	sabanagrande|	152|	21616|	capital|	NULL|	NULL|
+22960|	21598|	Santo Tomas|	Santo Tomas|	santo-tomas|	152|	21616|	capital|	NULL|	NULL|
+22961|	21598|	Galape|	Galape|	galape|	152|	21599|	capital|	NULL|	NULL|
+22962|	21598|	Puerto Colombia|	Puerto Colombia|	puerto-colombia|	152|	21599|	capital|	NULL|	NULL|
+22963|	21598|	Juan De Acosta|	Juan De Acosta|	juan-de-acosta|	152|	21626|	capital|	NULL|	NULL|
+22964|	21598|	Piojó|	Piojó|	piojo|	152|	21626|	capital|	NULL|	NULL|
+22965|	21598|	Tubara|	Tubara|	tubara|	152|	21626|	capital|	NULL|	NULL|
+22966|	21598|	Usiacuri|	Usiacuri|	usiacuri|	152|	21626|	capital|	NULL|	NULL|
+22967|	21598|	Campo De La Cruz|	Campo De La Cruz|	campo-de-la-cruz|	152|	21608|	capital|	NULL|	NULL|
+22968|	21598|	Candelaria|	Candelaria|	candelaria-22968|	152|	21608|	capital|	NULL|	NULL|
+22969|	21598|	Luruaco|	Luruaco|	luruaco|	152|	21608|	capital|	NULL|	NULL|
+22970|	21598|	Manati|	Manati|	manati|	152|	21608|	capital|	NULL|	NULL|
+22971|	21598|	Repelon|	Repelon|	repelon|	152|	21608|	capital|	NULL|	NULL|
+22972|	21598|	Santa Lucía|	Santa Lucía|	santa-lucia|	152|	21608|	capital|	NULL|	NULL|
+22973|	21598|	Suan|	Suan|	suan|	152|	21608|	capital|	NULL|	NULL|
+22974|	21634|	Cicuco|	Cicuco|	cicuco|	152|	21635|	capital|	NULL|	NULL|
+22975|	21634|	Hatillo De La Loba|	Hatillo De La Loba|	hatillo-de-la-loba|	152|	21635|	capital|	NULL|	NULL|
+22976|	21634|	Margarita|	Margarita|	margarita|	152|	21635|	capital|	NULL|	NULL|
+22977|	21634|	Mompós|	Mompós|	mompos|	152|	21635|	capital|	NULL|	NULL|
+22978|	21634|	San Fernando|	San Fernando|	san-fernando|	152|	21635|	capital|	NULL|	NULL|
+22979|	21634|	Talaigua Nuevo|	Talaigua Nuevo|	talaigua-nuevo|	152|	21635|	capital|	NULL|	NULL|
+22980|	21634|	Arroyohondo|	Arroyohondo|	arroyohondo|	152|	21642|	capital|	NULL|	NULL|
+22981|	21634|	Calamar|	Calamar|	calamar|	152|	21642|	capital|	NULL|	NULL|
+22982|	21634|	Clemencia |	Clemencia |	clemencia|	152|	21642|	capital|	NULL|	NULL|
+22983|	21634|	Mahates|	Mahates|	mahates|	152|	21642|	capital|	NULL|	NULL|
+22984|	21634|	San Cristobal|	San Cristobal|	san-cristobal|	152|	21642|	capital|	NULL|	NULL|
+22985|	21634|	San Estanislao |	San Estanislao |	san-estanislao|	152|	21642|	capital|	NULL|	NULL|
+22986|	21634|	Santa Catalina|	Santa Catalina|	santa-catalina|	152|	21642|	capital|	NULL|	NULL|
+22987|	21634|	Santa Rosa De Lima |	Santa Rosa De Lima |	santa-rosa-de-lima|	152|	21642|	capital|	NULL|	NULL|
+22988|	21634|	Soplaviento|	Soplaviento|	soplaviento|	152|	21642|	capital|	NULL|	NULL|
+22989|	21634|	Turbana|	Turbana|	turbana|	152|	21642|	capital|	NULL|	NULL|
+22990|	21634|	Villanueva|	Villanueva|	villanueva|	152|	21642|	capital|	NULL|	NULL|
+22991|	21634|	Altos Del Rosario|	Altos Del Rosario|	altos-del-rosario|	152|	21660|	capital|	NULL|	NULL|
+22992|	21634|	Barranco De Loba |	Barranco De Loba |	barranco-de-loba|	152|	21660|	capital|	NULL|	NULL|
+22993|	21634|	El Peñon|	El Peñon|	el-penon|	152|	21660|	capital|	NULL|	NULL|
+22994|	21634|	Regidor|	Regidor|	regidor|	152|	21660|	capital|	NULL|	NULL|
+22995|	21634|	Río Viejo|	Río Viejo|	rio-viejo|	152|	21660|	capital|	NULL|	NULL|
+22996|	21634|	San Martin De Loba|	San Martin De Loba|	san-martin-de-loba|	152|	21660|	capital|	NULL|	NULL|
+22997|	21634|	Arenal|	Arenal|	arenal|	152|	21667|	capital|	NULL|	NULL|
+22998|	21634|	Cantagallo |	Cantagallo |	cantagallo|	152|	21667|	capital|	NULL|	NULL|
+22999|	21634|	Morales|	Morales|	morales|	152|	21667|	capital|	NULL|	NULL|
+23000|	21634|	San Pablo|	San Pablo|	san-pablo|	152|	21667|	capital|	NULL|	NULL|
+23001|	21634|	Santa Rosa Del Sur |	Santa Rosa Del Sur |	santa-rosa-del-sur|	152|	21667|	capital|	NULL|	NULL|
+23002|	21634|	Simití|	Simití|	simiti|	152|	21667|	capital|	NULL|	NULL|
+23003|	21634|	Achí|	Achí|	achi|	152|	21674|	capital|	NULL|	NULL|
+23004|	21634|	Montecristo|	Montecristo|	montecristo|	152|	21674|	capital|	NULL|	NULL|
+23005|	21634|	Pinillos|	Pinillos|	pinillos|	152|	21674|	capital|	NULL|	NULL|
+23006|	21634|	San Jacinto Del Cauca|	San Jacinto Del Cauca|	san-jacinto-del-cauca|	152|	21674|	capital|	NULL|	NULL|
+23007|	21634|	Tiquisio|	Tiquisio|	tiquisio|	152|	21674|	capital|	NULL|	NULL|
+23008|	21634|	Córdoba|	Córdoba|	cordoba|	152|	21682|	capital|	NULL|	NULL|
+23009|	21634|	El Guamo|	El Guamo|	el-guamo|	152|	21682|	capital|	NULL|	NULL|
+23010|	21634|	María La Baja|	María La Baja|	maria-la-baja|	152|	21682|	capital|	NULL|	NULL|
+23011|	21634|	San Jacinto|	San Jacinto|	san-jacinto|	152|	21682|	capital|	NULL|	NULL|
+23012|	21634|	San Juan Nepomuceno|	San Juan Nepomuceno|	san-juan-nepomuceno|	152|	21682|	capital|	NULL|	NULL|
+23013|	21634|	Zambrano|	Zambrano|	zambrano|	152|	21682|	capital|	NULL|	NULL|
+23014|	21691|	Chiquiza|	Chiquiza|	chiquiza|	152|	21692|	capital|	NULL|	NULL|
+23015|	21691|	Chivata|	Chivata|	chivata|	152|	21692|	capital|	NULL|	NULL|
+23016|	21691|	Cómbita|	Cómbita|	combita|	152|	21692|	capital|	NULL|	NULL|
+23017|	21691|	Cucaita|	Cucaita|	cucaita|	152|	21692|	capital|	NULL|	NULL|
+23018|	21691|	Motavita|	Motavita|	motavita|	152|	21692|	capital|	NULL|	NULL|
+23019|	21691|	Oicatá|	Oicatá|	oicata|	152|	21692|	capital|	NULL|	NULL|
+23020|	21691|	Samacá|	Samacá|	samaca|	152|	21692|	capital|	NULL|	NULL|
+23021|	21691|	Siachoque|	Siachoque|	siachoque|	152|	21692|	capital|	NULL|	NULL|
+23022|	21691|	Sora|	Sora|	sora|	152|	21692|	capital|	NULL|	NULL|
+23023|	21691|	Soracá|	Soracá|	soraca|	152|	21692|	capital|	NULL|	NULL|
+23024|	21691|	Sotaquirá|	Sotaquirá|	sotaquira|	152|	21692|	capital|	NULL|	NULL|
+23025|	21691|	Toca|	Toca|	toca|	152|	21692|	capital|	NULL|	NULL|
+23026|	21691|	Tuta|	Tuta|	tuta|	152|	21692|	capital|	NULL|	NULL|
+23027|	21691|	Ventaquemada|	Ventaquemada|	ventaquemada|	152|	21692|	capital|	NULL|	NULL|
+23028|	21691|	Chiscas|	Chiscas|	chiscas|	152|	21709|	capital|	NULL|	NULL|
+23029|	21691|	Cubará|	Cubará|	cubara|	152|	21709|	capital|	NULL|	NULL|
+23030|	21691|	El Cocuy|	El Cocuy|	el-cocuy|	152|	21709|	capital|	NULL|	NULL|
+23031|	21691|	El Espino|	El Espino|	el-espino|	152|	21709|	capital|	NULL|	NULL|
+23032|	21691|	Guacamayas|	Guacamayas|	guacamayas|	152|	21709|	capital|	NULL|	NULL|
+23033|	21691|	Güicán|	Güicán|	guican|	152|	21709|	capital|	NULL|	NULL|
+23034|	21691|	Panqueba|	Panqueba|	panqueba|	152|	21709|	capital|	NULL|	NULL|
+23035|	21691|	Labranzagrande|	Labranzagrande|	labranzagrande|	152|	21717|	capital|	NULL|	NULL|
+23036|	21691|	Pajarito|	Pajarito|	pajarito|	152|	21717|	capital|	NULL|	NULL|
+23037|	21691|	Paya|	Paya|	paya|	152|	21717|	capital|	NULL|	NULL|
+23038|	21691|	Pisba|	Pisba|	pisba|	152|	21717|	capital|	NULL|	NULL|
+23039|	21691|	Berbeo|	Berbeo|	berbeo|	152|	21722|	capital|	NULL|	NULL|
+23040|	21691|	Campohersmoso|	Campohersmoso|	campohersmoso|	152|	21722|	capital|	NULL|	NULL|
+23041|	21691|	Miraflores|	Miraflores|	miraflores|	152|	21722|	capital|	NULL|	NULL|
+23042|	21691|	Páez|	Páez|	paez|	152|	21722|	capital|	NULL|	NULL|
+23043|	21691|	San Eduardo|	San Eduardo|	san-eduardo|	152|	21722|	capital|	NULL|	NULL|
+23044|	21691|	Zetaquira|	Zetaquira|	zetaquira|	152|	21722|	capital|	NULL|	NULL|
+23045|	21691|	Boyacá|	Boyacá|	boyaca|	152|	21729|	capital|	NULL|	NULL|
+23046|	21691|	Ciénega|	Ciénega|	cienega|	152|	21729|	capital|	NULL|	NULL|
+23047|	21691|	Jenesano|	Jenesano|	jenesano|	152|	21729|	capital|	NULL|	NULL|
+23048|	21691|	Nuevo Colón|	Nuevo Colón|	nuevo-colon|	152|	21729|	capital|	NULL|	NULL|
+23049|	21691|	Ramiriquí|	Ramiriquí|	ramiriqui|	152|	21729|	capital|	NULL|	NULL|
+23050|	21691|	Rondón|	Rondón|	rondon|	152|	21729|	capital|	NULL|	NULL|
+23051|	21691|	Tibaná|	Tibaná|	tibana|	152|	21729|	capital|	NULL|	NULL|
+23052|	21691|	Turmequé|	Turmequé|	turmeque|	152|	21729|	capital|	NULL|	NULL|
+23053|	21691|	Umbita|	Umbita|	umbita|	152|	21729|	capital|	NULL|	NULL|
+23054|	21691|	Viracachá|	Viracachá|	viracacha|	152|	21729|	capital|	NULL|	NULL|
+23055|	21691|	Chinavita|	Chinavita|	chinavita|	152|	21740|	capital|	NULL|	NULL|
+23056|	21691|	Garagoa|	Garagoa|	garagoa|	152|	21740|	capital|	NULL|	NULL|
+23057|	21691|	Macanal|	Macanal|	macanal|	152|	21740|	capital|	NULL|	NULL|
+23058|	21691|	Pachavita|	Pachavita|	pachavita|	152|	21740|	capital|	NULL|	NULL|
+23059|	21691|	San Luis De Gaceno|	San Luis De Gaceno|	san-luis-de-gaceno|	152|	21740|	capital|	NULL|	NULL|
+23060|	21691|	Santa María|	Santa María|	santa-maria|	152|	21740|	capital|	NULL|	NULL|
+23061|	21691|	Boavita|	Boavita|	boavita|	152|	21747|	capital|	NULL|	NULL|
+23062|	21691|	Covarachía|	Covarachía|	covarachia|	152|	21747|	capital|	NULL|	NULL|
+23063|	21691|	La Uvita|	La Uvita|	la-uvita|	152|	21747|	capital|	NULL|	NULL|
+23064|	21691|	San Mateo|	San Mateo|	san-mateo|	152|	21747|	capital|	NULL|	NULL|
+23065|	21691|	Sativanorte|	Sativanorte|	sativanorte|	152|	21747|	capital|	NULL|	NULL|
+23066|	21691|	Sativasur|	Sativasur|	sativasur|	152|	21747|	capital|	NULL|	NULL|
+23067|	21691|	Soatá|	Soatá|	soata|	152|	21747|	capital|	NULL|	NULL|
+23068|	21691|	Susacón|	Susacón|	susacon|	152|	21747|	capital|	NULL|	NULL|
+23069|	21691|	Tipacoque|	Tipacoque|	tipacoque|	152|	21747|	capital|	NULL|	NULL|
+23070|	21691|	Briceño|	Briceño|	briceno-23070|	152|	21757|	capital|	NULL|	NULL|
+23071|	21691|	Buenavista|	Buenavista|	buenavista|	152|	21757|	capital|	NULL|	NULL|
+23072|	21691|	Caldas|	Caldas|	caldas-23072|	152|	21757|	capital|	NULL|	NULL|
+23073|	21691|	Coper|	Coper|	coper|	152|	21757|	capital|	NULL|	NULL|
+23074|	21691|	La Victoria|	La Victoria|	la-victoria-23074|	152|	21757|	capital|	NULL|	NULL|
+23075|	21691|	Maripí|	Maripí|	maripi|	152|	21757|	capital|	NULL|	NULL|
+23076|	21691|	Muzo|	Muzo|	muzo|	152|	21757|	capital|	NULL|	NULL|
+23077|	21691|	Otanche|	Otanche|	otanche|	152|	21757|	capital|	NULL|	NULL|
+23078|	21691|	Pauna|	Pauna|	pauna|	152|	21757|	capital|	NULL|	NULL|
+23079|	21691|	Quípama|	Quípama|	quipama|	152|	21757|	capital|	NULL|	NULL|
+23080|	21691|	Saboyá|	Saboyá|	saboya|	152|	21757|	capital|	NULL|	NULL|
+23081|	21691|	San Miguel De Sema|	San Miguel De Sema|	san-miguel-de-sema|	152|	21757|	capital|	NULL|	NULL|
+23082|	21691|	San Pablo Borbur|	San Pablo Borbur|	san-pablo-borbur|	152|	21757|	capital|	NULL|	NULL|
+23083|	21691|	Tununguá|	Tununguá|	tunungua|	152|	21757|	capital|	NULL|	NULL|
+23084|	21691|	Almeida|	Almeida|	almeida|	152|	21776|	capital|	NULL|	NULL|
+23085|	21691|	Chivor|	Chivor|	chivor|	152|	21776|	capital|	NULL|	NULL|
+23086|	21691|	Guateque|	Guateque|	guateque|	152|	21776|	capital|	NULL|	NULL|
+23087|	21691|	Guayatá|	Guayatá|	guayata|	152|	21776|	capital|	NULL|	NULL|
+23088|	21691|	La Capilla|	La Capilla|	la-capilla|	152|	21776|	capital|	NULL|	NULL|
+23089|	21691|	Somondoco|	Somondoco|	somondoco|	152|	21776|	capital|	NULL|	NULL|
+23090|	21691|	Sutatenza|	Sutatenza|	sutatenza|	152|	21776|	capital|	NULL|	NULL|
+23091|	21691|	Tenza|	Tenza|	tenza|	152|	21776|	capital|	NULL|	NULL|
+23092|	21691|	Arcabuco|	Arcabuco|	arcabuco|	152|	21785|	capital|	NULL|	NULL|
+23093|	21691|	Chitaraque|	Chitaraque|	chitaraque|	152|	21785|	capital|	NULL|	NULL|
+23094|	21691|	Gachantiva|	Gachantiva|	gachantiva|	152|	21785|	capital|	NULL|	NULL|
+23095|	21691|	Moniquirá|	Moniquirá|	moniquira|	152|	21785|	capital|	NULL|	NULL|
+23096|	21691|	Ráquira|	Ráquira|	raquira|	152|	21785|	capital|	NULL|	NULL|
+23097|	21691|	Sáchica|	Sáchica|	sachica|	152|	21785|	capital|	NULL|	NULL|
+23098|	21691|	San José De Pare|	San José De Pare|	san-jose-de-pare|	152|	21785|	capital|	NULL|	NULL|
+23099|	21691|	Santa Sofía|	Santa Sofía|	santa-sofia|	152|	21785|	capital|	NULL|	NULL|
+23100|	21691|	Santana|	Santana|	santana|	152|	21785|	capital|	NULL|	NULL|
+23101|	21691|	Sutamarchán|	Sutamarchán|	sutamarchan|	152|	21785|	capital|	NULL|	NULL|
+23102|	21691|	Tinjacá|	Tinjacá|	tinjaca|	152|	21785|	capital|	NULL|	NULL|
+23103|	21691|	Togüi|	Togüi|	togui|	152|	21785|	capital|	NULL|	NULL|
+23104|	21691|	Villa De Leyva|	Villa De Leyva|	villa-de-leyva|	152|	21785|	capital|	NULL|	NULL|
+23105|	21691|	Aquitania|	Aquitania|	aquitania|	152|	21799|	capital|	NULL|	NULL|
+23106|	21691|	Cuítiva|	Cuítiva|	cuitiva|	152|	21799|	capital|	NULL|	NULL|
+23107|	21691|	Firavitoba|	Firavitoba|	firavitoba|	152|	21799|	capital|	NULL|	NULL|
+23108|	21691|	Gameza|	Gameza|	gameza|	152|	21799|	capital|	NULL|	NULL|
+23109|	21691|	Iza|	Iza|	iza|	152|	21799|	capital|	NULL|	NULL|
+23110|	21691|	Mongua|	Mongua|	mongua|	152|	21799|	capital|	NULL|	NULL|
+23111|	21691|	Mongui|	Mongui|	mongui|	152|	21799|	capital|	NULL|	NULL|
+23112|	21691|	Nobsa|	Nobsa|	nobsa|	152|	21799|	capital|	NULL|	NULL|
+23113|	21691|	Pesca|	Pesca|	pesca|	152|	21799|	capital|	NULL|	NULL|
+23114|	21691|	Tibasosa|	Tibasosa|	tibasosa|	152|	21799|	capital|	NULL|	NULL|
+23115|	21691|	Tópaga|	Tópaga|	topaga|	152|	21799|	capital|	NULL|	NULL|
+23116|	21691|	Tota|	Tota|	tota|	152|	21799|	capital|	NULL|	NULL|
+23117|	21691|	Belén|	Belén|	belen|	152|	21814|	capital|	NULL|	NULL|
+23118|	21691|	Busbanza|	Busbanza|	busbanza|	152|	21814|	capital|	NULL|	NULL|
+23119|	21691|	Cerinza|	Cerinza|	cerinza|	152|	21814|	capital|	NULL|	NULL|
+23120|	21691|	Corrales|	Corrales|	corrales|	152|	21814|	capital|	NULL|	NULL|
+23121|	21691|	Floresta|	Floresta|	floresta|	152|	21814|	capital|	NULL|	NULL|
+23122|	21691|	Paipa|	Paipa|	paipa|	152|	21814|	capital|	NULL|	NULL|
+23123|	21691|	San Rosa Viterbo|	San Rosa Viterbo|	san-rosa-viterbo|	152|	21814|	capital|	NULL|	NULL|
+23124|	21691|	Tutazá|	Tutazá|	tutaza|	152|	21814|	capital|	NULL|	NULL|
+23125|	21691|	Betéitiva|	Betéitiva|	beteitiva|	152|	21825|	capital|	NULL|	NULL|
+23126|	21691|	Chita|	Chita|	chita|	152|	21825|	capital|	NULL|	NULL|
+23127|	21691|	Jericó|	Jericó|	jerico-23127|	152|	21825|	capital|	NULL|	NULL|
+23128|	21691|	Paz De Río|	Paz De Río|	paz-de-rio|	152|	21825|	capital|	NULL|	NULL|
+23129|	21691|	Socha|	Socha|	socha|	152|	21825|	capital|	NULL|	NULL|
+23130|	21691|	Socotá|	Socotá|	socota|	152|	21825|	capital|	NULL|	NULL|
+23131|	21691|	Tasco|	Tasco|	tasco|	152|	21825|	capital|	NULL|	NULL|
+23132|	21833|	Filadelfia|	Filadelfia|	filadelfia|	152|	21834|	capital|	NULL|	NULL|
+23133|	21833|	La Merced|	La Merced|	la-merced|	152|	21834|	capital|	NULL|	NULL|
+23134|	21833|	Marmato|	Marmato|	marmato|	152|	21834|	capital|	NULL|	NULL|
+23135|	21833|	Supía|	Supía|	supia|	152|	21834|	capital|	NULL|	NULL|
+23136|	21833|	Manzanares|	Manzanares|	manzanares|	152|	21841|	capital|	NULL|	NULL|
+23137|	21833|	Marquetalia|	Marquetalia|	marquetalia|	152|	21841|	capital|	NULL|	NULL|
+23138|	21833|	Marulanda|	Marulanda|	marulanda|	152|	21841|	capital|	NULL|	NULL|
+23139|	21833|	Pensilvania|	Pensilvania|	pensilvania|	152|	21841|	capital|	NULL|	NULL|
+23140|	21833|	Anserma|	Anserma|	anserma|	152|	21846|	capital|	NULL|	NULL|
+23141|	21833|	Belalcázar|	Belalcázar|	belalcazar|	152|	21846|	capital|	NULL|	NULL|
+23142|	21833|	Risaralda|	Risaralda|	risaralda|	152|	21846|	capital|	NULL|	NULL|
+23143|	21833|	San José|	San José|	san-jose|	152|	21846|	capital|	NULL|	NULL|
+23144|	21833|	Viterbo|	Viterbo|	viterbo|	152|	21846|	capital|	NULL|	NULL|
+23145|	21833|	Neira|	Neira|	neira|	152|	21852|	capital|	NULL|	NULL|
+23146|	21833|	Palestina|	Palestina|	palestina|	152|	21852|	capital|	NULL|	NULL|
+23147|	21833|	Aguadas|	Aguadas|	aguadas|	152|	21861|	capital|	NULL|	NULL|
+23148|	21833|	Aranzazu|	Aranzazu|	aranzazu|	152|	21861|	capital|	NULL|	NULL|
+23149|	21833|	Pácora|	Pácora|	pacora|	152|	21861|	capital|	NULL|	NULL|
+23150|	21833|	Salamina|	Salamina|	salamina|	152|	21861|	capital|	NULL|	NULL|
+23151|	21833|	Norcasia|	Norcasia|	norcasia|	152|	21866|	capital|	NULL|	NULL|
+23152|	21833|	Samaná|	Samaná|	samana|	152|	21866|	capital|	NULL|	NULL|
+23153|	21833|	Victoria|	Victoria|	victoria|	152|	21866|	capital|	NULL|	NULL|
+23154|	21872|	Albania|	Albania|	albania|	152|	21873|	capital|	NULL|	NULL|
+23155|	21872|	Belén De Los Andaquies|	Belén De Los Andaquies|	belen-de-los-andaquies|	152|	21873|	capital|	NULL|	NULL|
+23156|	21872|	Cartagena De Chairá|	Cartagena De Chairá|	cartagena-de-chaira|	152|	21873|	capital|	NULL|	NULL|
+23157|	21872|	Curillo|	Curillo|	curillo|	152|	21873|	capital|	NULL|	NULL|
+23158|	21872|	El Doncello|	El Doncello|	el-doncello|	152|	21873|	capital|	NULL|	NULL|
+23159|	21872|	El Paujil|	El Paujil|	el-paujil|	152|	21873|	capital|	NULL|	NULL|
+23160|	21872|	La Montañita|	La Montañita|	la-montanita|	152|	21873|	capital|	NULL|	NULL|
+23161|	21872|	Milan|	Milan|	milan|	152|	21873|	capital|	NULL|	NULL|
+23162|	21872|	Morelia|	Morelia|	morelia|	152|	21873|	capital|	NULL|	NULL|
+23163|	21872|	Puerto Rico|	Puerto Rico|	puerto-rico|	152|	21873|	capital|	NULL|	NULL|
+23164|	21872|	San José De Fragua|	San José De Fragua|	san-jose-de-fragua|	152|	21873|	capital|	NULL|	NULL|
+23165|	21872|	San Vicente De Caguán|	San Vicente De Caguán|	san-vicente-de-caguan|	152|	21873|	capital|	NULL|	NULL|
+23166|	21872|	Solano|	Solano|	solano|	152|	21873|	capital|	NULL|	NULL|
+23167|	21872|	Solita|	Solita|	solita|	152|	21873|	capital|	NULL|	NULL|
+23168|	21872|	Valparaiso|	Valparaiso|	valparaiso-23168|	152|	21873|	capital|	NULL|	NULL|
+23169|	21893|	Aguazul|	Aguazul|	aguazul|	152|	21894|	capital|	NULL|	NULL|
+23170|	21893|	Chameza|	Chameza|	chameza|	152|	21894|	capital|	NULL|	NULL|
+23171|	21893|	Hato Corozal|	Hato Corozal|	hato-corozal|	152|	21894|	capital|	NULL|	NULL|
+23172|	21893|	La Salina|	La Salina|	la-salina|	152|	21894|	capital|	NULL|	NULL|
+23173|	21893|	Maní|	Maní|	mani|	152|	21894|	capital|	NULL|	NULL|
+23174|	21893|	Monterrey|	Monterrey|	monterrey|	152|	21894|	capital|	NULL|	NULL|
+23175|	21893|	Nunchía|	Nunchía|	nunchia|	152|	21894|	capital|	NULL|	NULL|
+23176|	21893|	Orocué|	Orocué|	orocue|	152|	21894|	capital|	NULL|	NULL|
+23177|	21893|	Paz De Ariporo|	Paz De Ariporo|	paz-de-ariporo|	152|	21894|	capital|	NULL|	NULL|
+23178|	21893|	Pore|	Pore|	pore|	152|	21894|	capital|	NULL|	NULL|
+23179|	21893|	Recetor|	Recetor|	recetor|	152|	21894|	capital|	NULL|	NULL|
+23180|	21893|	Sabanalarga|	Sabanalarga|	sabanalarga-23180|	152|	21894|	capital|	NULL|	NULL|
+23181|	21893|	Sácama|	Sácama|	sacama|	152|	21894|	capital|	NULL|	NULL|
+23182|	21893|	San Luis De Palenque|	San Luis De Palenque|	san-luis-de-palenque|	152|	21894|	capital|	NULL|	NULL|
+23183|	21893|	Támara|	Támara|	tamara|	152|	21894|	capital|	NULL|	NULL|
+23184|	21893|	Tauramena|	Tauramena|	tauramena|	152|	21894|	capital|	NULL|	NULL|
+23185|	21893|	Trinidad|	Trinidad|	trinidad|	152|	21894|	capital|	NULL|	NULL|
+23186|	21893|	Villanueva|	Villanueva|	villanueva-23186|	152|	21894|	capital|	NULL|	NULL|
+23187|	21915|	Cajibío|	Cajibío|	cajibio|	152|	21916|	capital|	NULL|	NULL|
+23188|	21915|	El Tambo|	El Tambo|	el-tambo|	152|	21916|	capital|	NULL|	NULL|
+23189|	21915|	La Sierra|	La Sierra|	la-sierra|	152|	21916|	capital|	NULL|	NULL|
+23190|	21915|	Morales|	Morales|	morales-23190|	152|	21916|	capital|	NULL|	NULL|
+23191|	21915|	Piendamo|	Piendamo|	piendamo|	152|	21916|	capital|	NULL|	NULL|
+23192|	21915|	Rosas|	Rosas|	rosas|	152|	21916|	capital|	NULL|	NULL|
+23193|	21915|	Sotara|	Sotara|	sotara|	152|	21916|	capital|	NULL|	NULL|
+23194|	21915|	Timbio|	Timbio|	timbio|	152|	21916|	capital|	NULL|	NULL|
+23195|	21915|	Buenos Aires|	Buenos Aires|	buenos-aires|	152|	21927|	capital|	NULL|	NULL|
+23196|	21915|	Caloto|	Caloto|	caloto|	152|	21927|	capital|	NULL|	NULL|
+23197|	21915|	Corinto|	Corinto|	corinto|	152|	21927|	capital|	NULL|	NULL|
+23198|	21915|	Miranda|	Miranda|	miranda|	152|	21927|	capital|	NULL|	NULL|
+23199|	21915|	Padilla|	Padilla|	padilla|	152|	21927|	capital|	NULL|	NULL|
+23200|	21915|	Puerto Tejada|	Puerto Tejada|	puerto-tejada|	152|	21927|	capital|	NULL|	NULL|
+23201|	21915|	Suarez|	Suarez|	suarez|	152|	21927|	capital|	NULL|	NULL|
+23202|	21915|	Villa Rica|	Villa Rica|	villa-rica|	152|	21927|	capital|	NULL|	NULL|
+23203|	21915|	Guapi|	Guapi|	guapi|	152|	21938|	capital|	NULL|	NULL|
+23204|	21915|	Lopez|	Lopez|	lopez|	152|	21938|	capital|	NULL|	NULL|
+23205|	21915|	Timbiqui|	Timbiqui|	timbiqui|	152|	21938|	capital|	NULL|	NULL|
+23206|	21915|	Caldono|	Caldono|	caldono|	152|	21942|	capital|	NULL|	NULL|
+23207|	21915|	Inza|	Inza|	inza|	152|	21942|	capital|	NULL|	NULL|
+23208|	21915|	Jambalo|	Jambalo|	jambalo|	152|	21942|	capital|	NULL|	NULL|
+23209|	21915|	Paez|	Paez|	paez-23209|	152|	21942|	capital|	NULL|	NULL|
+23210|	21915|	Purace|	Purace|	purace|	152|	21942|	capital|	NULL|	NULL|
+23211|	21915|	Silvia|	Silvia|	silvia|	152|	21942|	capital|	NULL|	NULL|
+23212|	21915|	Toribio|	Toribio|	toribio|	152|	21942|	capital|	NULL|	NULL|
+23213|	21915|	Totoro|	Totoro|	totoro|	152|	21942|	capital|	NULL|	NULL|
+23214|	21915|	Almaguer|	Almaguer|	almaguer|	152|	21951|	capital|	NULL|	NULL|
+23215|	21915|	Argelia|	Argelia|	argelia-23215|	152|	21951|	capital|	NULL|	NULL|
+23216|	21915|	Balboa|	Balboa|	balboa|	152|	21951|	capital|	NULL|	NULL|
+23217|	21915|	Bolívar|	Bolívar|	bolivar|	152|	21951|	capital|	NULL|	NULL|
+23218|	21915|	Florencia|	Florencia|	florencia-23218|	152|	21951|	capital|	NULL|	NULL|
+23219|	21915|	La Vega|	La Vega|	la-vega|	152|	21951|	capital|	NULL|	NULL|
+23220|	21915|	Mercaderes|	Mercaderes|	mercaderes|	152|	21951|	capital|	NULL|	NULL|
+23221|	21915|	Patia|	Patia|	patia|	152|	21951|	capital|	NULL|	NULL|
+23222|	21915|	Piamonte|	Piamonte|	piamonte|	152|	21951|	capital|	NULL|	NULL|
+23223|	21915|	San Sebastian|	San Sebastian|	san-sebastian|	152|	21951|	capital|	NULL|	NULL|
+23224|	21915|	Santa Rosa|	Santa Rosa|	santa-rosa|	152|	21951|	capital|	NULL|	NULL|
+23225|	21915|	Sucre|	Sucre|	sucre|	152|	21951|	capital|	NULL|	NULL|
+23226|	21964|	Becerril|	Becerril|	becerril|	152|	21965|	capital|	NULL|	NULL|
+23227|	21964|	Chimichagua|	Chimichagua|	chimichagua|	152|	21965|	capital|	NULL|	NULL|
+23228|	21964|	Chiriguana|	Chiriguana|	chiriguana|	152|	21965|	capital|	NULL|	NULL|
+23229|	21964|	Curumaní|	Curumaní|	curumani|	152|	21965|	capital|	NULL|	NULL|
+23230|	21964|	La Jagua De Ibirico|	La Jagua De Ibirico|	la-jagua-de-ibirico|	152|	21965|	capital|	NULL|	NULL|
+23231|	21964|	Pailitas|	Pailitas|	pailitas|	152|	21965|	capital|	NULL|	NULL|
+23232|	21964|	Tamalameque|	Tamalameque|	tamalameque|	152|	21965|	capital|	NULL|	NULL|
+23233|	21964|	Astrea|	Astrea|	astrea|	152|	21973|	capital|	NULL|	NULL|
+23234|	21964|	Bosconia|	Bosconia|	bosconia|	152|	21973|	capital|	NULL|	NULL|
+23235|	21964|	El Copey|	El Copey|	el-copey|	152|	21973|	capital|	NULL|	NULL|
+23236|	21964|	El Paso|	El Paso|	el-paso|	152|	21973|	capital|	NULL|	NULL|
+23237|	21964|	La Paz|	La Paz|	la-paz|	152|	21978|	capital|	NULL|	NULL|
+23238|	21964|	Manaure|	Manaure|	manaure-23238|	152|	21978|	capital|	NULL|	NULL|
+23239|	21964|	Pueblo Bello|	Pueblo Bello|	pueblo-bello|	152|	21978|	capital|	NULL|	NULL|
+23240|	21964|	San Diego|	San Diego|	san-diego|	152|	21978|	capital|	NULL|	NULL|
+23241|	21964|	Gamarra|	Gamarra|	gamarra|	152|	21987|	capital|	NULL|	NULL|
+23242|	21964|	González|	González|	gonzalez|	152|	21987|	capital|	NULL|	NULL|
+23243|	21964|	La Gloria|	La Gloria|	la-gloria|	152|	21987|	capital|	NULL|	NULL|
+23244|	21964|	Pelaya|	Pelaya|	pelaya|	152|	21987|	capital|	NULL|	NULL|
+23245|	21964|	Río De Oro|	Río De Oro|	rio-de-oro|	152|	21987|	capital|	NULL|	NULL|
+23246|	21964|	San Alberto|	San Alberto|	san-alberto|	152|	21987|	capital|	NULL|	NULL|
+23247|	21964|	San Martín|	San Martín|	san-martin|	152|	21987|	capital|	NULL|	NULL|
+23248|	21997|	Atrato|	Atrato|	atrato|	152|	21998|	capital|	NULL|	NULL|
+23249|	21997|	Bagadó|	Bagadó|	bagado|	152|	21998|	capital|	NULL|	NULL|
+23250|	21997|	Bojaya|	Bojaya|	bojaya|	152|	21998|	capital|	NULL|	NULL|
+23251|	21997|	El Carmen De Atrato|	El Carmen De Atrato|	el-carmen-de-atrato|	152|	21998|	capital|	NULL|	NULL|
+23252|	21997|	Lloró|	Lloró|	lloro|	152|	21998|	capital|	NULL|	NULL|
+23253|	21997|	Medio Atrato|	Medio Atrato|	medio-atrato|	152|	21998|	capital|	NULL|	NULL|
+23254|	21997|	Rio Quito|	Rio Quito|	rio-quito|	152|	21998|	capital|	NULL|	NULL|
+23255|	21997|	Acandí|	Acandí|	acandi|	152|	22008|	capital|	NULL|	NULL|
+23256|	21997|	Belén De Bajira|	Belén De Bajira|	belen-de-bajira|	152|	22008|	capital|	NULL|	NULL|
+23257|	21997|	Carmen Del Darién|	Carmen Del Darién|	carmen-del-darien|	152|	22008|	capital|	NULL|	NULL|
+23258|	21997|	Riosucio|	Riosucio|	riosucio-23258|	152|	22008|	capital|	NULL|	NULL|
+23259|	21997|	Unguía|	Unguía|	unguia|	152|	22008|	capital|	NULL|	NULL|
+23260|	21997|	Bahía Solano|	Bahía Solano|	bahia-solano|	152|	22014|	capital|	NULL|	NULL|
+23261|	21997|	Juradó|	Juradó|	jurado|	152|	22014|	capital|	NULL|	NULL|
+23262|	21997|	Nuquí|	Nuquí|	nuqui|	152|	22014|	capital|	NULL|	NULL|
+23263|	21997|	Alto Baudó|	Alto Baudó|	alto-baudo|	152|	22018|	capital|	NULL|	NULL|
+23264|	21997|	Bajo Baudó|	Bajo Baudó|	bajo-baudo|	152|	22018|	capital|	NULL|	NULL|
+23265|	21997|	El Litoral De San Juan|	El Litoral De San Juan|	el-litoral-de-san-juan|	152|	22018|	capital|	NULL|	NULL|
+23266|	21997|	Medio Baudó|	Medio Baudó|	medio-baudo|	152|	22018|	capital|	NULL|	NULL|
+23267|	21997|	Cantón De San Pablo|	Cantón De San Pablo|	canton-de-san-pablo|	152|	22023|	capital|	NULL|	NULL|
+23268|	21997|	Certegui|	Certegui|	certegui|	152|	22023|	capital|	NULL|	NULL|
+23269|	21997|	Condoto|	Condoto|	condoto|	152|	22023|	capital|	NULL|	NULL|
+23270|	21997|	Itsmina|	Itsmina|	itsmina|	152|	22023|	capital|	NULL|	NULL|
+23271|	21997|	Medio San Juan|	Medio San Juan|	medio-san-juan|	152|	22023|	capital|	NULL|	NULL|
+23272|	21997|	Nóvita|	Nóvita|	novita|	152|	22023|	capital|	NULL|	NULL|
+23273|	21997|	Río Frío|	Río Frío|	rio-frio|	152|	22023|	capital|	NULL|	NULL|
+23274|	21997|	San José Del Palmar|	San José Del Palmar|	san-jose-del-palmar|	152|	22023|	capital|	NULL|	NULL|
+23275|	21997|	Sipí|	Sipí|	sipi|	152|	22023|	capital|	NULL|	NULL|
+23276|	21997|	Tadó|	Tadó|	tado|	152|	22023|	capital|	NULL|	NULL|
+23277|	21997|	Unión Panamericana|	Unión Panamericana|	union-panamericana|	152|	22023|	capital|	NULL|	NULL|
+23278|	22035|	Tierralta|	Tierralta|	tierralta|	152|	22036|	capital|	NULL|	NULL|
+23279|	22035|	Valencia|	Valencia|	valencia|	152|	22036|	capital|	NULL|	NULL|
+23280|	22035|	Chimá|	Chimá|	chima|	152|	22039|	capital|	NULL|	NULL|
+23281|	22035|	Cotorra|	Cotorra|	cotorra|	152|	22039|	capital|	NULL|	NULL|
+23282|	22035|	Momil|	Momil|	momil|	152|	22039|	capital|	NULL|	NULL|
+23283|	22035|	Purísima|	Purísima|	purisima|	152|	22039|	capital|	NULL|	NULL|
+23284|	22035|	Canalete|	Canalete|	canalete|	152|	22049|	capital|	NULL|	NULL|
+23285|	22035|	Los Córdobas|	Los Córdobas|	los-cordobas|	152|	22049|	capital|	NULL|	NULL|
+23286|	22035|	Moñitos|	Moñitos|	monitos|	152|	22049|	capital|	NULL|	NULL|
+23287|	22035|	Puerto Escondido|	Puerto Escondido|	puerto-escondido|	152|	22049|	capital|	NULL|	NULL|
+23288|	22035|	San Antero|	San Antero|	san-antero|	152|	22049|	capital|	NULL|	NULL|
+23289|	22035|	San Bernardo Del Viento|	San Bernardo Del Viento|	san-bernardo-del-viento|	152|	22049|	capital|	NULL|	NULL|
+23290|	22035|	Chinú|	Chinú|	chinu|	152|	22056|	capital|	NULL|	NULL|
+23291|	22035|	San Andrés Sotavento|	San Andrés Sotavento|	san-andres-sotavento|	152|	22056|	capital|	NULL|	NULL|
+23292|	22035|	Buenavista|	Buenavista|	buenavista-23292|	152|	22061|	capital|	NULL|	NULL|
+23293|	22035|	La Apartada|	La Apartada|	la-apartada|	152|	22061|	capital|	NULL|	NULL|
+23294|	22035|	Pueblo Nuevo|	Pueblo Nuevo|	pueblo-nuevo|	152|	22061|	capital|	NULL|	NULL|
+23295|	22035|	Puerto Libertador|	Puerto Libertador|	puerto-libertador|	152|	22061|	capital|	NULL|	NULL|
+23296|	22035|	San Carlos|	San Carlos|	san-carlos-23296|	152|	22072|	capital|	NULL|	NULL|
+23297|	22035|	San Pelayo|	San Pelayo|	san-pelayo|	152|	22072|	capital|	NULL|	NULL|
+23298|	22079|	Chocontá|	Chocontá|	choconta|	152|	22080|	capital|	NULL|	NULL|
+23299|	22079|	Macheta|	Macheta|	macheta|	152|	22080|	capital|	NULL|	NULL|
+23300|	22079|	Manta|	Manta|	manta|	152|	22080|	capital|	NULL|	NULL|
+23301|	22079|	Sesquilé|	Sesquilé|	sesquile|	152|	22080|	capital|	NULL|	NULL|
+23302|	22079|	Suesca|	Suesca|	suesca|	152|	22080|	capital|	NULL|	NULL|
+23303|	22079|	Tibirita|	Tibirita|	tibirita|	152|	22080|	capital|	NULL|	NULL|
+23304|	22079|	Villapinzón|	Villapinzón|	villapinzon|	152|	22080|	capital|	NULL|	NULL|
+23305|	22079|	Agua De Dios|	Agua De Dios|	agua-de-dios|	152|	22088|	capital|	NULL|	NULL|
+23306|	22079|	Guataquí|	Guataquí|	guataqui|	152|	22088|	capital|	NULL|	NULL|
+23307|	22079|	Jerusalén|	Jerusalén|	jerusalen|	152|	22088|	capital|	NULL|	NULL|
+23308|	22079|	Nariño|	Nariño|	narino-23308|	152|	22088|	capital|	NULL|	NULL|
+23309|	22079|	Nilo|	Nilo|	nilo|	152|	22088|	capital|	NULL|	NULL|
+23310|	22079|	Ricaurte|	Ricaurte|	ricaurte|	152|	22088|	capital|	NULL|	NULL|
+23311|	22079|	Tocaima|	Tocaima|	tocaima|	152|	22088|	capital|	NULL|	NULL|
+23312|	22079|	Caparrapí|	Caparrapí|	caparrapi|	152|	22098|	capital|	NULL|	NULL|
+23313|	22079|	Guaduas|	Guaduas|	guaduas|	152|	22098|	capital|	NULL|	NULL|
+23314|	22079|	Puerto Salgar|	Puerto Salgar|	puerto-salgar|	152|	22098|	capital|	NULL|	NULL|
+23315|	22079|	Albán|	Albán|	alban|	152|	22102|	capital|	NULL|	NULL|
+23316|	22079|	La Peña|	La Peña|	la-pena|	152|	22102|	capital|	NULL|	NULL|
+23317|	22079|	La Vega|	La Vega|	la-vega-23317|	152|	22102|	capital|	NULL|	NULL|
+23318|	22079|	Nimaima|	Nimaima|	nimaima|	152|	22102|	capital|	NULL|	NULL|
+23319|	22079|	Nocaima|	Nocaima|	nocaima|	152|	22102|	capital|	NULL|	NULL|
+23320|	22079|	Quebradanegra|	Quebradanegra|	quebradanegra|	152|	22102|	capital|	NULL|	NULL|
+23321|	22079|	San Francisco|	San Francisco|	san-francisco-23321|	152|	22102|	capital|	NULL|	NULL|
+23322|	22079|	Sasaima|	Sasaima|	sasaima|	152|	22102|	capital|	NULL|	NULL|
+23323|	22079|	Supatá|	Supatá|	supata|	152|	22102|	capital|	NULL|	NULL|
+23324|	22079|	Útica|	Útica|	utica|	152|	22102|	capital|	NULL|	NULL|
+23325|	22079|	Vergara|	Vergara|	vergara|	152|	22102|	capital|	NULL|	NULL|
+23326|	22079|	Villeta|	Villeta|	villeta|	152|	22102|	capital|	NULL|	NULL|
+23327|	22079|	Gachala|	Gachala|	gachala|	152|	22115|	capital|	NULL|	NULL|
+23328|	22079|	Gacheta|	Gacheta|	gacheta|	152|	22115|	capital|	NULL|	NULL|
+23329|	22079|	Gama|	Gama|	gama|	152|	22115|	capital|	NULL|	NULL|
+23330|	22079|	Guasca|	Guasca|	guasca|	152|	22115|	capital|	NULL|	NULL|
+23331|	22079|	Guatavita|	Guatavita|	guatavita|	152|	22115|	capital|	NULL|	NULL|
+23332|	22079|	Junín|	Junín|	junin|	152|	22115|	capital|	NULL|	NULL|
+23333|	22079|	La Calera|	La Calera|	la-calera|	152|	22115|	capital|	NULL|	NULL|
+23334|	22079|	Ubalá|	Ubalá|	ubala|	152|	22115|	capital|	NULL|	NULL|
+23335|	22079|	Beltrán|	Beltrán|	beltran|	152|	22124|	capital|	NULL|	NULL|
+23336|	22079|	Bituima|	Bituima|	bituima|	152|	22124|	capital|	NULL|	NULL|
+23337|	22079|	Chaguaní|	Chaguaní|	chaguani|	152|	22124|	capital|	NULL|	NULL|
+23338|	22079|	Guayabal De Siquima|	Guayabal De Siquima|	guayabal-de-siquima|	152|	22124|	capital|	NULL|	NULL|
+23339|	22079|	Puli|	Puli|	puli|	152|	22124|	capital|	NULL|	NULL|
+23340|	22079|	San Juan De Río Seco|	San Juan De Río Seco|	san-juan-de-rio-seco|	152|	22124|	capital|	NULL|	NULL|
+23341|	22079|	Vianí|	Vianí|	viani|	152|	22124|	capital|	NULL|	NULL|
+23342|	22079|	Medina|	Medina|	medina|	152|	22132|	capital|	NULL|	NULL|
+23343|	22079|	Paratebueno|	Paratebueno|	paratebueno|	152|	22132|	capital|	NULL|	NULL|
+23344|	22079|	Caqueza|	Caqueza|	caqueza|	152|	22135|	capital|	NULL|	NULL|
+23345|	22079|	Chipaque|	Chipaque|	chipaque|	152|	22135|	capital|	NULL|	NULL|
+23346|	22079|	Choachí|	Choachí|	choachi|	152|	22135|	capital|	NULL|	NULL|
+23347|	22079|	Fomeque|	Fomeque|	fomeque|	152|	22135|	capital|	NULL|	NULL|
+23348|	22079|	Fosca|	Fosca|	fosca|	152|	22135|	capital|	NULL|	NULL|
+23349|	22079|	Guayabetal|	Guayabetal|	guayabetal|	152|	22135|	capital|	NULL|	NULL|
+23350|	22079|	Gutiérrez|	Gutiérrez|	gutierrez|	152|	22135|	capital|	NULL|	NULL|
+23351|	22079|	Quetame|	Quetame|	quetame|	152|	22135|	capital|	NULL|	NULL|
+23352|	22079|	Ubaque|	Ubaque|	ubaque|	152|	22135|	capital|	NULL|	NULL|
+23353|	22079|	Une|	Une|	une|	152|	22135|	capital|	NULL|	NULL|
+23354|	22079|	El Peñón|	El Peñón|	el-penon-23354|	152|	22146|	capital|	NULL|	NULL|
+23355|	22079|	La Palma|	La Palma|	la-palma|	152|	22146|	capital|	NULL|	NULL|
+23356|	22079|	Pacho|	Pacho|	pacho|	152|	22146|	capital|	NULL|	NULL|
+23357|	22079|	Paime|	Paime|	paime|	152|	22146|	capital|	NULL|	NULL|
+23358|	22079|	San Cayetano|	San Cayetano|	san-cayetano|	152|	22146|	capital|	NULL|	NULL|
+23359|	22079|	Topaipi|	Topaipi|	topaipi|	152|	22146|	capital|	NULL|	NULL|
+23360|	22079|	Villagomez|	Villagomez|	villagomez|	152|	22146|	capital|	NULL|	NULL|
+23361|	22079|	Yacopí|	Yacopí|	yacopi|	152|	22146|	capital|	NULL|	NULL|
+23362|	22079|	Cogua|	Cogua|	cogua|	152|	22155|	capital|	NULL|	NULL|
+23363|	22079|	Gachancipá|	Gachancipá|	gachancipa|	152|	22155|	capital|	NULL|	NULL|
+23364|	22079|	Nemocón|	Nemocón|	nemocon|	152|	22155|	capital|	NULL|	NULL|
+23365|	22079|	Sopó|	Sopó|	sopo|	152|	22155|	capital|	NULL|	NULL|
+23366|	22079|	Tabio|	Tabio|	tabio|	152|	22155|	capital|	NULL|	NULL|
+23367|	22079|	Tocancipá|	Tocancipá|	tocancipa|	152|	22155|	capital|	NULL|	NULL|
+23368|	22079|	Bojacá|	Bojacá|	bojaca|	152|	22168|	capital|	NULL|	NULL|
+23369|	22079|	Cota|	Cota|	cota|	152|	22168|	capital|	NULL|	NULL|
+23370|	22079|	El Rosal|	El Rosal|	el-rosal|	152|	22168|	capital|	NULL|	NULL|
+23371|	22079|	Subachoque|	Subachoque|	subachoque|	152|	22168|	capital|	NULL|	NULL|
+23372|	22079|	Tenjo|	Tenjo|	tenjo|	152|	22168|	capital|	NULL|	NULL|
+23373|	22079|	Zipacon|	Zipacon|	zipacon|	152|	22168|	capital|	NULL|	NULL|
+23374|	22079|	Sibate|	Sibate|	sibate|	152|	22183|	capital|	NULL|	NULL|
+23375|	22079|	Arbeláez|	Arbeláez|	arbelaez|	152|	22187|	capital|	NULL|	NULL|
+23376|	22079|	Cabrera|	Cabrera|	cabrera|	152|	22187|	capital|	NULL|	NULL|
+23377|	22079|	Granada|	Granada|	granada-23377|	152|	22187|	capital|	NULL|	NULL|
+23378|	22079|	Pandi|	Pandi|	pandi|	152|	22187|	capital|	NULL|	NULL|
+23379|	22079|	Pasca|	Pasca|	pasca|	152|	22187|	capital|	NULL|	NULL|
+23380|	22079|	San Bernardo|	San Bernardo|	san-bernardo|	152|	22187|	capital|	NULL|	NULL|
+23381|	22079|	Silvania|	Silvania|	silvania|	152|	22187|	capital|	NULL|	NULL|
+23382|	22079|	Tibacuy|	Tibacuy|	tibacuy|	152|	22187|	capital|	NULL|	NULL|
+23383|	22079|	Venecia|	Venecia|	venecia-23383|	152|	22187|	capital|	NULL|	NULL|
+23384|	22079|	Anapoima|	Anapoima|	anapoima|	152|	22199|	capital|	NULL|	NULL|
+23385|	22079|	Anolaima|	Anolaima|	anolaima|	152|	22199|	capital|	NULL|	NULL|
+23386|	22079|	Apulo|	Apulo|	apulo|	152|	22199|	capital|	NULL|	NULL|
+23387|	22079|	Cachipay|	Cachipay|	cachipay|	152|	22199|	capital|	NULL|	NULL|
+23388|	22079|	El Colegio|	El Colegio|	el-colegio|	152|	22199|	capital|	NULL|	NULL|
+23389|	22079|	La Mesa|	La Mesa|	la-mesa|	152|	22199|	capital|	NULL|	NULL|
+23390|	22079|	Quipile|	Quipile|	quipile|	152|	22199|	capital|	NULL|	NULL|
+23391|	22079|	San Antonio De Tequendama|	San Antonio De Tequendama|	san-antonio-de-tequendama|	152|	22199|	capital|	NULL|	NULL|
+23392|	22079|	Tena |	Tena |	tena|	152|	22199|	capital|	NULL|	NULL|
+23393|	22079|	Viotá|	Viotá|	viota|	152|	22199|	capital|	NULL|	NULL|
+23394|	22079|	Carmen De Carupa|	Carmen De Carupa|	carmen-de-carupa|	152|	22210|	capital|	NULL|	NULL|
+23395|	22079|	Cucunubá|	Cucunubá|	cucunuba|	152|	22210|	capital|	NULL|	NULL|
+23396|	22079|	Fúquene|	Fúquene|	fuquene|	152|	22210|	capital|	NULL|	NULL|
+23397|	22079|	Guachetá|	Guachetá|	guacheta|	152|	22210|	capital|	NULL|	NULL|
+23398|	22079|	Lenguazaque|	Lenguazaque|	lenguazaque|	152|	22210|	capital|	NULL|	NULL|
+23399|	22079|	Simijaca|	Simijaca|	simijaca|	152|	22210|	capital|	NULL|	NULL|
+23400|	22079|	Susa|	Susa|	susa|	152|	22210|	capital|	NULL|	NULL|
+23401|	22079|	Sutatausa|	Sutatausa|	sutatausa|	152|	22210|	capital|	NULL|	NULL|
+23402|	22079|	Tausa|	Tausa|	tausa|	152|	22210|	capital|	NULL|	NULL|
+23403|	22079|	Ubate|	Ubate|	ubate|	152|	22210|	capital|	NULL|	NULL|
+23404|	22221|	Barranco Mina|	Barranco Mina|	barranco-mina|	152|	22222|	capital|	NULL|	NULL|
+23405|	22221|	Cacahual|	Cacahual|	cacahual|	152|	22222|	capital|	NULL|	NULL|
+23406|	22221|	La Guadalupe|	La Guadalupe|	la-guadalupe|	152|	22222|	capital|	NULL|	NULL|
+23407|	22221|	Mapiripan|	Mapiripan|	mapiripan|	152|	22222|	capital|	NULL|	NULL|
+23408|	22221|	Morichal|	Morichal|	morichal|	152|	22222|	capital|	NULL|	NULL|
+23409|	22221|	Pana Pana|	Pana Pana|	pana-pana|	152|	22222|	capital|	NULL|	NULL|
+23410|	22221|	Puerto Colombia|	Puerto Colombia|	puerto-colombia-23410|	152|	22222|	capital|	NULL|	NULL|
+23411|	22221|	San Felipe|	San Felipe|	san-felipe|	152|	22222|	capital|	NULL|	NULL|
+23412|	22233|	Calamar|	Calamar|	calamar-23412|	152|	22234|	capital|	NULL|	NULL|
+23413|	22233|	El Retorno|	El Retorno|	el-retorno|	152|	22234|	capital|	NULL|	NULL|
+23414|	22233|	Miraflores|	Miraflores|	miraflores-23414|	152|	22234|	capital|	NULL|	NULL|
+23415|	22240|	Agrado|	Agrado|	agrado|	152|	22241|	capital|	NULL|	NULL|
+23416|	22240|	Altamira|	Altamira|	altamira|	152|	22241|	capital|	NULL|	NULL|
+23417|	22240|	Gigante|	Gigante|	gigante|	152|	22241|	capital|	NULL|	NULL|
+23418|	22240|	Guadalupe|	Guadalupe|	guadalupe-23418|	152|	22241|	capital|	NULL|	NULL|
+23419|	22240|	Pital|	Pital|	pital|	152|	22241|	capital|	NULL|	NULL|
+23420|	22240|	Suaza|	Suaza|	suaza|	152|	22241|	capital|	NULL|	NULL|
+23421|	22240|	Tarqui|	Tarqui|	tarqui|	152|	22241|	capital|	NULL|	NULL|
+23422|	22240|	Aipe|	Aipe|	aipe|	152|	22251|	capital|	NULL|	NULL|
+23423|	22240|	Algeciras|	Algeciras|	algeciras|	152|	22251|	capital|	NULL|	NULL|
+23424|	22240|	Baraya|	Baraya|	baraya|	152|	22251|	capital|	NULL|	NULL|
+23425|	22240|	Campoalegre|	Campoalegre|	campoalegre|	152|	22251|	capital|	NULL|	NULL|
+23426|	22240|	Colombia|	Colombia|	colombia|	152|	22251|	capital|	NULL|	NULL|
+23427|	22240|	Hobo|	Hobo|	hobo|	152|	22251|	capital|	NULL|	NULL|
+23428|	22240|	Iquira|	Iquira|	iquira|	152|	22251|	capital|	NULL|	NULL|
+23429|	22240|	Palermo|	Palermo|	palermo|	152|	22251|	capital|	NULL|	NULL|
+23430|	22240|	Rivera|	Rivera|	rivera|	152|	22251|	capital|	NULL|	NULL|
+23431|	22240|	Santa María|	Santa María|	santa-maria-23431|	152|	22251|	capital|	NULL|	NULL|
+23432|	22240|	Tello|	Tello|	tello|	152|	22251|	capital|	NULL|	NULL|
+23433|	22240|	Teruel|	Teruel|	teruel|	152|	22251|	capital|	NULL|	NULL|
+23434|	22240|	Villavieja|	Villavieja|	villavieja|	152|	22251|	capital|	NULL|	NULL|
+23435|	22240|	Yaguará|	Yaguará|	yaguara|	152|	22251|	capital|	NULL|	NULL|
+23436|	22240|	La Argentina|	La Argentina|	la-argentina|	152|	22268|	capital|	NULL|	NULL|
+23437|	22240|	Nátaga|	Nátaga|	nataga|	152|	22268|	capital|	NULL|	NULL|
+23438|	22240|	Paicol|	Paicol|	paicol|	152|	22268|	capital|	NULL|	NULL|
+23439|	22240|	Tesalia|	Tesalia|	tesalia|	152|	22268|	capital|	NULL|	NULL|
+23440|	22240|	Acevedo|	Acevedo|	acevedo|	152|	22275|	capital|	NULL|	NULL|
+23441|	22240|	Elías|	Elías|	elias|	152|	22275|	capital|	NULL|	NULL|
+23442|	22240|	Isnos|	Isnos|	isnos|	152|	22275|	capital|	NULL|	NULL|
+23443|	22240|	Oporapa|	Oporapa|	oporapa|	152|	22275|	capital|	NULL|	NULL|
+23444|	22240|	Palestina|	Palestina|	palestina-23444|	152|	22275|	capital|	NULL|	NULL|
+23445|	22240|	Saladoblanco|	Saladoblanco|	saladoblanco|	152|	22275|	capital|	NULL|	NULL|
+23446|	22240|	San Agustín|	San Agustín|	san-agustin|	152|	22275|	capital|	NULL|	NULL|
+23447|	22240|	Timaná|	Timaná|	timana|	152|	22275|	capital|	NULL|	NULL|
+23448|	22286|	Albania|	Albania|	albania-23448|	152|	22287|	capital|	NULL|	NULL|
+23449|	22286|	Dibulla|	Dibulla|	dibulla|	152|	22287|	capital|	NULL|	NULL|
+23450|	22286|	Barrancas|	Barrancas|	barrancas|	152|	22298|	capital|	NULL|	NULL|
+23451|	22286|	Distraccion|	Distraccion|	distraccion|	152|	22298|	capital|	NULL|	NULL|
+23452|	22286|	El Molino|	El Molino|	el-molino|	152|	22298|	capital|	NULL|	NULL|
+23453|	22286|	Fonseca|	Fonseca|	fonseca|	152|	22298|	capital|	NULL|	NULL|
+23454|	22286|	Hatonuevo|	Hatonuevo|	hatonuevo|	152|	22298|	capital|	NULL|	NULL|
+23455|	22286|	La Jagua Del Pilar|	La Jagua Del Pilar|	la-jagua-del-pilar|	152|	22298|	capital|	NULL|	NULL|
+23456|	22286|	San Juan Del Cesar|	San Juan Del Cesar|	san-juan-del-cesar|	152|	22298|	capital|	NULL|	NULL|
+23457|	22286|	Urumita|	Urumita|	urumita|	152|	22298|	capital|	NULL|	NULL|
+23458|	22286|	Villanueva|	Villanueva|	villanueva-23458|	152|	22298|	capital|	NULL|	NULL|
+23459|	22308|	Ariguaní|	Ariguaní|	ariguani|	152|	22309|	capital|	NULL|	NULL|
+23460|	22308|	Chibolo|	Chibolo|	chibolo|	152|	22309|	capital|	NULL|	NULL|
+23461|	22308|	Nueva Granada|	Nueva Granada|	nueva-granada|	152|	22309|	capital|	NULL|	NULL|
+23462|	22308|	Sabanas De San Angel|	Sabanas De San Angel|	sabanas-de-san-angel|	152|	22309|	capital|	NULL|	NULL|
+23463|	22308|	Tenerife|	Tenerife|	tenerife|	152|	22309|	capital|	NULL|	NULL|
+23464|	22308|	Algarrobo|	Algarrobo|	algarrobo|	152|	22317|	capital|	NULL|	NULL|
+23465|	22308|	Aracataca|	Aracataca|	aracataca|	152|	22317|	capital|	NULL|	NULL|
+23466|	22308|	El Reten|	El Reten|	el-reten|	152|	22317|	capital|	NULL|	NULL|
+23467|	22308|	Pueblo Viejo|	Pueblo Viejo|	pueblo-viejo|	152|	22317|	capital|	NULL|	NULL|
+23468|	22308|	Cerro San Antonio|	Cerro San Antonio|	cerro-san-antonio|	152|	22328|	capital|	NULL|	NULL|
+23469|	22308|	Concordia|	Concordia|	concordia-23469|	152|	22328|	capital|	NULL|	NULL|
+23470|	22308|	El Piñón|	El Piñón|	el-pinon|	152|	22328|	capital|	NULL|	NULL|
+23471|	22308|	Pedraza|	Pedraza|	pedraza|	152|	22328|	capital|	NULL|	NULL|
+23472|	22308|	Pivijay|	Pivijay|	pivijay|	152|	22328|	capital|	NULL|	NULL|
+23473|	22308|	Remolino|	Remolino|	remolino|	152|	22328|	capital|	NULL|	NULL|
+23474|	22308|	Salamina|	Salamina|	salamina-23474|	152|	22328|	capital|	NULL|	NULL|
+23475|	22308|	Sitionuevo|	Sitionuevo|	sitionuevo|	152|	22328|	capital|	NULL|	NULL|
+23476|	22308|	Zapayan|	Zapayan|	zapayan|	152|	22328|	capital|	NULL|	NULL|
+23477|	22308|	Guamal|	Guamal|	guamal|	152|	22341|	capital|	NULL|	NULL|
+23478|	22308|	Pijiño Del Carmen|	Pijiño Del Carmen|	pijino-del-carmen|	152|	22341|	capital|	NULL|	NULL|
+23479|	22308|	San Sebastián De Buenavista|	San Sebastián De Buenavista|	san-sebastian-de-buenavista|	152|	22341|	capital|	NULL|	NULL|
+23480|	22308|	San Zenon|	San Zenon|	san-zenon|	152|	22341|	capital|	NULL|	NULL|
+23481|	22308|	Santa Ana|	Santa Ana|	santa-ana|	152|	22341|	capital|	NULL|	NULL|
+23482|	22308|	Santa Bárbara De Pinto|	Santa Bárbara De Pinto|	santa-barbara-de-pinto|	152|	22341|	capital|	NULL|	NULL|
+23483|	22350|	El Castillo|	El Castillo|	el-castillo|	152|	22351|	capital|	NULL|	NULL|
+23484|	22350|	El Dorado|	El Dorado|	el-dorado|	152|	22351|	capital|	NULL|	NULL|
+23485|	22350|	Fuente De Oro|	Fuente De Oro|	fuente-de-oro|	152|	22351|	capital|	NULL|	NULL|
+23486|	22350|	Granada|	Granada|	granada-23486|	152|	22351|	capital|	NULL|	NULL|
+23487|	22350|	La Macarena|	La Macarena|	la-macarena|	152|	22351|	capital|	NULL|	NULL|
+23488|	22350|	La Uribe|	La Uribe|	la-uribe|	152|	22351|	capital|	NULL|	NULL|
+23489|	22350|	Lejanías|	Lejanías|	lejanias|	152|	22351|	capital|	NULL|	NULL|
+23490|	22350|	Mapiripan|	Mapiripan|	mapiripan-23490|	152|	22351|	capital|	NULL|	NULL|
+23491|	22350|	Mesetas|	Mesetas|	mesetas|	152|	22351|	capital|	NULL|	NULL|
+23492|	22350|	Puerto Concordia|	Puerto Concordia|	puerto-concordia|	152|	22351|	capital|	NULL|	NULL|
+23493|	22350|	Puerto Lleras|	Puerto Lleras|	puerto-lleras|	152|	22351|	capital|	NULL|	NULL|
+23494|	22350|	Puerto Rico|	Puerto Rico|	puerto-rico-23494|	152|	22351|	capital|	NULL|	NULL|
+23495|	22350|	San Juan De Arama|	San Juan De Arama|	san-juan-de-arama|	152|	22351|	capital|	NULL|	NULL|
+23496|	22350|	Vista Hermosa|	Vista Hermosa|	vista-hermosa|	152|	22351|	capital|	NULL|	NULL|
+23497|	22350|	Barranca De Upia|	Barranca De Upia|	barranca-de-upia|	152|	22369|	capital|	NULL|	NULL|
+23498|	22350|	Castilla La Nueva|	Castilla La Nueva|	castilla-la-nueva|	152|	22369|	capital|	NULL|	NULL|
+23499|	22350|	Cubarral|	Cubarral|	cubarral|	152|	22369|	capital|	NULL|	NULL|
+23500|	22350|	El Calvario|	El Calvario|	el-calvario|	152|	22369|	capital|	NULL|	NULL|
+23501|	22350|	Guamal|	Guamal|	guamal-23501|	152|	22369|	capital|	NULL|	NULL|
+23502|	22350|	Restrepo|	Restrepo|	restrepo|	152|	22369|	capital|	NULL|	NULL|
+23503|	22350|	San Carlos Guaroa|	San Carlos Guaroa|	san-carlos-guaroa|	152|	22369|	capital|	NULL|	NULL|
+23504|	22350|	San Juanito|	San Juanito|	san-juanito|	152|	22369|	capital|	NULL|	NULL|
+23505|	22350|	San Luis De Cubarral|	San Luis De Cubarral|	san-luis-de-cubarral|	152|	22369|	capital|	NULL|	NULL|
+23506|	22350|	San Martín|	San Martín|	san-martin-23506|	152|	22369|	capital|	NULL|	NULL|
+23507|	22350|	Cabuyaro|	Cabuyaro|	cabuyaro|	152|	22382|	capital|	NULL|	NULL|
+23508|	22350|	Puerto Gaitán|	Puerto Gaitán|	puerto-gaitan|	152|	22382|	capital|	NULL|	NULL|
+23509|	22350|	Puerto López|	Puerto López|	puerto-lopez|	152|	22382|	capital|	NULL|	NULL|
+23510|	22386|	Chanchagüí|	Chanchagüí|	chanchagui|	152|	22387|	capital|	NULL|	NULL|
+23511|	22386|	Consaca|	Consaca|	consaca|	152|	22387|	capital|	NULL|	NULL|
+23512|	22386|	El Peñol|	El Peñol|	el-penol|	152|	22387|	capital|	NULL|	NULL|
+23513|	22386|	El Tambo|	El Tambo|	el-tambo-23513|	152|	22387|	capital|	NULL|	NULL|
+23514|	22386|	La Florida|	La Florida|	la-florida|	152|	22387|	capital|	NULL|	NULL|
+23515|	22386|	Nariño|	Nariño|	narino-23515|	152|	22387|	capital|	NULL|	NULL|
+23516|	22386|	Pasto|	Pasto|	pasto|	152|	22387|	capital|	NULL|	NULL|
+23517|	22386|	Sandoná|	Sandoná|	sandona|	152|	22387|	capital|	NULL|	NULL|
+23518|	22386|	Tangua|	Tangua|	tangua|	152|	22387|	capital|	NULL|	NULL|
+23519|	22386|	Yacuanquer|	Yacuanquer|	yacuanquer|	152|	22387|	capital|	NULL|	NULL|
+23520|	22386|	Ancuya|	Ancuya|	ancuya|	152|	22399|	capital|	NULL|	NULL|
+23521|	22386|	Guaitarilla|	Guaitarilla|	guaitarilla|	152|	22399|	capital|	NULL|	NULL|
+23522|	22386|	La Llanada|	La Llanada|	la-llanada|	152|	22399|	capital|	NULL|	NULL|
+23523|	22386|	Linares|	Linares|	linares|	152|	22399|	capital|	NULL|	NULL|
+23524|	22386|	Los Andes|	Los Andes|	los-andes|	152|	22399|	capital|	NULL|	NULL|
+23525|	22386|	Mallama|	Mallama|	mallama|	152|	22399|	capital|	NULL|	NULL|
+23526|	22386|	Ospina|	Ospina|	ospina|	152|	22399|	capital|	NULL|	NULL|
+23527|	22386|	Providencia|	Providencia|	providencia|	152|	22399|	capital|	NULL|	NULL|
+23528|	22386|	Ricaurte|	Ricaurte|	ricaurte-23528|	152|	22399|	capital|	NULL|	NULL|
+23529|	22386|	Samaniego|	Samaniego|	samaniego|	152|	22399|	capital|	NULL|	NULL|
+23530|	22386|	Santa Cruz|	Santa Cruz|	santa-cruz|	152|	22399|	capital|	NULL|	NULL|
+23531|	22386|	Sapuyes|	Sapuyes|	sapuyes|	152|	22399|	capital|	NULL|	NULL|
+23532|	22386|	Tuquerres|	Tuquerres|	tuquerres|	152|	22399|	capital|	NULL|	NULL|
+23533|	22386|	Barbacoas|	Barbacoas|	barbacoas|	152|	22413|	capital|	NULL|	NULL|
+23534|	22386|	El Charco|	El Charco|	el-charco|	152|	22413|	capital|	NULL|	NULL|
+23535|	22386|	Francisco Pizarro|	Francisco Pizarro|	francisco-pizarro|	152|	22413|	capital|	NULL|	NULL|
+23536|	22386|	La Tola|	La Tola|	la-tola|	152|	22413|	capital|	NULL|	NULL|
+23537|	22386|	Magui|	Magui|	magui|	152|	22413|	capital|	NULL|	NULL|
+23538|	22386|	Mosquera|	Mosquera|	mosquera-23538|	152|	22413|	capital|	NULL|	NULL|
+23539|	22386|	Olaya Herrera|	Olaya Herrera|	olaya-herrera|	152|	22413|	capital|	NULL|	NULL|
+23540|	22386|	Roberto Payan|	Roberto Payan|	roberto-payan|	152|	22413|	capital|	NULL|	NULL|
+23541|	22386|	Santa Bárbara|	Santa Bárbara|	santa-barbara-23541|	152|	22413|	capital|	NULL|	NULL|
+23542|	22386|	Tumaco|	Tumaco|	tumaco|	152|	22413|	capital|	NULL|	NULL|
+23543|	22386|	Alban|	Alban|	alban-23543|	152|	22425|	capital|	NULL|	NULL|
+23544|	22386|	Arboleda|	Arboleda|	arboleda|	152|	22425|	capital|	NULL|	NULL|
+23545|	22386|	Belen|	Belen|	belen-23545|	152|	22425|	capital|	NULL|	NULL|
+23546|	22386|	Buesaco|	Buesaco|	buesaco|	152|	22425|	capital|	NULL|	NULL|
+23547|	22386|	Colon|	Colon|	colon|	152|	22425|	capital|	NULL|	NULL|
+23548|	22386|	Cumbitara|	Cumbitara|	cumbitara|	152|	22425|	capital|	NULL|	NULL|
+23549|	22386|	El Rosario|	El Rosario|	el-rosario|	152|	22425|	capital|	NULL|	NULL|
+23550|	22386|	El Tablon De Gomez|	El Tablon De Gomez|	el-tablon-de-gomez|	152|	22425|	capital|	NULL|	NULL|
+23551|	22386|	La Cruz|	La Cruz|	la-cruz|	152|	22425|	capital|	NULL|	NULL|
+23552|	22386|	La Unión|	La Unión|	la-union-23552|	152|	22425|	capital|	NULL|	NULL|
+23553|	22386|	Leiva|	Leiva|	leiva|	152|	22425|	capital|	NULL|	NULL|
+23554|	22386|	Policarpa|	Policarpa|	policarpa|	152|	22425|	capital|	NULL|	NULL|
+23555|	22386|	San Bernardo|	San Bernardo|	san-bernardo-23555|	152|	22425|	capital|	NULL|	NULL|
+23556|	22386|	San Lorenzo|	San Lorenzo|	san-lorenzo|	152|	22425|	capital|	NULL|	NULL|
+23557|	22386|	San Pablo|	San Pablo|	san-pablo-23557|	152|	22425|	capital|	NULL|	NULL|
+23558|	22386|	San Pedro De Cartago|	San Pedro De Cartago|	san-pedro-de-cartago|	152|	22425|	capital|	NULL|	NULL|
+23559|	22386|	Taminango|	Taminango|	taminango|	152|	22425|	capital|	NULL|	NULL|
+23560|	22386|	Aldana|	Aldana|	aldana|	152|	22443|	capital|	NULL|	NULL|
+23561|	22386|	Contadero|	Contadero|	contadero|	152|	22443|	capital|	NULL|	NULL|
+23562|	22386|	Córdoba|	Córdoba|	cordoba-23562|	152|	22443|	capital|	NULL|	NULL|
+23563|	22386|	Cuaspud|	Cuaspud|	cuaspud|	152|	22443|	capital|	NULL|	NULL|
+23564|	22386|	Cumbal|	Cumbal|	cumbal|	152|	22443|	capital|	NULL|	NULL|
+23565|	22386|	Funes|	Funes|	funes|	152|	22443|	capital|	NULL|	NULL|
+23566|	22386|	Guachucal|	Guachucal|	guachucal|	152|	22443|	capital|	NULL|	NULL|
+23567|	22386|	Gualmatan|	Gualmatan|	gualmatan|	152|	22443|	capital|	NULL|	NULL|
+23568|	22386|	Iles|	Iles|	iles|	152|	22443|	capital|	NULL|	NULL|
+23569|	22386|	Imues|	Imues|	imues|	152|	22443|	capital|	NULL|	NULL|
+23570|	22386|	Potosí|	Potosí|	potosi|	152|	22443|	capital|	NULL|	NULL|
+23571|	22386|	Puerres|	Puerres|	puerres|	152|	22443|	capital|	NULL|	NULL|
+23572|	22386|	Pupiales|	Pupiales|	pupiales|	152|	22443|	capital|	NULL|	NULL|
+23573|	22459|	Arboledas|	Arboledas|	arboledas|	152|	22460|	capital|	NULL|	NULL|
+23574|	22459|	Cucutilla|	Cucutilla|	cucutilla|	152|	22460|	capital|	NULL|	NULL|
+23575|	22459|	Gramalote|	Gramalote|	gramalote|	152|	22460|	capital|	NULL|	NULL|
+23576|	22459|	Lourdes|	Lourdes|	lourdes|	152|	22460|	capital|	NULL|	NULL|
+23577|	22459|	Salazar|	Salazar|	salazar|	152|	22460|	capital|	NULL|	NULL|
+23578|	22459|	Santiago|	Santiago|	santiago|	152|	22460|	capital|	NULL|	NULL|
+23579|	22459|	Villa Caro|	Villa Caro|	villa-caro|	152|	22460|	capital|	NULL|	NULL|
+23580|	22459|	Bucarasica|	Bucarasica|	bucarasica|	152|	22468|	capital|	NULL|	NULL|
+23581|	22459|	El Tarra|	El Tarra|	el-tarra|	152|	22468|	capital|	NULL|	NULL|
+23582|	22459|	Sardinata|	Sardinata|	sardinata|	152|	22468|	capital|	NULL|	NULL|
+23583|	22459|	Tibú|	Tibú|	tibu|	152|	22468|	capital|	NULL|	NULL|
+23584|	22459|	Abrego|	Abrego|	abrego|	152|	22473|	capital|	NULL|	NULL|
+23585|	22459|	Cachirá|	Cachirá|	cachira|	152|	22473|	capital|	NULL|	NULL|
+23586|	22459|	Convención|	Convención|	convencion|	152|	22473|	capital|	NULL|	NULL|
+23587|	22459|	El Carmen|	El Carmen|	el-carmen|	152|	22473|	capital|	NULL|	NULL|
+23588|	22459|	Hacarí|	Hacarí|	hacari|	152|	22473|	capital|	NULL|	NULL|
+23589|	22459|	La Esperanza|	La Esperanza|	la-esperanza|	152|	22473|	capital|	NULL|	NULL|
+23590|	22459|	La Playa|	La Playa|	la-playa|	152|	22473|	capital|	NULL|	NULL|
+23591|	22459|	San Calixto|	San Calixto|	san-calixto|	152|	22473|	capital|	NULL|	NULL|
+23592|	22459|	Teorama|	Teorama|	teorama|	152|	22473|	capital|	NULL|	NULL|
+23593|	22459|	El Zulia|	El Zulia|	el-zulia|	152|	22485|	capital|	NULL|	NULL|
+23594|	22459|	Puerto Santander|	Puerto Santander|	puerto-santander-23594|	152|	22485|	capital|	NULL|	NULL|
+23595|	22459|	San Cayetano|	San Cayetano|	san-cayetano-23595|	152|	22485|	capital|	NULL|	NULL|
+23596|	22459|	Cácota|	Cácota|	cacota|	152|	22495|	capital|	NULL|	NULL|
+23597|	22459|	Chitagá|	Chitagá|	chitaga|	152|	22495|	capital|	NULL|	NULL|
+23598|	22459|	Mutiscua|	Mutiscua|	mutiscua|	152|	22495|	capital|	NULL|	NULL|
+23599|	22459|	Pamplonita|	Pamplonita|	pamplonita|	152|	22495|	capital|	NULL|	NULL|
+23600|	22459|	Silos|	Silos|	silos|	152|	22495|	capital|	NULL|	NULL|
+23601|	22459|	Bochalema|	Bochalema|	bochalema|	152|	22503|	capital|	NULL|	NULL|
+23602|	22459|	Chinácota|	Chinácota|	chinacota|	152|	22503|	capital|	NULL|	NULL|
+23603|	22459|	Durania|	Durania|	durania|	152|	22503|	capital|	NULL|	NULL|
+23604|	22459|	Herrán|	Herrán|	herran|	152|	22503|	capital|	NULL|	NULL|
+23605|	22459|	Labateca|	Labateca|	labateca|	152|	22503|	capital|	NULL|	NULL|
+23606|	22459|	Ragonvalia|	Ragonvalia|	ragonvalia|	152|	22503|	capital|	NULL|	NULL|
+23607|	22459|	Toledo|	Toledo|	toledo-23607|	152|	22503|	capital|	NULL|	NULL|
+23608|	22511|	Colón|	Colón|	colon-23608|	152|	22512|	capital|	NULL|	NULL|
+23609|	22511|	Mocoa|	Mocoa|	mocoa|	152|	22512|	capital|	NULL|	NULL|
+23610|	22511|	Orito|	Orito|	orito|	152|	22512|	capital|	NULL|	NULL|
+23611|	22511|	Puerto Asis|	Puerto Asis|	puerto-asis|	152|	22512|	capital|	NULL|	NULL|
+23612|	22511|	Puerto Caicedo|	Puerto Caicedo|	puerto-caicedo|	152|	22512|	capital|	NULL|	NULL|
+23613|	22511|	Puerto Guzman|	Puerto Guzman|	puerto-guzman|	152|	22512|	capital|	NULL|	NULL|
+23614|	22511|	Puerto Leguizamo|	Puerto Leguizamo|	puerto-leguizamo|	152|	22512|	capital|	NULL|	NULL|
+23615|	22511|	San Miguel|	San Miguel|	san-miguel|	152|	22512|	capital|	NULL|	NULL|
+23616|	22511|	Sann Francisco|	Sann Francisco|	sann-francisco|	152|	22512|	capital|	NULL|	NULL|
+23617|	22511|	Santiago|	Santiago|	santiago-23617|	152|	22512|	capital|	NULL|	NULL|
+23618|	22511|	Sibundoy|	Sibundoy|	sibundoy|	152|	22512|	capital|	NULL|	NULL|
+23619|	22511|	Valle Del Guamez|	Valle Del Guamez|	valle-del-guamez|	152|	22512|	capital|	NULL|	NULL|
+23620|	22511|	Villa Garzon|	Villa Garzon|	villa-garzon|	152|	22512|	capital|	NULL|	NULL|
+23621|	22526|	Buenavista|	Buenavista|	buenavista-23621|	152|	22527|	capital|	NULL|	NULL|
+23622|	22526|	Cordoba |	Cordoba |	cordoba-23622|	152|	22533|	capital|	NULL|	NULL|
+23623|	22526|	Genova|	Genova|	genova|	152|	22533|	capital|	NULL|	NULL|
+23624|	22526|	Pijao|	Pijao|	pijao|	152|	22533|	capital|	NULL|	NULL|
+23625|	22526|	Filandia|	Filandia|	filandia|	152|	22537|	capital|	NULL|	NULL|
+23626|	22526|	Salento|	Salento|	salento|	152|	22537|	capital|	NULL|	NULL|
+23627|	22526|	Circasia|	Circasia|	circasia|	152|	22540|	capital|	NULL|	NULL|
+23628|	22526|	La Tebaida|	La Tebaida|	la-tebaida|	152|	22542|	capital|	NULL|	NULL|
+23629|	22526|	Montenegro|	Montenegro|	montenegro|	152|	22542|	capital|	NULL|	NULL|
+23630|	22526|	Quimbaya|	Quimbaya|	quimbaya|	152|	22542|	capital|	NULL|	NULL|
+23631|	22546|	Apía|	Apía|	apia|	152|	22556|	capital|	NULL|	NULL|
+23632|	22546|	Balboa|	Balboa|	balboa-23632|	152|	22556|	capital|	NULL|	NULL|
+23633|	22546|	Belén De Umbría|	Belén De Umbría|	belen-de-umbria|	152|	22556|	capital|	NULL|	NULL|
+23634|	22546|	Guática|	Guática|	guatica|	152|	22556|	capital|	NULL|	NULL|
+23635|	22546|	La Celia|	La Celia|	la-celia|	152|	22556|	capital|	NULL|	NULL|
+23636|	22546|	Quinchia|	Quinchia|	quinchia|	152|	22556|	capital|	NULL|	NULL|
+23637|	22546|	Santuario|	Santuario|	santuario-23637|	152|	22556|	capital|	NULL|	NULL|
+23638|	22546|	Mistrató|	Mistrató|	mistrato|	152|	22564|	capital|	NULL|	NULL|
+23639|	22546|	Pueblo Rico|	Pueblo Rico|	pueblo-rico|	152|	22564|	capital|	NULL|	NULL|
+23640|	22546|	La Virginia|	La Virginia|	la-virginia|	152|	22547|	capital|	NULL|	NULL|
+23641|	22546|	Marsella|	Marsella|	marsella|	152|	22547|	capital|	NULL|	NULL|
+23642|	22567|	Chima|	Chima|	chima-23642|	152|	22568|	capital|	NULL|	NULL|
+23643|	22567|	Confines|	Confines|	confines|	152|	22568|	capital|	NULL|	NULL|
+23644|	22567|	Contratación|	Contratación|	contratacion|	152|	22568|	capital|	NULL|	NULL|
+23645|	22567|	El Guacamayo|	El Guacamayo|	el-guacamayo|	152|	22568|	capital|	NULL|	NULL|
+23646|	22567|	Galán|	Galán|	galan|	152|	22568|	capital|	NULL|	NULL|
+23647|	22567|	Gambita|	Gambita|	gambita|	152|	22568|	capital|	NULL|	NULL|
+23648|	22567|	Guadalupe|	Guadalupe|	guadalupe-23648|	152|	22568|	capital|	NULL|	NULL|
+23649|	22567|	Guapotá|	Guapotá|	guapota|	152|	22568|	capital|	NULL|	NULL|
+23650|	22567|	Hato|	Hato|	hato|	152|	22568|	capital|	NULL|	NULL|
+23651|	22567|	Oiba|	Oiba|	oiba|	152|	22568|	capital|	NULL|	NULL|
+23652|	22567|	Palmar|	Palmar|	palmar|	152|	22568|	capital|	NULL|	NULL|
+23653|	22567|	Palmas Del Socorro|	Palmas Del Socorro|	palmas-del-socorro|	152|	22568|	capital|	NULL|	NULL|
+23654|	22567|	Santa Helena Del Opón|	Santa Helena Del Opón|	santa-helena-del-opon|	152|	22568|	capital|	NULL|	NULL|
+23655|	22567|	Simacota|	Simacota|	simacota|	152|	22568|	capital|	NULL|	NULL|
+23656|	22567|	Socorro|	Socorro|	socorro|	152|	22568|	capital|	NULL|	NULL|
+23657|	22567|	Suaita|	Suaita|	suaita|	152|	22568|	capital|	NULL|	NULL|
+23658|	22567|	Capitanejo|	Capitanejo|	capitanejo|	152|	22585|	capital|	NULL|	NULL|
+23659|	22567|	Carcasi|	Carcasi|	carcasi|	152|	22585|	capital|	NULL|	NULL|
+23660|	22567|	Cepitá|	Cepitá|	cepita|	152|	22585|	capital|	NULL|	NULL|
+23661|	22567|	Cerrito|	Cerrito|	cerrito|	152|	22585|	capital|	NULL|	NULL|
+23662|	22567|	Concepción|	Concepción|	concepcion-23662|	152|	22585|	capital|	NULL|	NULL|
+23663|	22567|	Enciso|	Enciso|	enciso|	152|	22585|	capital|	NULL|	NULL|
+23664|	22567|	Guaca|	Guaca|	guaca|	152|	22585|	capital|	NULL|	NULL|
+23665|	22567|	Macaravita|	Macaravita|	macaravita|	152|	22585|	capital|	NULL|	NULL|
+23666|	22567|	Málaga|	Málaga|	malaga|	152|	22585|	capital|	NULL|	NULL|
+23667|	22567|	Molagavita|	Molagavita|	molagavita|	152|	22585|	capital|	NULL|	NULL|
+23668|	22567|	San José De Miranda|	San José De Miranda|	san-jose-de-miranda|	152|	22585|	capital|	NULL|	NULL|
+23669|	22567|	San Miguel|	San Miguel|	san-miguel-23669|	152|	22585|	capital|	NULL|	NULL|
+23670|	22567|	Aratoca|	Aratoca|	aratoca|	152|	22600|	capital|	NULL|	NULL|
+23671|	22567|	Barichara|	Barichara|	barichara|	152|	22600|	capital|	NULL|	NULL|
+23672|	22567|	Cabrera|	Cabrera|	cabrera-23672|	152|	22600|	capital|	NULL|	NULL|
+23673|	22567|	Charalá|	Charalá|	charala|	152|	22600|	capital|	NULL|	NULL|
+23674|	22567|	Coromoro|	Coromoro|	coromoro|	152|	22600|	capital|	NULL|	NULL|
+23675|	22567|	Curití|	Curití|	curiti|	152|	22600|	capital|	NULL|	NULL|
+23676|	22567|	Encino|	Encino|	encino|	152|	22600|	capital|	NULL|	NULL|
+23677|	22567|	Jordán|	Jordán|	jordan|	152|	22600|	capital|	NULL|	NULL|
+23678|	22567|	Mogotes|	Mogotes|	mogotes|	152|	22600|	capital|	NULL|	NULL|
+23679|	22567|	Ocamonte|	Ocamonte|	ocamonte|	152|	22600|	capital|	NULL|	NULL|
+23680|	22567|	Onzaga|	Onzaga|	onzaga|	152|	22600|	capital|	NULL|	NULL|
+23681|	22567|	Páramo|	Páramo|	paramo|	152|	22600|	capital|	NULL|	NULL|
+23682|	22567|	Pinchote|	Pinchote|	pinchote|	152|	22600|	capital|	NULL|	NULL|
+23683|	22567|	San Gil|	San Gil|	san-gil|	152|	22600|	capital|	NULL|	NULL|
+23684|	22567|	San Joaquín|	San Joaquín|	san-joaquin|	152|	22600|	capital|	NULL|	NULL|
+23685|	22567|	Valle De San José|	Valle De San José|	valle-de-san-jose|	152|	22600|	capital|	NULL|	NULL|
+23686|	22567|	Villanueva|	Villanueva|	villanueva-23686|	152|	22600|	capital|	NULL|	NULL|
+23687|	22567|	Betulia|	Betulia|	betulia-23687|	152|	22618|	capital|	NULL|	NULL|
+23688|	22567|	El Carmen De Chucurí|	El Carmen De Chucurí|	el-carmen-de-chucuri|	152|	22618|	capital|	NULL|	NULL|
+23689|	22567|	Puerto Wilches|	Puerto Wilches|	puerto-wilches|	152|	22618|	capital|	NULL|	NULL|
+23690|	22567|	Sabana De Torres|	Sabana De Torres|	sabana-de-torres|	152|	22618|	capital|	NULL|	NULL|
+23691|	22567|	San Vicente De Chucurí|	San Vicente De Chucurí|	san-vicente-de-chucuri|	152|	22618|	capital|	NULL|	NULL|
+23692|	22567|	Zapatoca|	Zapatoca|	zapatoca|	152|	22618|	capital|	NULL|	NULL|
+23693|	22567|	California|	California|	california|	152|	22627|	capital|	NULL|	NULL|
+23694|	22567|	Charta|	Charta|	charta|	152|	22627|	capital|	7.2811|	-72.9682|
+23695|	22567|	El Playón|	El Playón|	el-playon|	152|	22627|	capital|	7.4704|	-73.2032|
+23696|	22567|	Girón|	Girón|	giron|	152|	22627|	capital|	7.074|	-73.1693|
+23697|	22567|	Lebrija|	Lebrija|	lebrija|	152|	22627|	capital|	7.1063|	-73.215|
+23698|	22567|	Los Santos|	Los Santos|	los-santos|	152|	22627|	capital|	6.7557|	-73.1023|
+23699|	22567|	Matanza|	Matanza|	matanza|	152|	22627|	capital|	7.3211|	-73.0172|
+23700|	22567|	Rionegro|	Rionegro|	rionegro-23700|	152|	22627|	capital|	7.1535|	-73.1534|
+23701|	22567|	Santa Bárbara|	Santa Bárbara|	santa-barbara-23701|	152|	22627|	capital|	6.9905|	-72.9066|
+23702|	22567|	Surata|	Surata|	surata|	152|	22627|	capital|	7.3665|	-72.9839|
+23703|	22567|	Tona|	Tona|	tona|	152|	22627|	capital|	7.2018|	-72.9667|
+23704|	22567|	Vetas|	Vetas|	vetas|	152|	22627|	capital|	7.3333|	-72.8666|
+23705|	22567|	Aguada|	Aguada|	aguada|	152|	22647|	capital|	6.1616|	-73.5224|
+23706|	22567|	Albania|	Albania|	albania-23706|	152|	22647|	capital|	5.7593|	-73.9145|
+23707|	22567|	Barbosa|	Barbosa|	barbosa-23707|	152|	22647|	capital|	5.9343|	-73.6156|
+23708|	22567|	Bolívar|	Bolívar|	bolivar-23708|	152|	22647|	capital|	5.9898|	-73.7704|
+23709|	22567|	Chipatá|	Chipatá|	chipata|	152|	22647|	capital|	6.0616|	-73.6372|
+23710|	22567|	Cimitarra|	Cimitarra|	cimitarra|	152|	22647|	capital|	6.3152|	-73.9489|
+23711|	22567|	El Peñón|	El Peñón|	el-penon-23711|	152|	22647|	capital|	5.8921|	-73.7403|
+23712|	22567|	Florián|	Florián|	florian|	152|	22647|	capital|	5.8032|	-73.9707|
+23713|	22567|	Guavatá|	Guavatá|	guavata|	152|	22647|	capital|	5.9552|	-73.7016|
+23714|	22567|	Guepsa|	Guepsa|	guepsa|	152|	22647|	capital|	6.022|	-73.569|
+23715|	22567|	Jesús María|	Jesús María|	jesus-maria|	152|	22647|	capital|	5.8768|	-73.7828|
+23716|	22567|	La Belleza|	La Belleza|	la-belleza|	152|	22647|	capital|	5.8594|	-73.965|
+23717|	22567|	La Paz|	La Paz|	la-paz-23717|	152|	22647|	capital|	6.1784|	-73.5899|
+23718|	22567|	Landázuri|	Landázuri|	landazuri|	152|	22647|	capital|	6.2194|	-73.8092|
+23719|	22567|	Puente Nacional|	Puente Nacional|	puente-nacional|	152|	22647|	capital|	5.878|	-73.6776|
+23720|	22567|	Puerto Parra|	Puerto Parra|	puerto-parra|	152|	22647|	capital|	6.6507|	-74.0559|
+23721|	22567|	San Benito|	San Benito|	san-benito|	152|	22647|	capital|	6.1271|	-73.5097|
+23722|	22567|	Sucre|	Sucre|	sucre-23722|	152|	22647|	capital|	5.9184|	-73.7915|
+23723|	22567|	Velez|	Velez|	velez|	152|	22647|	capital|	6.0099|	-73.6721|
+23724|	22667|	Guaranda|	Guaranda|	guaranda|	152|	22668|	capital|	8.4683|	-74.537|
+23725|	22667|	Majagual|	Majagual|	majagual|	152|	22668|	capital|	8.5412|	-74.628|
+23726|	22667|	Sucre|	Sucre|	sucre-23726|	152|	22668|	capital|	8.81|	-74.7204|
+23727|	22667|	Chalán|	Chalán|	chalan|	152|	22672|	capital|	9.5458|	-75.3128|
+23728|	22667|	Coloso|	Coloso|	coloso|	152|	22672|	capital|	9.4909|	-75.3557|
+23729|	22667|	Morroa|	Morroa|	morroa|	152|	22672|	capital|	9.3321|	-75.3077|
+23730|	22667|	Ovejas|	Ovejas|	ovejas|	152|	22672|	capital|	9.5258|	-75.2275|
+23731|	22667|	Coveñas|	Coveñas|	covenas|	152|	22679|	capital|	9.4025|	-75.6816|
+23732|	22667|	Palmito|	Palmito|	palmito|	152|	22679|	capital|	9.3336|	-75.5408|
+23733|	22667|	San Onofre|	San Onofre|	san-onofre|	152|	22679|	capital|	9.7408|	-75.5198|
+23734|	22667|	Santiago De Tolú|	Santiago De Tolú|	santiago-de-tolu|	152|	22679|	capital|	9.5274|	-75.5812|
+23735|	22667|	Tolú Viejo|	Tolú Viejo|	tolu-viejo|	152|	22679|	capital|	9.4528|	-75.4391|
+23736|	22667|	Buenavista|	Buenavista|	buenavista-23736|	152|	22685|	capital|	9.3204|	-74.9733|
+23737|	22667|	El Roble|	El Roble|	el-roble|	152|	22685|	capital|	9.1077|	-75.195|
+23738|	22667|	Galeras|	Galeras|	galeras|	152|	22685|	capital|	9.1181|	-74.9915|
+23739|	22667|	Los Palmitos|	Los Palmitos|	los-palmitos|	152|	22685|	capital|	9.3804|	-75.2709|
+23740|	22667|	Sampués|	Sampués|	sampues|	152|	22685|	capital|	9.1835|	-75.3811|
+23741|	22667|	San Juan Betulia|	San Juan Betulia|	san-juan-betulia|	152|	22685|	capital|	9.2743|	-75.2437|
+23742|	22667|	San Pedro|	San Pedro|	san-pedro-23742|	152|	22685|	capital|	8.7333|	-74.7166|
+23743|	22667|	Sincé|	Sincé|	since|	152|	22685|	capital|	9.2461|	-75.1433|
+23744|	22667|	Caimito|	Caimito|	caimito|	152|	22696|	capital|	8.7895|	-75.1148|
+23745|	22667|	La Unión|	La Unión|	la-union-23745|	152|	22696|	capital|	8.8539|	-75.2811|
+23746|	22667|	San Benito Abad|	San Benito Abad|	san-benito-abad|	152|	22696|	capital|	8.9311|	-75.0306|
+23747|	22702|	Alvarado|	Alvarado|	alvarado|	152|	22727|	capital|	4.5668|	-74.9532|
+23748|	22702|	Anzoátegui|	Anzoátegui|	anzoategui|	152|	22727|	capital|	4.6322|	-75.0938|
+23749|	22702|	Cajamarca|	Cajamarca|	cajamarca|	152|	22727|	capital|	4.4417|	-75.4268|
+23750|	22702|	Coello|	Coello|	coello|	152|	22727|	capital|	4.2862|	-74.8978|
+23751|	22702|	Flandes|	Flandes|	flandes|	152|	22727|	capital|	4.2867|	-74.8122|
+23752|	22702|	Piedras|	Piedras|	piedras|	152|	22727|	capital|	4.543|	-74.8781|
+23753|	22702|	Rovira|	Rovira|	rovira|	152|	22727|	capital|	4.2393|	-75.2396|
+23754|	22702|	San Luis|	San Luis|	san-luis-23754|	152|	22727|	capital|	4.1335|	-75.095|
+23755|	22702|	Valle De San Juan|	Valle De San Juan|	valle-de-san-juan|	152|	22727|	capital|	4.1979|	-75.1164|
+23756|	22702|	Casablanca|	Casablanca|	casablanca|	152|	22749|	capital|	5.0785|	-75.1197|
+23757|	22702|	Herveo|	Herveo|	herveo|	152|	22749|	capital|	5.0801|	-75.1757|
+23758|	22702|	Lerida|	Lerida|	lerida|	152|	22749|	capital|	4.8608|	-74.9126|
+23759|	22702|	Libano|	Libano|	libano|	152|	22749|	capital|	4.869|	-75.0377|
+23760|	22702|	Murillo|	Murillo|	murillo|	152|	22749|	capital|	3.8041|	-74.9428|
+23761|	22702|	Santa Isabel|	Santa Isabel|	santa-isabel|	152|	22749|	capital|	4.7135|	-75.0977|
+23762|	22702|	Venadillo|	Venadillo|	venadillo|	152|	22749|	capital|	4.7149|	-74.9312|
+23763|	22702|	Villa Hermosa|	Villa Hermosa|	villa-hermosa|	152|	22749|	capital|	5.0304|	-75.118|
+23764|	22702|	Ambalema|	Ambalema|	ambalema|	152|	22703|	capital|	4.7828|	-74.7667|
+23765|	22702|	Armero|	Armero|	armero|	152|	22703|	capital|	4.9646|	-74.9048|
+23766|	22702|	Falan|	Falan|	falan|	152|	22703|	capital|	5.1237|	-74.952|
+23767|	22702|	Fresno|	Fresno|	fresno|	152|	22703|	capital|	5.1537|	-75.0363|
+23768|	22702|	Honda|	Honda|	honda|	152|	22703|	capital|	5.2051|	-74.737|
+23769|	22702|	Mariquita|	Mariquita|	mariquita|	152|	22703|	capital|	5.1995|	-74.8868|
+23770|	22702|	Palocabildo|	Palocabildo|	palocabildo|	152|	22703|	capital|	5.1193|	-75.0237|
+23771|	22702|	Carmen De Apicalá|	Carmen De Apicalá|	carmen-de-apicala|	152|	22711|	capital|	4.1528|	-74.7152|
+23772|	22702|	Cunday|	Cunday|	cunday|	152|	22711|	capital|	4.0605|	-74.6918|
+23773|	22702|	Icononzo|	Icononzo|	icononzo|	152|	22711|	capital|	4.1764|	-74.5317|
+23774|	22702|	Melgar|	Melgar|	melgar|	152|	22711|	capital|	4.2035|	-74.6433|
+23775|	22702|	Villarrica|	Villarrica|	villarrica|	152|	22711|	capital|	3.9366|	-74.6008|
+23776|	22702|	Ataco|	Ataco|	ataco|	152|	22717|	capital|	3.591|	-75.3817|
+23777|	22702|	Chaparral|	Chaparral|	chaparral|	152|	22717|	capital|	3.7238|	-75.4839|
+23778|	22702|	Coyaima|	Coyaima|	coyaima|	152|	22717|	capital|	3.7993|	-75.1945|
+23779|	22702|	Natagaima|	Natagaima|	natagaima|	152|	22717|	capital|	3.6255|	-75.0931|
+23780|	22702|	Ortega|	Ortega|	ortega|	152|	22717|	capital|	3.9358|	-75.2206|
+23781|	22702|	Planadas|	Planadas|	planadas|	152|	22717|	capital|	3.1972|	-75.6438|
+23782|	22702|	Rioblanco|	Rioblanco|	rioblanco|	152|	22717|	capital|	3.53|	-75.6436|
+23783|	22702|	Roncesvalles|	Roncesvalles|	roncesvalle|	152|	22717|	capital|	3.9931|	-75.6092|
+23784|	22702|	San Antonio|	San Antonio|	san-antonio|	152|	22717|	capital|	3.914|	-75.4798|
+23785|	22702|	Alpujarra|	Alpujarra|	alpujarra|	152|	22741|	capital|	3.3919|	-74.9326|
+23786|	22702|	Dolores|	Dolores|	dolores|	152|	22741|	capital|	3.5396|	-74.8972|
+23787|	22702|	Guamo|	Guamo|	guamo|	152|	22741|	capital|	4.0292|	-74.9747|
+23788|	22702|	Prado|	Prado|	prado|	152|	22741|	capital|	3.7497|	-74.9277|
+23789|	22702|	Purificación|	Purificación|	purificacion|	152|	22741|	capital|	3.8567|	-74.9313|
+23790|	22702|	Saldaña|	Saldaña|	saldana|	152|	22741|	capital|	3.929|	-75.0178|
+23791|	22702|	Suárez|	Suárez|	suarez-23791|	152|	22741|	capital|	4.0476|	-74.8318|
+23792|	22758|	Andalucía|	Andalucía|	andalucia|	152|	22759|	capital|	4.1687|	-76.1673|
+23793|	22758|	Buga|	Buga|	buga|	152|	22759|	capital|	3.9005|	-76.3021|
+23794|	22758|	Bugalagrande|	Bugalagrande|	bugalagrande|	152|	22759|	capital|	4.2108|	-76.1557|
+23795|	22758|	Calima|	Calima|	calima|	152|	22759|	capital|	3.9192|	-76.595|
+23796|	22758|	El Cerrito|	El Cerrito|	el-cerrito|	152|	22759|	capital|	3.684|	-76.3129|
+23797|	22758|	Ginebra|	Ginebra|	ginebra|	152|	22759|	capital|	3.7252|	-76.2692|
+23798|	22758|	Guacarí|	Guacarí|	guacari|	152|	22759|	capital|	3.7629|	-76.3324|
+23799|	22758|	Restrepo|	Restrepo|	restrepo-23799|	152|	22759|	capital|	3.8217|	-76.5204|
+23800|	22758|	Riofrio|	Riofrio|	riofrio|	152|	22759|	capital|	4.1566|	-76.2877|
+23801|	22758|	San Pedro|	San Pedro|	san-pedro-23801|	152|	22759|	capital|	3.9941|	-76.2271|
+23802|	22758|	Trujillo|	Trujillo|	trujillo|	152|	22759|	capital|	4.2118|	-76.3185|
+23803|	22758|	Yotoco|	Yotoco|	yotoco|	152|	22759|	capital|	3.8602|	-76.3846|
+23804|	22758|	Alcala|	Alcala|	alcala|	152|	22775|	capital|	4.6734|	-75.7791|
+23805|	22758|	Ansermanuevo|	Ansermanuevo|	ansermanuevo|	152|	22775|	capital|	4.7939|	-75.9915|
+23806|	22758|	Argelia|	Argelia|	argelia-23806|	152|	22775|	capital|	4.7277|	-76.1215|
+23807|	22758|	Bolívar|	Bolívar|	bolivar-23807|	152|	22775|	capital|	4.3386|	-76.1867|
+23808|	22758|	El Águila|	El Águila|	el-aguila|	152|	22775|	capital|	4.909|	-76.0413|
+23809|	22758|	El Cairo|	El Cairo|	el-cairo|	152|	22775|	capital|	4.761|	-76.2221|
+23810|	22758|	El Dovio|	El Dovio|	el-dovio|	152|	22775|	capital|	4.5082|	-76.2374|
+23811|	22758|	La Unión|	La Unión|	la-union-23811|	152|	22775|	capital|	4.5334|	-76.1035|
+23812|	22758|	La Victoria|	La Victoria|	la-victoria-23812|	152|	22775|	capital|	4.5241|	-76.036|
+23813|	22758|	Obando|	Obando|	obando|	152|	22775|	capital|	4.5756|	-75.9726|
+23814|	22758|	Roldanillo|	Roldanillo|	roldanillo|	152|	22775|	capital|	4.4141|	-76.1521|
+23815|	22758|	Toro|	Toro|	toro|	152|	22775|	capital|	4.6112|	-76.0785|
+23816|	22758|	Ulloa|	Ulloa|	ulloa|	152|	22775|	capital|	4.7032|	-75.7387|
+23817|	22758|	Versalles|	Versalles|	versalles|	152|	22775|	capital|	4.5757|	-76.1995|
+23818|	22758|	Zarzal|	Zarzal|	zarzal|	152|	22775|	capital|	4.3948|	-76.0728|
+23819|	22758|	Caicedonia|	Caicedonia|	caicedonia|	152|	22796|	capital|	4.3329|	-75.8271|
+23820|	22758|	Sevilla|	Sevilla|	sevilla|	152|	22796|	capital|	4.2743|	-75.931|
+23821|	22758|	Dagua|	Dagua|	dagua|	152|	22799|	capital|	3.6585|	-76.6908|
+23822|	22758|	La Cumbre|	La Cumbre|	la-cumbre|	152|	22799|	capital|	3.6494|	-76.5679|
+23823|	22758|	Vijes|	Vijes|	vijes|	152|	22799|	capital|	3.6981|	-76.4431|
+23824|	22817|	Caruru|	Caruru|	caruru|	152|	22818|	capital|	1.0121|	-71.2958|
+23825|	22817|	Mitú|	Mitú|	mitu|	152|	22818|	capital|	1.2521|	-70.2336|
+23826|	22817|	Pacoa|	Pacoa|	pacoa|	152|	22818|	capital|	0.0544|	-71.2229|
+23827|	22817|	Papunahua|	Papunahua|	papunahua|	152|	22818|	capital|	2.1572|	-70.5263|
+23828|	22817|	Taraira|	Taraira|	taraira|	152|	22818|	capital|	-0.5647|	-69.6341|
+23829|	22817|	Yavaraté|	Yavaraté|	yavarate|	152|	22818|	capital|	0.615|	-69.208|
+23830|	22825|	Cumaribo|	Cumaribo|	cumaribo|	152|	22826|	capital|	4.4444|	-69.7986|
+23831|	22825|	La Primavera|	La Primavera|	la-primavera|	152|	22826|	capital|	5.4888|	-70.4091|
+23832|	22825|	Puerto Carreño|	Puerto Carreño|	puerto-carreno|	152|	22826|	capital|	6.1847|	-67.4884|
+23833|	22825|	Santa Rosalía|	Santa Rosalía|	santa-rosalia|	152|	22826|	capital|	5.1353|	-70.8649|

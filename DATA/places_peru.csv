@@ -1,0 +1,208 @@
+id	region_id	name	short_name	slug	group_id	province_id	group_slug	latitude	longitude
+20702|	1|	Bagua|	Bagua|	bagua|	152|	24|	capital|	-5.639|	-78.5319|
+20703|	1|	Jumbilla|	Jumbilla|	jumbilla|	152|	31|	capital|	-5.90411|	-77.7982|
+20704|	1|	Chachapoyas|	Chachapoyas|	chachapoyas|	152|	2|	capital|	-6.22912|	-77.8726|
+20705|	1|	Santa María de Nievas|	Santa María de Nievas|	santa-maria-de-nievas|	152|	81|	capital|	-4.59694|	-77.8626|
+20706|	1|	Lámud|	Lámud|	lamud|	152|	44|	capital|	-6.16467|	-77.9448|
+20707|	1|	Mendoza|	Mendoza|	mendoza|	152|	68|	capital|	-6.39698|	-77.4807|
+20708|	1|	Bagua Grande|	Bagua Grande|	bagua-grande|	152|	85|	capital|	-5.75448|	-78.4419|
+20709|	93|	Aija|	Aija|	aija|	152|	107|	capital|	-9.78022|	-77.6108|
+20710|	93|	Llamellín|	Llamellín|	llamellin|	152|	249|	capital|	-9.10104|	-77.0168|
+20711|	93|	Chacas|	Chacas|	chacas|	152|	2401|	capital|	-9.16296|	-77.3665|
+20712|	93|	Chiquián|	Chiquián|	chiquian|	152|	2402|	capital|	-10.1512|	-77.1571|
+20713|	93|	Carhuaz|	Carhuaz|	carhuaz|	152|	129|	capital|	-9.28176|	-77.6462|
+20714|	93|	San Luis|	San Luis|	san-luis|	152|	256|	capital|	-9.09485|	-77.3287|
+20715|	93|	Casma|	Casma|	casma|	152|	141|	capital|	-9.47598|	-78.3056|
+20716|	93|	Corongo|	Corongo|	corongo|	152|	146|	capital|	-9.09527|	-77.329|
+20717|	93|	Huaraz|	Huaraz|	huaraz|	152|	94|	capital|	-9.53008|	-77.5289|
+20718|	93|	Huari|	Huari|	huari|	152|	165|	capital|	-9.34955|	-77.1733|
+20719|	93|	Huarmey|	Huarmey|	huarmey|	152|	263|	capital|	-10.0688|	-78.1522|
+20720|	93|	Caraz|	Caraz|	caraz|	152|	154|	capital|	-9.04853|	-77.81|
+20721|	93|	Piscobamba|	Piscobamba|	piscobamba|	152|	182|	capital|	-8.86539|	-77.3575|
+20722|	93|	Ocros|	Ocros|	ocros|	152|	269|	capital|	-10.4039|	-77.3969|
+20723|	93|	Cabana|	Cabana|	cabana|	152|	191|	capital|	-8.39289|	-78.0091|
+20724|	93|	Pomabamba|	Pomabamba|	pomabamba|	152|	203|	capital|	-8.82053|	-77.4604|
+20725|	93|	Recuay|	Recuay|	recuay|	152|	208|	capital|	-9.72206|	-77.4561|
+20726|	93|	Chimbote|	Chimbote|	chimbote|	152|	219|	capital|	-9.07455|	-78.5936|
+20727|	93|	Sihuas|	Sihuas|	sihuas|	152|	229|	capital|	-8.55586|	-77.6306|
+20728|	93|	Yungay|	Yungay|	yungay|	152|	240|	capital|	-8.55565|	-77.6307|
+20729|	280|	Abancay|	Abancay|	abancay|	152|	281|	capital|	-13.6373|	-72.8789|
+20730|	280|	Andahuaylas|	Andahuaylas|	andahuaylas|	152|	309|	capital|	-13.6564|	-73.39|
+20731|	280|	Antabamba|	Antabamba|	antabamba|	152|	329|	capital|	-14.3649|	-72.8775|
+20732|	280|	Chalhuanca|	Chalhuanca|	chalhuanca|	152|	291|	capital|	-14.2947|	-73.2441|
+20733|	280|	Chincheros|	Chincheros|	chincheros|	152|	359|	capital|	-13.518|	-73.7235|
+20734|	280|	Tambobamba|	Tambobamba|	tambobamba|	152|	337|	capital|	-13.9463|	-72.1744|
+20735|	280|	Chuquibambilla|	Chuquibambilla|	chuquibambilla|	152|	344|	capital|	-14.1053|	-72.7076|
+20736|	368|	Arequipa|	Arequipa|	arequipa|	152|	369|	capital|	-16.3988|	-71.5369|
+20737|	368|	Camaná|	Camaná|	camana|	152|	420|	capital|	-16.6249|	-72.7116|
+20738|	368|	Caravelí|	Caravelí|	caraveli|	152|	429|	capital|	-15.7722|	-73.3655|
+20739|	368|	Aplao|	Aplao|	aplao|	152|	443|	capital|	-16.0765|	-72.4921|
+20740|	368|	Chivay|	Chivay|	chivay|	152|	399|	capital|	-15.6367|	-71.6021|
+20741|	368|	Chuquibamba|	Chuquibamba|	chuquibamba|	152|	458|	capital|	-15.8392|	-72.6515|
+20742|	368|	Mollendo|	Mollendo|	mollendo|	152|	467|	capital|	-17.0304|	-72.0148|
+20743|	368|	Cotahuasi|	Cotahuasi|	cotahuasi|	152|	474|	capital|	-15.2106|	-72.8928|
+20744|	486|	Cangallo|	Cangallo|	cangallo|	152|	503|	capital|	-13.6294|	-74.1436|
+20745|	486|	Ayacucho|	Ayacucho|	ayacucho|	152|	487|	capital|	-13.1604|	-74.2258|
+20746|	486|	Huanca Sancos|	Huanca Sancos|	huanca-sancos|	152|	573|	capital|	-13.92|	-74.334|
+20747|	486|	Huanta|	Huanta|	huanta|	152|	510|	capital|	-12.9386|	-74.2476|
+20748|	486|	San Miguel|	San Miguel|	san-miguel|	152|	519|	capital|	-13.0126|	-73.9811|
+20749|	486|	Puquio|	Puquio|	puquio|	152|	529|	capital|	-14.694|	-74.1242|
+20750|	486|	Coracora|	Coracora|	coracora|	152|	551|	capital|	-15.017|	-73.78|
+20751|	486|	Pausa|	Pausa|	pausa|	152|	587|	capital|	-15.2789|	-73.3444|
+20752|	486|	Querobamba|	Querobamba|	querobamba|	152|	598|	capital|	-14.0113|	-73.8388|
+20753|	486|	Huancapi|	Huancapi|	huancapi|	152|	560|	capital|	-13.7526|	-74.0664|
+20754|	486|	Vilcashuamán|	Vilcashuamán|	vilcashuaman|	152|	2403|	capital|	-13.6531|	-73.954|
+20755|	610|	Cajabamba|	Cajabamba|	cajabamba|	152|	624|	capital|	-7.62373|	-78.046|
+20756|	610|	Cajamarca|	Cajamarca|	cajamarca|	152|	611|	capital|	-7.15704|	-78.5175|
+20757|	610|	Celendín|	Celendín|	celendin|	152|	629|	capital|	-6.86551|	-78.1455|
+20758|	610|	Chota|	Chota|	chota|	152|	667|	capital|	-6.56107|	-78.6507|
+20759|	610|	Contumazá|	Contumazá|	contumaza|	152|	642|	capital|	-7.36632|	-78.805|
+20760|	610|	Cutervo|	Cutervo|	cutervo|	152|	651|	capital|	-6.37736|	-78.8183|
+20761|	610|	Bambamarca|	Bambamarca|	bambamarca|	152|	687|	capital|	-6.68106|	-78.5214|
+20762|	610|	Jaén|	Jaén|	jaen|	152|	691|	capital|	-5.70876|	-78.8077|
+20763|	610|	San Ignacio|	San Ignacio|	san-ignacio|	152|	730|	capital|	-5.14637|	-79.0024|
+20764|	610|	San Marcos|	San Marcos|	san-marcos|	152|	738|	capital|	-7.33565|	-78.1697|
+20765|	610|	San Miguel de Pallaques|	San Miguel de Pallaques|	san-miguel-de-pallaques|	152|	716|	capital|	-7.00035|	-78.8514|
+20766|	610|	San Pablo|	San Pablo|	san-pablo|	152|	746|	capital|	-7.11278|	-78.8208|
+20767|	610|	Santa Cruz de Succhabamba|	Santa Cruz de Succhabamba|	santa-cruz-de-succhabamba|	152|	704|	capital|	-6.71175|	-78.9363|
+20768|	2406|	Callao|	Callao|	callao|	152|	2404|	capital|	-12.0629|	-77.149|
+20769|	751|	Acomayo|	Acomayo|	acomayo|	152|	761|	capital|	-13.9193|	-71.6833|
+20770|	751|	Anta|	Anta|	anta|	152|	769|	capital|	-13.4794|	-72.1114|
+20771|	751|	Calca|	Calca|	calca|	152|	779|	capital|	-13.3218|	-71.9561|
+20772|	751|	Yanaoca|	Yanaoca|	yanaoca|	152|	788|	capital|	-14.2172|	-71.432|
+20773|	751|	Sicuani|	Sicuani|	sicuani|	152|	797|	capital|	-14.272|	-71.2268|
+20774|	751|	Santo Tomás|	Santo Tomás|	santo-tomas|	152|	806|	capital|	-14.4502|	-72.0818|
+20775|	751|	Cusco|	Cusco|	cusco|	152|	752|	capital|	-13.5168|	-71.9788|
+20776|	751|	Espinar|	Espinar|	espinar|	152|	815|	capital|	-14.793|	-71.4126|
+20777|	751|	Quillabamba|	Quillabamba|	quillabamba|	152|	824|	capital|	-12.8634|	-72.6929|
+20778|	751|	Paruro|	Paruro|	paruro|	152|	835|	capital|	-13.7614|	-71.8473|
+20779|	751|	Paucartambo|	Paucartambo|	paucartambo|	152|	845|	capital|	-13.3173|	-71.5969|
+20780|	751|	Urcos|	Urcos|	urcos|	152|	852|	capital|	-13.6856|	-71.623|
+20781|	751|	Urubamba|	Urubamba|	urubamba|	152|	865|	capital|	-13.3061|	-72.116|
+20782|	873|	Acobamba|	Acobamba|	acobamba|	152|	894|	capital|	-12.8424|	-74.5693|
+20783|	873|	Lircay|	Lircay|	lircay|	152|	903|	capital|	-12.9897|	-74.7205|
+20784|	873|	Castrovirreyna|	Castrovirreyna|	castrovirreyna|	152|	916|	capital|	-13.2834|	-75.3191|
+20785|	873|	Churcampa|	Churcampa|	churcampa|	152|	964|	capital|	-12.7374|	-74.4316|
+20786|	873|	Huancavelica|	Huancavelica|	huancavelica|	152|	874|	capital|	-12.7872|	-74.9731|
+20787|	873|	Huaytará|	Huaytará|	huaytara|	152|	947|	capital|	-13.6045|	-75.3531|
+20788|	873|	Pampas|	Pampas|	pampas|	152|	930|	capital|	-12.3986|	-74.8683|
+20789|	976|	Ambo|	Ambo|	ambo|	152|	990|	capital|	-10.1293|	-76.2045|
+20790|	976|	La Unión|	La Unión|	la-union|	152|	999|	capital|	-9.77012|	-76.7847|
+20791|	976|	Huacaybamba|	Huacaybamba|	huacaybamba|	152|	1043|	capital|	-9.0953|	-76.8367|
+20792|	976|	Llata|	Llata|	llata|	152|	1009|	capital|	-9.55036|	-76.8156|
+20793|	976|	Huánuco|	Huánuco|	huanuco|	152|	977|	capital|	-9.92947|	-76.2397|
+20794|	976|	Jesús|	Jesús|	jesus|	152|	1048|	capital|	-10.0336|	-76.582|
+20795|	976|	Tingo María|	Tingo María|	tingo-maria|	152|	1025|	capital|	-9.29841|	-76.0003|
+20796|	976|	Huacrachuco|	Huacrachuco|	huacrachuco|	152|	1021|	capital|	-8.63964|	-77.0687|
+20797|	976|	Panao|	Panao|	panao|	152|	1032|	capital|	-9.89849|	-75.9939|
+20798|	976|	Puerto Inca|	Puerto Inca|	puerto-inca|	152|	1037|	capital|	-9.37717|	-74.9649|
+20799|	976|	Chavinillo|	Chavinillo|	chavinillo|	152|	1056|	capital|	-9.78138|	-76.5827|
+20800|	1065|	Chincha Alta|	Chincha Alta|	chincha-alta|	152|	1081|	capital|	-13.4176|	-76.1326|
+20801|	1065|	Ica|	Ica|	ica|	152|	1066|	capital|	-14.064|	-75.7291|
+20802|	1065|	Nazca|	Nazca|	nazca|	152|	1093|	capital|	-14.8277|	-74.9371|
+20803|	1065|	Palpa|	Palpa|	palpa|	152|	1108|	capital|	-14.5337|	-75.1852|
+20804|	1065|	Pisco|	Pisco|	pisco|	152|	1099|	capital|	-13.71|	-76.2031|
+20805|	1114|	La Merced|	La Merced|	la-merced|	152|	1230|	capital|	-11.0623|	-75.3351|
+20806|	1114|	Chupaca|	Chupaca|	chupaca|	152|	1237|	capital|	-12.0618|	-75.2877|
+20807|	1114|	Concepción|	Concepción|	concepcion|	152|	1144|	capital|	-11.9186|	-75.3129|
+20808|	1114|	Huancayo|	Huancayo|	huancayo|	152|	1115|	capital|	-12.0681|	-75.2101|
+20809|	1114|	Jauja|	Jauja|	jauja|	152|	1160|	capital|	-11.7753|	-75.5|
+20810|	1114|	Junín|	Junín|	junin|	152|	1195|	capital|	-11.1616|	-75.9982|
+20811|	1114|	Satipo|	Satipo|	satipo|	152|	1221|	capital|	-11.254|	-74.6366|
+20812|	1114|	Tarma|	Tarma|	tarma|	152|	1200|	capital|	-11.4201|	-75.6876|
+20813|	1114|	La Oroya|	La Oroya|	la-oroya|	152|	1210|	capital|	-11.5163|	-75.8999|
+20814|	1247|	Ascope|	Ascope|	ascope|	152|	1316|	capital|	-7.71383|	-79.1074|
+20815|	1247|	Bolívar|	Bolívar|	bolivar|	152|	1260|	capital|	-7.15406|	-77.7012|
+20816|	1247|	Chepén|	Chepén|	chepen|	152|	1325|	capital|	-7.22718|	-79.4298|
+20817|	1247|	Cascas|	Cascas|	cascas|	152|	1334|	capital|	-7.47948|	-78.8194|
+20818|	1247|	Julcán|	Julcán|	julcan|	152|	1329|	capital|	-8.04261|	-78.4867|
+20819|	1247|	Otuzco|	Otuzco|	otuzco|	152|	1276|	capital|	-7.90254|	-78.5656|
+20820|	1247|	San Pedro de Lloc|	San Pedro de Lloc|	san-pedro-de-lloc|	152|	1287|	capital|	-7.43199|	-79.5043|
+20821|	1247|	Tayabamba|	Tayabamba|	tayabamba|	152|	1293|	capital|	-8.27731|	-77.2965|
+20822|	1247|	Huamachuco|	Huamachuco|	huamachuco|	152|	1267|	capital|	-7.81209|	-78.0488|
+20823|	1247|	Santiago de Chuco|	Santiago de Chuco|	santiago-de-chuco|	152|	1307|	capital|	-8.15308|	-78.1771|
+20824|	1247|	Trujillo|	Trujillo|	trujillo|	152|	1248|	capital|	-8.11185|	-79.0287|
+20825|	1247|	Virú|	Virú|	viru|	152|	1339|	capital|	-8.41434|	-78.7524|
+20826|	1343|	Chiclayo|	Chiclayo|	chiclayo|	152|	1344|	capital|	-6.76034|	-79.835|
+20827|	1343|	Ferreñafe|	Ferreñafe|	ferrenafe|	152|	1365|	capital|	-6.63918|	-79.788|
+20828|	1343|	Lambayeque|	Lambayeque|	lambayeque|	152|	1372|	capital|	-6.70408|	-79.9062|
+20829|	1385|	Barranca|	Barranca|	barranca|	152|	1554|	capital|	-10.7541|	-77.7608|
+20830|	1385|	Cajatambo|	Cajatambo|	cajatambo|	152|	1430|	capital|	-10.473|	-76.9928|
+20831|	1385|	San Vicente de Cañete|	San Vicente de Cañete|	san-vicente-de-canete|	152|	1444|	capital|	-13.0778|	-76.3874|
+20832|	1385|	Canta|	Canta|	canta|	152|	1436|	capital|	-11.467|	-76.6247|
+20833|	1385|	Huaral|	Huaral|	huaral|	152|	1541|	capital|	-11.4954|	-77.2072|
+20834|	1385|	Matucana|	Matucana|	matucana|	152|	1474|	capital|	-11.8447|	-76.3861|
+20835|	1385|	Huacho|	Huacho|	huacho|	152|	1461|	capital|	-11.1085|	-77.6104|
+20836|	1385|	Lima|	Lima|	lima|	152|	1386|	capital|	-12.046|	-77.0307|
+20837|	1385|	Oyón|	Oyón|	oyon|	152|	1560|	capital|	-10.6681|	-76.7732|
+20838|	1385|	Yauyos|	Yauyos|	yauyos|	152|	1507|	capital|	-12.464|	-75.9232|
+20839|	1567|	Yurimaguas|	Yurimaguas|	yurimaguas|	152|	1582|	capital|	-5.89527|	-76.1044|
+20840|	1567|	San Lorenzo|	San Lorenzo|	san-lorenzo|	152|	1619|	capital|	-5.91698|	-76.167|
+20841|	1567|	Nauta|	Nauta|	nauta|	152|	1589|	capital|	-4.50812|	-73.579|
+20842|	1567|	Caballococha|	Caballococha|	caballococha|	152|	1614|	capital|	-3.90597|	-70.5168|
+20843|	1567|	Iquitos|	Iquitos|	iquitos|	152|	1568|	capital|	-3.74926|	-73.2443|
+20844|	1567|	Requena|	Requena|	requena|	152|	1595|	capital|	-5.06075|	-73.85|
+20845|	1567|	Contamana|	Contamana|	contamana|	152|	1607|	capital|	-7.3506|	-75.0092|
+20846|	1626|	Salvación|	Salvación|	salvacion|	152|	1632|	capital|	-12.8364|	-71.3609|
+20847|	1626|	Iñapari|	Iñapari|	inapari|	152|	1637|	capital|	-10.945|	-69.5773|
+20848|	1626|	Puerto Maldonado|	Puerto Maldonado|	puerto-maldonado|	152|	1627|	capital|	-12.5943|	-69.1766|
+20849|	1641|	Omate|	Omate|	omate|	152|	1649|	capital|	-16.6752|	-70.9705|
+20850|	1641|	Ilo|	Ilo|	ilo|	152|	1661|	capital|	-17.6459|	-71.3453|
+20851|	1641|	Moquegua|	Moquegua|	moquegua|	152|	1642|	capital|	-17.1938|	-70.9347|
+20852|	1665|	Yanahuanca|	Yanahuanca|	yanahuanca|	152|	1680|	capital|	-10.4915|	-76.5144|
+20853|	1665|	Oxapampa|	Oxapampa|	oxapampa|	152|	1689|	capital|	-10.576|	-75.403|
+20854|	1665|	Cerro de Pasco|	Cerro de Pasco|	cerro-de-pasco|	152|	1666|	capital|	-10.6837|	-76.2567|
+20855|	1698|	Ayabaca|	Ayabaca|	ayabaca|	152|	1709|	capital|	-4.63907|	-79.7143|
+20856|	1698|	Huancabamba|	Huancabamba|	huancabamba|	152|	1720|	capital|	-5.23924|	-79.4506|
+20857|	1698|	Chulucanas|	Chulucanas|	chulucanas|	152|	1729|	capital|	-5.09654|	-80.1609|
+20858|	1698|	Paita|	Paita|	paita|	152|	1740|	capital|	-5.08511|	-81.1137|
+20859|	1698|	Piura|	Piura|	piura|	152|	1699|	capital|	-5.19711|	-80.6267|
+20860|	1698|	Sechura|	Sechura|	sechura|	152|	1764|	capital|	-5.55754|	-80.8223|
+20861|	1698|	Sullana|	Sullana|	sullana|	152|	1748|	capital|	-4.8901|	-80.6874|
+20862|	1698|	Talara|	Talara|	talara|	152|	1757|	capital|	-4.57985|	-81.2718|
+20863|	1771|	Azángaro|	Azángaro|	azangaro|	152|	1788|	capital|	-14.9096|	-70.1956|
+20864|	1771|	Macusani|	Macusani|	macusani|	152|	1804|	capital|	-14.0681|	-70.434|
+20865|	1771|	Juli|	Juli|	juli|	152|	1815|	capital|	-16.2133|	-69.4592|
+20866|	1771|	Ilave|	Ilave|	ilave|	152|	1883|	capital|	-16.0868|	-69.6386|
+20867|	1771|	Huancané|	Huancané|	huancane|	152|	1823|	capital|	-15.2019|	-69.7612|
+20868|	1771|	Lampa|	Lampa|	lampa|	152|	1832|	capital|	-15.3644|	-70.3666|
+20869|	1771|	Ayaviri|	Ayaviri|	ayaviri|	152|	1843|	capital|	-14.8819|	-70.5901|
+20870|	1771|	Moho|	Moho|	moho|	152|	1889|	capital|	-15.3608|	-69.4999|
+20871|	1771|	Puno|	Puno|	puno|	152|	1772|	capital|	-15.8406|	-70.0279|
+20872|	1771|	Putina|	Putina|	putina|	152|	1877|	capital|	-14.9142|	-69.8685|
+20873|	1771|	Juliaca|	Juliaca|	juliaca|	152|	2405|	capital|	-15.4964|	-70.1315|
+20874|	1771|	Sandia|	Sandia|	sandia|	152|	1853|	capital|	-14.2364|	-69.4343|
+20875|	1771|	Yunguyo|	Yunguyo|	yunguyo|	152|	1869|	capital|	-16.2442|	-69.0928|
+20876|	1894|	Bellavista|	Bellavista|	bellavista|	152|	1952|	capital|	-7.06685|	-76.5848|
+20877|	1894|	San José de Sisa|	San José de Sisa|	san-jose-de-sisa|	152|	1976|	capital|	-6.61379|	-76.6949|
+20878|	1894|	Saposoa|	Saposoa|	saposoa|	152|	1902|	capital|	-6.93639|	-76.7718|
+20879|	1894|	Lamas|	Lamas|	lamas|	152|	1909|	capital|	-6.42186|	-76.5161|
+20880|	1894|	Juanjuí|	Juanjuí|	juanjui|	152|	1921|	capital|	-7.18039|	-76.7264|
+20881|	1894|	Moyobamba|	Moyobamba|	moyobamba|	152|	1895|	capital|	-6.03473|	-76.9747|
+20882|	1894|	Picota|	Picota|	picota|	152|	1965|	capital|	-6.92069|	-76.3303|
+20883|	1894|	Rioja|	Rioja|	rioja|	152|	1927|	capital|	-6.06112|	-77.1684|
+20884|	1894|	Tarapoto|	Tarapoto|	tarapoto|	152|	1937|	capital|	-6.48776|	-76.3599|
+20885|	1894|	Tocache|	Tocache|	tocache|	152|	1959|	capital|	-8.18871|	-76.5102|
+20886|	1982|	Candarave|	Candarave|	candarave|	152|	2007|	capital|	-17.2682|	-70.2504|
+20887|	1982|	Locumba|	Locumba|	locumba|	152|	2003|	capital|	-17.6139|	-70.7624|
+20888|	1982|	Tacna|	Tacna|	tacna|	152|	1983|	capital|	-18.0138|	-70.2509|
+20889|	1982|	Tarata|	Tarata|	tarata|	152|	1994|	capital|	-17.4748|	-70.0321|
+20890|	2014|	Zorritos|	Zorritos|	zorritos|	152|	2022|	capital|	-3.68043|	-80.68|
+20891|	2014|	Tumbes|	Tumbes|	tumbes|	152|	2015|	capital|	-3.57075|	-80.4596|
+20892|	2014|	Zarumilla|	Zarumilla|	zarumilla|	152|	2026|	capital|	-3.50074|	-80.2751|
+20893|	2031|	Atalaya|	Atalaya|	atalaya|	152|	2044|	capital|	-10.7297|	-73.7548|
+20894|	2031|	Pucallpa|	Pucallpa|	pucallpa|	152|	2032|	capital|	-8.38328|	-74.5323|
+20896|	2031|	Puerto Esperanza|	Puerto Esperanza|	puerto-esperanza|	152|	2049|	capital|	-9.77266|	-70.7099|
+21030|	2031|	Aguaytia|	Aguaytia|	aguaytia|	152|	2040|	capital|	-9.0362|	-75.5074|
+21320|	751|	Aguas Calientes|	Aguas Calientes|	aguas-calientes|	152|	865|	capital|	-13.1547|	-72.5253|
+21323|	1894|	Barrio Wayku|	Barrio Wayku|	barrio-wayku|	152|	1909|	capital|	-6.4263|	-76.5204|
+21324|	1065|	Cachiche|	Cachiche|	cachiche|	152|	1066|	capital|	-14.0946|	-75.7365|
+21330|	1567|	Padre Cocha|	Padre Cocha|	padre-cocha|	152|	1568|	capital|	-3.69855|	-73.2778|
+21341|	976|	Tomayquichua|	Tomayquichua|	tomayquichua|	152|	990|	capital|	-10.0776|	-76.2128|
+21350|	368|	Achoma Yunque|	Achoma Yunque|	achoma-yunque|	152|	399|	capital|	-15.6637|	-71.6716|
+21359|	1385|	Chosica|	Chosica|	chosica|	152|	1386|	capital|	-11.9378|	-76.6966|
+21361|	1385|	Catapalla|	Catapalla|	catapalla|	152|	1507|	capital|	-12.9176|	-76.105|
+21415|	1698|	Mancora|	Mancora|	mancora|	NULL|	NULL|	otros|	NULL|	NULL|
+21416|	1698|	Vichayito|	Vichayito|	vichayito|	NULL|	NULL|	otros|	NULL|	NULL|
+21417|	1698|	Punta Sal|	Punta Sal|	punta-sal|	NULL|	NULL|	otros|	NULL|	NULL|
+21418|	1698|	Zorritos|	Zorritos|	zorritos--2|	NULL|	NULL|	otros|	NULL|	NULL|

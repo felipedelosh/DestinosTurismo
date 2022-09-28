@@ -1,0 +1,682 @@
+id	region_id	name	short_name	slug	group_id	province_id	group_slug	latitude	longitude
+285995|	9494|	Aguascalientes|	Aguascalientes|	aguascalientes|	152|	9495|	capital|	NULL|	NULL|
+285996|	9494|	Asientos|	Asientos|	asientos|	152|	10160|	capital|	NULL|	NULL|
+285997|	9494|	Calvillo|	Calvillo|	calvillo|	152|	10383|	capital|	NULL|	NULL|
+285998|	9494|	Cosío|	Cosío|	cosio|	152|	10684|	capital|	NULL|	NULL|
+285999|	9494|	Jesús María |	Jesús María |	jesus-maria|	152|	10770|	capital|	NULL|	NULL|
+286000|	9494|	Pabellón de Arteaga|	Pabellón de Arteaga|	pabellon-de-arteaga|	152|	11089|	capital|	NULL|	NULL|
+286001|	9494|	Rincón de Romos|	Rincón de Romos|	rincon-de-romos|	152|	11346|	capital|	NULL|	NULL|
+286002|	9494|	San Francisco de los Romo|	San Francisco de los Romo|	san-francisco-de-los-romo|	152|	12117|	capital|	NULL|	NULL|
+286003|	9494|	Tepezalá|	Tepezalá|	tepezala|	152|	11782|	capital|	NULL|	NULL|
+286004|	12231|	Rodolfo Sánchez T. (Maneadero)|	Rodolfo Sánchez T. (Maneadero)|	rodolfo-sanchez-t-maneadero|	152|	12232|	capital|	NULL|	NULL|
+286005|	12231|	Ensenada|	Ensenada|	ensenada|	152|	12232|	capital|	NULL|	NULL|
+286006|	12231|	Mexicali|	Mexicali|	mexicali|	152|	14673|	capital|	NULL|	NULL|
+286007|	12231|	San Felipe|	San Felipe|	san-felipe|	152|	14673|	capital|	NULL|	NULL|
+286008|	12231|	Playas de Rosarito|	Playas de Rosarito|	playas-de-rosarito|	152|	17892|	capital|	NULL|	NULL|
+286009|	12231|	Tecate|	Tecate|	tecate|	152|	16623|	capital|	NULL|	NULL|
+286010|	12231|	Tijuana|	Tijuana|	tijuana|	152|	17345|	capital|	NULL|	NULL|
+286011|	18180|	Ciudad Constitución|	Ciudad Constitución|	ciudad-constitucion|	152|	18181|	capital|	NULL|	NULL|
+286012|	18180|	Puerto Adolfo López Mateos|	Puerto Adolfo López Mateos|	puerto-adolfo-lopez-mateos|	152|	18181|	capital|	NULL|	NULL|
+286013|	18180|	La Paz|	La Paz|	la-paz|	152|	20008|	capital|	NULL|	NULL|
+286014|	18180|	Todos Santos|	Todos Santos|	todos-santos|	152|	20008|	capital|	NULL|	NULL|
+286015|	18180|	Loreto|	Loreto|	loreto|	152|	21916|	capital|	NULL|	NULL|
+286016|	18180|	San José del Cabo|	San José del Cabo|	san-jose-del-cabo|	152|	21240|	capital|	NULL|	NULL|
+286017|	18180|	Cabo San Lucas|	Cabo San Lucas|	cabo-san-lucas|	152|	21240|	capital|	NULL|	NULL|
+286018|	18180|	Heroica Mulegé|	Heroica Mulegé|	heroica-mulege|	152|	19393|	capital|	NULL|	NULL|
+286019|	18180|	Santa Rosalía|	Santa Rosalía|	santa-rosalia|	152|	19393|	capital|	NULL|	NULL|
+286020|	18180|	San Ignacio|	San Ignacio|	san-ignacio|	152|	19393|	capital|	NULL|	NULL|
+286021|	18180|	Villa Alberto Andrés Alvarado Arámburo|	Villa Alberto Andrés Alvarado Arámburo|	villa-alberto-andres-alvarado-aramburo|	152|	19393|	capital|	NULL|	NULL|
+286022|	18180|	Guerrero Negro|	Guerrero Negro|	guerrero-negro|	152|	19393|	capital|	NULL|	NULL|
+286023|	22134|	Calkini|	Calkini|	calkini|	152|	22135|	capital|	NULL|	NULL|
+286024|	22134|	San Francisco de Campeche|	San Francisco de Campeche|	san-francisco-de-campeche|	152|	22262|	capital|	NULL|	NULL|
+286025|	22134|	Candelaria|	Candelaria|	candelaria|	152|	25254|	capital|	NULL|	NULL|
+286026|	22134|	Ciudad del Carmen|	Ciudad del Carmen|	ciudad-del-carmen|	152|	22635|	capital|	NULL|	NULL|
+286027|	22134|	Sabancuy|	Sabancuy|	sabancuy|	152|	22635|	capital|	NULL|	NULL|
+286028|	22134|	Champotón|	Champotón|	champoton|	152|	23611|	capital|	NULL|	NULL|
+286029|	22134|	Escárcega|	Escárcega|	escarcega|	152|	24665|	capital|	NULL|	NULL|
+286030|	22134|	Hecelchakán|	Hecelchakán|	hecelchakan|	152|	24104|	capital|	NULL|	NULL|
+286031|	22134|	Pomuch|	Pomuch|	pomuch|	152|	24104|	capital|	NULL|	NULL|
+286032|	22134|	Hopelchén|	Hopelchén|	hopelchen|	152|	24169|	capital|	NULL|	NULL|
+286033|	38799|	Acala|	Acala|	acala|	152|	38939|	capital|	NULL|	NULL|
+286034|	38799|	Arriaga|	Arriaga|	arriaga|	152|	39930|	capital|	NULL|	NULL|
+286035|	38799|	Cacahoatán|	Cacahoatán|	cacahoatan|	152|	40929|	capital|	NULL|	NULL|
+286036|	38799|	Chiapa de Corzo|	Chiapa de Corzo|	chiapa-de-corzo|	152|	43327|	capital|	NULL|	NULL|
+286037|	38799|	Cintalapa de Figueroa|	Cintalapa de Figueroa|	cintalapa-de-figueroa|	152|	41236|	capital|	NULL|	NULL|
+286038|	38799|	Comitán de Domínguez|	Comitán de Domínguez|	comitan-de-dominguez|	152|	41932|	capital|	NULL|	NULL|
+286039|	38799|	Huixtla|	Huixtla|	huixtla|	152|	45459|	capital|	NULL|	NULL|
+286040|	38799|	Jiquipilas|	Jiquipilas|	jiquipilas|	152|	46011|	capital|	NULL|	NULL|
+286041|	38799|	Las Margaritas|	Las Margaritas|	las-margaritas|	152|	47222|	capital|	NULL|	NULL|
+286042|	38799|	Las Rosas|	Las Rosas|	las-rosas|	152|	52176|	capital|	NULL|	NULL|
+286043|	38799|	Mapastepec|	Mapastepec|	mapastepec|	152|	46692|	capital|	NULL|	NULL|
+286044|	38799|	Motozintla de Mendoza|	Motozintla de Mendoza|	motozintla-de-mendoza|	152|	47875|	capital|	NULL|	NULL|
+286045|	38799|	Ocosingo|	Ocosingo|	ocosingo|	152|	48221|	capital|	NULL|	NULL|
+286046|	38799|	Ocozocoautla de Espinosa|	Ocozocoautla de Espinosa|	ocozocoautla-de-espinosa|	152|	49115|	capital|	NULL|	NULL|
+286047|	38799|	Palenque|	Palenque|	palenque|	152|	50108|	capital|	NULL|	NULL|
+286048|	38799|	Pichucalco|	Pichucalco|	pichucalco|	152|	50936|	capital|	NULL|	NULL|
+286049|	38799|	Pijijiapan|	Pijijiapan|	pijijiapan|	152|	51019|	capital|	NULL|	NULL|
+286050|	38799|	Reforma|	Reforma|	reforma|	152|	52140|	capital|	NULL|	NULL|
+286051|	38799|	San Cristóbal de las Casas|	San Cristóbal de las Casas|	san-cristobal-de-las-casas|	152|	52694|	capital|	NULL|	NULL|
+286052|	38799|	Tapachula de Córdova y Ordóñez|	Tapachula de Córdova y Ordóñez|	tapachula-de-cordova-y-ordonez|	152|	53904|	capital|	NULL|	NULL|
+286053|	38799|	Puerto Madero (San Benito)|	Puerto Madero (San Benito)|	puerto-madero-san-benito|	152|	53904|	capital|	NULL|	NULL|
+286054|	38799|	Tonalá|	Tonalá|	tonala|	152|	55069|	capital|	NULL|	NULL|
+286055|	38799|	Tuxtla Gutiérrez|	Tuxtla Gutiérrez|	tuxtla-gutierrez|	152|	56330|	capital|	NULL|	NULL|
+286056|	38799|	Venustiano Carranza|	Venustiano Carranza|	venustiano-carranza|	152|	56817|	capital|	NULL|	NULL|
+286057|	38799|	Villaflores|	Villaflores|	villaflores|	152|	58199|	capital|	NULL|	NULL|
+286058|	60202|	Juan Aldama|	Juan Aldama|	juan-aldama|	152|	60655|	capital|	NULL|	NULL|
+286059|	60202|	Bachíniva|	Bachíniva|	bachiniva|	152|	61609|	capital|	NULL|	NULL|
+286060|	60202|	Santa Rosalía de Camargo|	Santa Rosalía de Camargo|	santa-rosalia-de-camargo|	152|	63417|	capital|	NULL|	NULL|
+286061|	60202|	Chihuahua|	Chihuahua|	chihuahua|	152|	65577|	capital|	NULL|	NULL|
+286062|	60202|	Cuauhtémoc|	Cuauhtémoc|	cuauhtemoc|	152|	64807|	capital|	NULL|	NULL|
+286063|	60202|	Colonia Anáhuac|	Colonia Anáhuac|	colonia-anahuac|	152|	64807|	capital|	NULL|	NULL|
+286064|	60202|	Delicias|	Delicias|	delicias|	152|	66411|	capital|	NULL|	NULL|
+286065|	60202|	Hidalgo del Parral|	Hidalgo del Parral|	hidalgo-del-parral|	152|	70560|	capital|	NULL|	NULL|
+286066|	60202|	José Mariano Jiménez|	José Mariano Jiménez|	jose-mariano-jimenez|	152|	71150|	capital|	NULL|	NULL|
+286067|	60202|	Juárez|	Juárez|	juarez|	152|	71548|	capital|	NULL|	NULL|
+286068|	60202|	Madera|	Madera|	madera|	152|	72007|	capital|	NULL|	NULL|
+286069|	60202|	Nuevo Casas Grandes|	Nuevo Casas Grandes|	nuevo-casas-grandes|	152|	74598|	capital|	NULL|	NULL|
+286070|	60202|	Manuel Ojinaga|	Manuel Ojinaga|	manuel-ojinaga|	152|	74930|	capital|	NULL|	NULL|
+286071|	60202|	Saucillo|	Saucillo|	saucillo|	152|	76458|	capital|	NULL|	NULL|
+286072|	78563|	Ciudad de México|	Ciudad de México|	ciudad-de-mexico|	152|	78867|	capital|	NULL|	NULL|
+286073|	25979|	Ciudad Acuña|	Ciudad Acuña|	ciudad-acuna|	152|	26023|	capital|	NULL|	NULL|
+286074|	25979|	Allende|	Allende|	allende|	152|	26338|	capital|	NULL|	NULL|
+286075|	25979|	Arteaga|	Arteaga|	arteaga|	152|	26483|	capital|	NULL|	NULL|
+286076|	25979|	Castaños|	Castaños|	castanos|	152|	27261|	capital|	NULL|	NULL|
+286077|	25979|	Cuatro Ciénegas de Carranza|	Cuatro Ciénegas de Carranza|	cuatro-cienegas-de-carranza|	152|	27511|	capital|	NULL|	NULL|
+286078|	25979|	Francisco I. Madero (Chávez)|	Francisco I. Madero (Chávez)|	francisco-i-madero-chavez|	152|	27813|	capital|	NULL|	NULL|
+286079|	25979|	Frontera|	Frontera|	frontera|	152|	28016|	capital|	NULL|	NULL|
+286080|	25979|	Matamoros|	Matamoros|	matamoros|	152|	29112|	capital|	NULL|	NULL|
+286081|	25979|	Monclova|	Monclova|	monclova|	152|	29394|	capital|	NULL|	NULL|
+286082|	25979|	Morelos|	Morelos|	morelos|	152|	29767|	capital|	NULL|	NULL|
+286083|	25979|	Ciudad Melchor Múzquiz|	Ciudad Melchor Múzquiz|	ciudad-melchor-muzquiz|	152|	29925|	capital|	NULL|	NULL|
+286084|	25979|	Nadadores|	Nadadores|	nadadores|	152|	30535|	capital|	NULL|	NULL|
+286085|	25979|	Nava|	Nava|	nava|	152|	30642|	capital|	NULL|	NULL|
+286086|	25979|	Parras de la Fuente|	Parras de la Fuente|	parras-de-la-fuente|	152|	31342|	capital|	NULL|	NULL|
+286087|	25979|	Piedras Negras|	Piedras Negras|	piedras-negras|	152|	31711|	capital|	NULL|	NULL|
+286088|	25979|	Ramos Arizpe|	Ramos Arizpe|	ramos-arizpe|	152|	32013|	capital|	NULL|	NULL|
+286089|	25979|	Sabinas|	Sabinas|	sabinas|	152|	32465|	capital|	NULL|	NULL|
+286090|	25979|	Saltillo|	Saltillo|	saltillo|	152|	32856|	capital|	NULL|	NULL|
+286091|	25979|	San Buenaventura|	San Buenaventura|	san-buenaventura|	152|	33538|	capital|	NULL|	NULL|
+286092|	25979|	Nueva Rosita|	Nueva Rosita|	nueva-rosita|	152|	33776|	capital|	NULL|	NULL|
+286093|	25979|	San Pedro|	San Pedro|	san-pedro|	152|	33927|	capital|	NULL|	NULL|
+286094|	25979|	Torreón|	Torreón|	torreon|	152|	34541|	capital|	NULL|	NULL|
+286095|	25979|	Viesca|	Viesca|	viesca|	152|	34650|	capital|	NULL|	NULL|
+286096|	25979|	Zaragoza|	Zaragoza|	zaragoza|	152|	34998|	capital|	NULL|	NULL|
+286097|	35454|	Ciudad de Armería|	Ciudad de Armería|	ciudad-de-armeria|	152|	35455|	capital|	NULL|	NULL|
+286098|	35454|	Colima|	Colima|	colima|	152|	35650|	capital|	NULL|	NULL|
+286099|	35454|	Manzanillo|	Manzanillo|	manzanillo|	152|	37239|	capital|	NULL|	NULL|
+286100|	35454|	Tecoman|	Tecoman|	tecoman|	152|	37824|	capital|	NULL|	NULL|
+286101|	35454|	Ciudad de Villa de Álvarez|	Ciudad de Villa de Álvarez|	ciudad-de-villa-de-alvarez|	152|	38547|	capital|	NULL|	NULL|
+286102|	79238|	Canatlán|	Canatlán|	canatlan|	152|	79239|	capital|	NULL|	NULL|
+286103|	79238|	Victoria de Durango|	Victoria de Durango|	victoria-de-durango|	152|	79997|	capital|	NULL|	NULL|
+286104|	79238|	Santa María del Oro|	Santa María del Oro|	santa-maria-del-oro|	152|	84278|	capital|	NULL|	NULL|
+286105|	79238|	Gómez Palacio|	Gómez Palacio|	gomez-palacio|	152|	81180|	capital|	NULL|	NULL|
+286106|	79238|	Ciudad Lerdo|	Ciudad Lerdo|	ciudad-lerdo|	152|	82242|	capital|	NULL|	NULL|
+286107|	79238|	Nombre de Dios|	Nombre de Dios|	nombre-de-dios|	152|	83989|	capital|	NULL|	NULL|
+286108|	79238|	Francisco I. Madero|	Francisco I. Madero|	francisco-i-madero|	152|	84486|	capital|	NULL|	NULL|
+286109|	79238|	Peñón Blanco|	Peñón Blanco|	penon-blanco|	152|	84547|	capital|	NULL|	NULL|
+286110|	79238|	El Salto|	El Salto|	el-salto|	152|	84711|	capital|	NULL|	NULL|
+286111|	79238|	San Juan del Río del Centauro del Norte|	San Juan del Río del Centauro del Norte|	san-juan-del-rio-del-centauro-del-norte|	152|	85984|	capital|	NULL|	NULL|
+286112|	79238|	Santiago Papasquiaro|	Santiago Papasquiaro|	santiago-papasquiaro|	152|	86214|	capital|	NULL|	NULL|
+286113|	79238|	Vicente Guerrero|	Vicente Guerrero|	vicente-guerrero|	152|	88086|	capital|	NULL|	NULL|
+286114|	88286|	Abasolo|	Abasolo|	abasolo|	152|	88287|	capital|	NULL|	NULL|
+286115|	88286|	Acámbaro|	Acámbaro|	acambaro|	152|	88626|	capital|	NULL|	NULL|
+286116|	88286|	Apaseo el Alto|	Apaseo el Alto|	apaseo-el-alto|	152|	89530|	capital|	NULL|	NULL|
+286117|	88286|	Apaseo el Grande|	Apaseo el Grande|	apaseo-el-grande|	152|	89694|	capital|	NULL|	NULL|
+286118|	88286|	Celaya|	Celaya|	celaya|	152|	89979|	capital|	NULL|	NULL|
+286119|	88286|	Rincón de Tamayo|	Rincón de Tamayo|	rincon-de-tamayo|	152|	89979|	capital|	NULL|	NULL|
+286120|	88286|	Comonfort|	Comonfort|	comonfort|	152|	90776|	capital|	NULL|	NULL|
+286121|	88286|	Empalme Escobedo (Escobedo)|	Empalme Escobedo (Escobedo)|	empalme-escobedo-escobedo|	152|	90776|	capital|	NULL|	NULL|
+286122|	88286|	Cortazar|	Cortazar|	cortazar|	152|	90994|	capital|	NULL|	NULL|
+286123|	88286|	Cuerámaro|	Cuerámaro|	cueramaro|	152|	91175|	capital|	NULL|	NULL|
+286124|	88286|	Doctor Mora|	Doctor Mora|	doctor-mora|	152|	91286|	capital|	NULL|	NULL|
+286125|	88286|	Dolores Hidalgo|	Dolores Hidalgo|	dolores-hidalgo|	152|	91373|	capital|	NULL|	NULL|
+286126|	88286|	Guanajuato|	Guanajuato|	guanajuato|	152|	91961|	capital|	NULL|	NULL|
+286127|	88286|	Marfil|	Marfil|	marfil|	152|	91961|	capital|	NULL|	NULL|
+286128|	88286|	Huanímaro|	Huanímaro|	huanimaro|	152|	92249|	capital|	NULL|	NULL|
+286129|	88286|	Irapuato|	Irapuato|	irapuato|	152|	92303|	capital|	NULL|	NULL|
+286130|	88286|	Jaral del Progreso|	Jaral del Progreso|	jaral-del-progreso|	152|	92860|	capital|	NULL|	NULL|
+286131|	88286|	Jerécuaro|	Jerécuaro|	jerecuaro|	152|	92933|	capital|	NULL|	NULL|
+286132|	88286|	León de los Aldama|	León de los Aldama|	leon-de-los-aldama|	152|	93128|	capital|	NULL|	NULL|
+286133|	88286|	Ciudad Manuel Doblado|	Ciudad Manuel Doblado|	ciudad-manuel-doblado|	152|	90428|	capital|	NULL|	NULL|
+286134|	88286|	Moroleón|	Moroleón|	moroleon|	152|	93825|	capital|	NULL|	NULL|
+286135|	88286|	Pénjamo|	Pénjamo|	penjamo|	152|	94055|	capital|	NULL|	NULL|
+286136|	88286|	Purísima de Bustos|	Purísima de Bustos|	purisima-de-bustos|	152|	94705|	capital|	NULL|	NULL|
+286137|	88286|	Romita|	Romita|	romita|	152|	94840|	capital|	NULL|	NULL|
+286138|	88286|	Salamanca|	Salamanca|	salamanca|	152|	95192|	capital|	NULL|	NULL|
+286139|	88286|	Salvatierra|	Salvatierra|	salvatierra|	152|	95649|	capital|	NULL|	NULL|
+286140|	88286|	San Diego de la Unión|	San Diego de la Unión|	san-diego-de-la-union|	152|	95777|	capital|	NULL|	NULL|
+286141|	88286|	San Francisco del Rincón|	San Francisco del Rincón|	san-francisco-del-rincon|	152|	96530|	capital|	NULL|	NULL|
+286142|	88286|	San José Iturbide|	San José Iturbide|	san-jose-iturbide|	152|	96775|	capital|	NULL|	NULL|
+286143|	88286|	San Luis de la Paz|	San Luis de la Paz|	san-luis-de-la-paz|	152|	97033|	capital|	NULL|	NULL|
+286144|	88286|	San miguel de Allende|	San miguel de Allende|	san-miguel-de-allende|	152|	88905|	capital|	NULL|	NULL|
+286145|	88286|	Santa Cruz Juventino Rosas|	Santa Cruz Juventino Rosas|	santa-cruz-juventino-rosas|	152|	97616|	capital|	NULL|	NULL|
+286146|	88286|	Santiago Maravatío|	Santiago Maravatío|	santiago-maravatio|	152|	97838|	capital|	NULL|	NULL|
+286147|	88286|	Silao|	Silao|	silao|	152|	97854|	capital|	NULL|	NULL|
+286148|	88286|	Tarandacuao|	Tarandacuao|	tarandacuao|	152|	98342|	capital|	NULL|	NULL|
+286149|	88286|	Uriangato|	Uriangato|	uriangato|	152|	98585|	capital|	NULL|	NULL|
+286150|	88286|	Valle de Santiago|	Valle de Santiago|	valle-de-santiago|	152|	98645|	capital|	NULL|	NULL|
+286151|	88286|	Villagrán|	Villagrán|	villagran|	152|	99129|	capital|	NULL|	NULL|
+286152|	88286|	Yuriria|	Yuriria|	yuriria|	152|	99395|	capital|	NULL|	NULL|
+286153|	99535|	Acapulco de Juárez|	Acapulco de Juárez|	acapulco-de-juarez|	152|	99536|	capital|	NULL|	NULL|
+286154|	99535|	Ciudad Apaxtla de Castrejón|	Ciudad Apaxtla de Castrejón|	ciudad-apaxtla-de-castrejon|	152|	100220|	capital|	NULL|	NULL|
+286155|	99535|	Arcelia|	Arcelia|	arcelia|	152|	100280|	capital|	NULL|	NULL|
+286156|	99535|	Atoyac de Álvarez|	Atoyac de Álvarez|	atoyac-de-alvarez|	152|	100601|	capital|	NULL|	NULL|
+286157|	99535|	Ayutla de los Libres|	Ayutla de los Libres|	ayutla-de-los-libres|	152|	100831|	capital|	NULL|	NULL|
+286158|	99535|	Azoyú|	Azoyú|	azoyu|	152|	100988|	capital|	NULL|	NULL|
+286159|	99535|	San Jerónimo de Juárez|	San Jerónimo de Juárez|	san-jeronimo-de-juarez|	152|	101075|	capital|	NULL|	NULL|
+286160|	99535|	Buenavista de Cuellar|	Buenavista de Cuellar|	buenavista-de-cuellar|	152|	101148|	capital|	NULL|	NULL|
+286161|	99535|	Chilapa de Álvarez|	Chilapa de Álvarez|	chilapa-de-alvarez|	152|	102863|	capital|	NULL|	NULL|
+286162|	99535|	Chilpancingo de los Bravo|	Chilpancingo de los Bravo|	chilpancingo-de-los-bravo|	152|	103073|	capital|	NULL|	NULL|
+286163|	99535|	Ocotito|	Ocotito|	ocotito|	152|	103073|	capital|	NULL|	NULL|
+286164|	99535|	Copala|	Copala|	copala|	152|	101514|	capital|	NULL|	NULL|
+286165|	99535|	Coyuca de Benítez|	Coyuca de Benítez|	coyuca-de-benitez|	152|	101689|	capital|	NULL|	NULL|
+286166|	99535|	Coyuca de Catalán|	Coyuca de Catalán|	coyuca-de-catalan|	152|	101870|	capital|	NULL|	NULL|
+286167|	99535|	Cuajinicuilapa|	Cuajinicuilapa|	cuajinicuilapa|	152|	102331|	capital|	NULL|	NULL|
+286168|	99535|	Cutzamala de Pinzón|	Cutzamala de Pinzón|	cutzamala-de-pinzon|	152|	102670|	capital|	NULL|	NULL|
+286169|	99535|	Zumpango del Río|	Zumpango del Río|	zumpango-del-rio|	152|	108524|	capital|	NULL|	NULL|
+286170|	99535|	Cruz Grande|	Cruz Grande|	cruz-grande|	152|	103253|	capital|	NULL|	NULL|
+286171|	99535|	Huamuxtitlan|	Huamuxtitlan|	huamuxtitlan|	152|	103672|	capital|	NULL|	NULL|
+286172|	99535|	Huitzuco|	Huitzuco|	huitzuco|	152|	103699|	capital|	NULL|	NULL|
+286173|	99535|	Iguala de la Independencia|	Iguala de la Independencia|	iguala-de-la-independencia|	152|	103786|	capital|	NULL|	NULL|
+286174|	99535|	Tierra Colorada|	Tierra Colorada|	tierra-colorada|	152|	104210|	capital|	NULL|	NULL|
+286175|	99535|	La Unión|	La Unión|	la-union|	152|	107673|	capital|	NULL|	NULL|
+286176|	99535|	Marquelia|	Marquelia|	marquelia|	152|	108720|	capital|	NULL|	NULL|
+286177|	99535|	Olinalá|	Olinalá|	olinala|	152|	104615|	capital|	NULL|	NULL|
+286178|	99535|	Petatlán|	Petatlán|	petatlan|	152|	105105|	capital|	NULL|	NULL|
+286179|	99535|	Ciudad Altamirano|	Ciudad Altamirano|	ciudad-altamirano|	152|	105523|	capital|	NULL|	NULL|
+286180|	99535|	San Luis Acatlán|	San Luis Acatlán|	san-luis-acatlan|	152|	105641|	capital|	NULL|	NULL|
+286181|	99535|	San Marcos|	San Marcos|	san-marcos|	152|	105760|	capital|	NULL|	NULL|
+286182|	99535|	Taxco de Alarcón|	Taxco de Alarcón|	taxco-de-alarcon|	152|	106144|	capital|	NULL|	NULL|
+286183|	99535|	Técpan de Galeana|	Técpan de Galeana|	tecpan-de-galeana|	152|	106353|	capital|	NULL|	NULL|
+286184|	99535|	San Luis San Pedro|	San Luis San Pedro|	san-luis-san-pedro|	152|	106353|	capital|	NULL|	NULL|
+286185|	99535|	San Luis de la Loma|	San Luis de la Loma|	san-luis-de-la-loma|	152|	106353|	capital|	NULL|	NULL|
+286186|	99535|	Teloloapan|	Teloloapan|	teloloapan|	152|	106838|	capital|	NULL|	NULL|
+286187|	99535|	Tepecoacuilco de Trujano|	Tepecoacuilco de Trujano|	tepecoacuilco-de-trujano|	152|	107076|	capital|	NULL|	NULL|
+286188|	99535|	Tixtla de Guerrero|	Tixtla de Guerrero|	tixtla-de-guerrero|	152|	107209|	capital|	NULL|	NULL|
+286189|	99535|	Tlalixtaquilla|	Tlalixtaquilla|	tlalixtaquilla|	152|	107467|	capital|	NULL|	NULL|
+286190|	99535|	Tlapa de Comonfort|	Tlapa de Comonfort|	tlapa-de-comonfort|	152|	107487|	capital|	NULL|	NULL|
+286191|	99535|	Tlapehuala|	Tlapehuala|	tlapehuala|	152|	107630|	capital|	NULL|	NULL|
+286192|	99535|	Zihuatanejo|	Zihuatanejo|	zihuatanejo|	152|	103937|	capital|	NULL|	NULL|
+286193|	109086|	Actopan|	Actopan|	actopan|	152|	109207|	capital|	NULL|	NULL|
+286194|	109086|	Apan|	Apan|	apan|	152|	109478|	capital|	NULL|	NULL|
+286195|	109086|	Huejutla de Reyes|	Huejutla de Reyes|	huejutla-de-reyes|	152|	110707|	capital|	NULL|	NULL|
+286196|	109086|	Ixmiquilpan|	Ixmiquilpan|	ixmiquilpan|	152|	111031|	capital|	NULL|	NULL|
+286197|	109086|	Pachuca de Soto|	Pachuca de Soto|	pachuca-de-soto|	152|	112150|	capital|	NULL|	NULL|
+286198|	109086|	Santiago Tulantepec|	Santiago Tulantepec|	santiago-tulantepec|	152|	112697|	capital|	NULL|	NULL|
+286199|	109086|	Tepeapulco|	Tepeapulco|	tepeapulco|	152|	113029|	capital|	NULL|	NULL|
+286200|	109086|	Cd. de Fray Bernardino de Sahagún|	Cd. de Fray Bernardino de Sahagún|	cd-de-fray-bernardino-de-sahagun|	152|	113029|	capital|	NULL|	NULL|
+286201|	109086|	Tepeji del Rio|	Tepeji del Rio|	tepeji-del-rio|	152|	113206|	capital|	NULL|	NULL|
+286202|	109086|	Tizayuca|	Tizayuca|	tizayuca|	152|	113464|	capital|	NULL|	NULL|
+286203|	109086|	Tlaxcoapan|	Tlaxcoapan|	tlaxcoapan|	152|	113785|	capital|	NULL|	NULL|
+286204|	109086|	Tula de Allende|	Tula de Allende|	tula-de-allende|	152|	113838|	capital|	NULL|	NULL|
+286205|	109086|	Cruz Azul|	Cruz Azul|	cruz-azul|	152|	113838|	capital|	NULL|	NULL|
+286206|	109086|	Tulancingo|	Tulancingo|	tulancingo|	152|	113915|	capital|	NULL|	NULL|
+286207|	109086|	Zimapan|	Zimapan|	zimapan|	152|	114298|	capital|	NULL|	NULL|
+286208|	114463|	Acatlán de Juárez|	Acatlán de Juárez|	acatlan-de-juarez|	152|	114581|	capital|	NULL|	NULL|
+286209|	114463|	Ahualulco de Mercado|	Ahualulco de Mercado|	ahualulco-de-mercado|	152|	114636|	capital|	NULL|	NULL|
+286210|	114463|	Ameca|	Ameca|	ameca|	152|	114828|	capital|	NULL|	NULL|
+286211|	114463|	Arandas|	Arandas|	arandas|	152|	115039|	capital|	NULL|	NULL|
+286212|	114463|	Atotonilco el Alto|	Atotonilco el Alto|	atotonilco-el-alto|	152|	115661|	capital|	NULL|	NULL|
+286213|	114463|	Autlán de Navarro|	Autlán de Navarro|	autlan-de-navarro|	152|	115920|	capital|	NULL|	NULL|
+286214|	114463|	La Resolana|	La Resolana|	la-resolana|	152|	117177|	capital|	NULL|	NULL|
+286215|	114463|	Chapala|	Chapala|	chapala|	152|	118340|	capital|	NULL|	NULL|
+286216|	114463|	Ajijic|	Ajijic|	ajijic|	152|	118340|	capital|	NULL|	NULL|
+286217|	114463|	Cihuatlán|	Cihuatlán|	cihuatlan|	152|	117323|	capital|	NULL|	NULL|
+286218|	114463|	Cocula|	Cocula|	cocula|	152|	117619|	capital|	NULL|	NULL|
+286219|	114463|	Colotlán|	Colotlán|	colotlan|	152|	117682|	capital|	NULL|	NULL|
+286220|	114463|	El Grullo|	El Grullo|	el-grullo|	152|	119338|	capital|	NULL|	NULL|
+286221|	114463|	Las Pintitas|	Las Pintitas|	las-pintitas|	152|	124829|	capital|	NULL|	NULL|
+286222|	114463|	San José el Verde (El Verde)|	San José el Verde (El Verde)|	san-jose-el-verde-el-verde|	152|	124829|	capital|	NULL|	NULL|
+286223|	114463|	El Quince (San José el Quince)|	El Quince (San José el Quince)|	el-quince-san-jose-el-quince|	152|	124829|	capital|	NULL|	NULL|
+286224|	114463|	Etzatlán|	Etzatlán|	etzatlan|	152|	119243|	capital|	NULL|	NULL|
+286225|	114463|	Guadalajara|	Guadalajara|	guadalajara|	152|	119670|	capital|	NULL|	NULL|
+286226|	114463|	Huejuquilla el Alto|	Huejuquilla el Alto|	huejuquilla-el-alto|	152|	119865|	capital|	NULL|	NULL|
+286227|	114463|	Jalostotitlán|	Jalostotitlán|	jalostotitlan|	152|	120650|	capital|	NULL|	NULL|
+286228|	114463|	Jamay|	Jamay|	jamay|	152|	120870|	capital|	NULL|	NULL|
+286229|	114463|	Jocotepec|	Jocotepec|	jocotepec|	152|	121410|	capital|	NULL|	NULL|
+286230|	114463|	La Barca|	La Barca|	la-barca|	152|	116492|	capital|	NULL|	NULL|
+286231|	114463|	Lagos de Moreno|	Lagos de Moreno|	lagos-de-moreno|	152|	121595|	capital|	NULL|	NULL|
+286232|	114463|	Magdalena|	Magdalena|	magdalena|	152|	122151|	capital|	NULL|	NULL|
+286233|	114463|	Ocotlán|	Ocotlán|	ocotlan|	152|	123609|	capital|	NULL|	NULL|
+286234|	114463|	Poncitlán|	Poncitlán|	poncitlan|	152|	124060|	capital|	NULL|	NULL|
+286235|	114463|	Puerto Vallarta|	Puerto Vallarta|	puerto-vallarta|	152|	124188|	capital|	NULL|	NULL|
+286236|	114463|	San Diego de Alejandría|	San Diego de Alejandría|	san-diego-de-alejandria|	152|	125061|	capital|	NULL|	NULL|
+286237|	114463|	San Ignacio Cerro Gordo|	San Ignacio Cerro Gordo|	san-ignacio-cerro-gordo|	152|	132820|	capital|	NULL|	NULL|
+286238|	114463|	San Juan de los Lagos|	San Juan de los Lagos|	san-juan-de-los-lagos|	152|	125176|	capital|	NULL|	NULL|
+286239|	114463|	San Julián|	San Julián|	san-julian|	152|	125451|	capital|	NULL|	NULL|
+286240|	114463|	San Miguel el Alto|	San Miguel el Alto|	san-miguel-el-alto|	152|	125867|	capital|	NULL|	NULL|
+286241|	114463|	Tlaquepaque|	Tlaquepaque|	tlaquepaque|	152|	129417|	capital|	NULL|	NULL|
+286242|	114463|	Sayula|	Sayula|	sayula|	152|	126350|	capital|	NULL|	NULL|
+286243|	114463|	Tala|	Tala|	tala|	152|	126459|	capital|	NULL|	NULL|
+286244|	114463|	Talpa de Allende|	Talpa de Allende|	talpa-de-allende|	152|	126648|	capital|	NULL|	NULL|
+286245|	114463|	Tamazula de Gordiano|	Tamazula de Gordiano|	tamazula-de-gordiano|	152|	126917|	capital|	NULL|	NULL|
+286246|	114463|	Tecalitlán|	Tecalitlán|	tecalitlan|	152|	127409|	capital|	NULL|	NULL|
+286247|	114463|	Teocaltiche|	Teocaltiche|	teocaltiche|	152|	127946|	capital|	NULL|	NULL|
+286248|	114463|	Tepatitlán de Morelos|	Tepatitlán de Morelos|	tepatitlan-de-morelos|	152|	128261|	capital|	NULL|	NULL|
+286249|	114463|	Tequila|	Tequila|	tequila|	152|	128669|	capital|	NULL|	NULL|
+286250|	114463|	Tlajomulco de Zúñiga|	Tlajomulco de Zúñiga|	tlajomulco-de-zuniga|	152|	129095|	capital|	NULL|	NULL|
+286251|	114463|	Tototlán|	Tototlán|	tototlan|	152|	130187|	capital|	NULL|	NULL|
+286252|	114463|	Tuxpan|	Tuxpan|	tuxpan|	152|	130443|	capital|	NULL|	NULL|
+286253|	114463|	Unión de San Antonio|	Unión de San Antonio|	union-de-san-antonio|	152|	130625|	capital|	NULL|	NULL|
+286254|	114463|	Valle de Guadalupe|	Valle de Guadalupe|	valle-de-guadalupe|	152|	130966|	capital|	NULL|	NULL|
+286255|	114463|	Villa Corona|	Villa Corona|	villa-corona|	152|	131294|	capital|	NULL|	NULL|
+286256|	114463|	Villa Hidalgo|	Villa Hidalgo|	villa-hidalgo|	152|	131514|	capital|	NULL|	NULL|
+286257|	114463|	Yahualica de González Gallo|	Yahualica de González Gallo|	yahualica-de-gonzalez-gallo|	152|	131714|	capital|	NULL|	NULL|
+286258|	114463|	Zacoalco de Torres|	Zacoalco de Torres|	zacoalco-de-torres|	152|	131957|	capital|	NULL|	NULL|
+286259|	114463|	Zapopan|	Zapopan|	zapopan|	152|	132013|	capital|	NULL|	NULL|
+286260|	114463|	Zapotiltic|	Zapotiltic|	zapotiltic|	152|	132348|	capital|	NULL|	NULL|
+286261|	114463|	Ciudad Guzmán|	Ciudad Guzmán|	ciudad-guzman|	152|	117431|	capital|	NULL|	NULL|
+286262|	132909|	Almoloya de Juárez|	Almoloya de Juárez|	almoloya-de-juarez|	152|	133157|	capital|	NULL|	NULL|
+286263|	132909|	Amatepec|	Amatepec|	amatepec|	152|	133306|	capital|	NULL|	NULL|
+286264|	132909|	Ciudad Adolfo López Mateos|	Ciudad Adolfo López Mateos|	ciudad-adolfo-lopez-mateos|	152|	133594|	capital|	NULL|	NULL|
+286265|	132909|	Capulhuac|	Capulhuac|	capulhuac|	152|	133837|	capital|	NULL|	NULL|
+286266|	132909|	Chalco de Díaz Covarrubias|	Chalco de Díaz Covarrubias|	chalco-de-diaz-covarrubias|	152|	133972|	capital|	NULL|	NULL|
+286267|	132909|	San Vicente Chicoloapan de Juárez|	San Vicente Chicoloapan de Juárez|	san-vicente-chicoloapan-de-juarez|	152|	134112|	capital|	NULL|	NULL|
+286268|	132909|	Chiconcuac|	Chiconcuac|	chiconcuac|	152|	134130|	capital|	NULL|	NULL|
+286269|	132909|	Chimalhuacán|	Chimalhuacán|	chimalhuacan|	152|	134133|	capital|	NULL|	NULL|
+286270|	132909|	Coacalco de Berriozabal|	Coacalco de Berriozabal|	coacalco-de-berriozabal|	152|	133855|	capital|	NULL|	NULL|
+286271|	132909|	Cuautitlán|	Cuautitlán|	cuautitlan|	152|	133941|	capital|	NULL|	NULL|
+286272|	132909|	Cuautitlán Izcalli|	Cuautitlán Izcalli|	cuautitlan-izcalli|	152|	137914|	capital|	NULL|	NULL|
+286273|	132909|	Ecatepec de Morelos|	Ecatepec de Morelos|	ecatepec-de-morelos|	152|	134172|	capital|	NULL|	NULL|
+286274|	132909|	Huixquilucan de Degollado|	Huixquilucan de Degollado|	huixquilucan-de-degollado|	152|	134233|	capital|	NULL|	NULL|
+286275|	132909|	Ixtapaluca|	Ixtapaluca|	ixtapaluca|	152|	134314|	capital|	NULL|	NULL|
+286276|	132909|	Juchitepec de Mariano Riva Palacio|	Juchitepec de Mariano Riva Palacio|	juchitepec-de-mariano-riva-palacio|	152|	134765|	capital|	NULL|	NULL|
+286277|	132909|	Los Reyes Acaquilpan (La Paz)|	Los Reyes Acaquilpan (La Paz)|	los-reyes-acaquilpan-la-paz|	152|	135446|	capital|	NULL|	NULL|
+286278|	132909|	Melchor Ocampo|	Melchor Ocampo|	melchor-ocampo|	152|	134911|	capital|	NULL|	NULL|
+286279|	132909|	Metepec|	Metepec|	metepec|	152|	134923|	capital|	NULL|	NULL|
+286280|	132909|	Naucalpan de Juárez|	Naucalpan de Juárez|	naucalpan-de-juarez|	152|	135000|	capital|	NULL|	NULL|
+286281|	132909|	Ciudad Nezahualcoyotl|	Ciudad Nezahualcoyotl|	ciudad-nezahualcoyotl|	152|	135059|	capital|	NULL|	NULL|
+286282|	132909|	Villa Nicolás Romero|	Villa Nicolás Romero|	villa-nicolas-romero|	152|	135096|	capital|	NULL|	NULL|
+286283|	132909|	Ocoyoacac|	Ocoyoacac|	ocoyoacac|	152|	135156|	capital|	NULL|	NULL|
+286284|	132909|	San Mateo Atenco|	San Mateo Atenco|	san-mateo-atenco|	152|	135639|	capital|	NULL|	NULL|
+286285|	132909|	Tecamac de Felipe Villanueva|	Tecamac de Felipe Villanueva|	tecamac-de-felipe-villanueva|	152|	135806|	capital|	NULL|	NULL|
+286286|	132909|	Tejupilco de Hidalgo|	Tejupilco de Hidalgo|	tejupilco-de-hidalgo|	152|	135862|	capital|	NULL|	NULL|
+286287|	132909|	Tepotzotlán|	Tepotzotlán|	tepotzotlan|	152|	136562|	capital|	NULL|	NULL|
+286288|	132909|	Tequixquiac|	Tequixquiac|	tequixquiac|	152|	136608|	capital|	NULL|	NULL|
+286289|	132909|	Texcoco de Mora|	Texcoco de Mora|	texcoco-de-mora|	152|	136665|	capital|	NULL|	NULL|
+286290|	132909|	Tlalnepantla de Baz|	Tlalnepantla de Baz|	tlalnepantla-de-baz|	152|	136905|	capital|	NULL|	NULL|
+286291|	132909|	Toluca de Lerdo|	Toluca de Lerdo|	toluca-de-lerdo|	152|	137099|	capital|	NULL|	NULL|
+286292|	132909|	Santa Maria Tultepec|	Santa Maria Tultepec|	santa-maria-tultepec|	152|	137236|	capital|	NULL|	NULL|
+286293|	132909|	Tultitlán de Mariano Escobedo|	Tultitlán de Mariano Escobedo|	tultitlan-de-mariano-escobedo|	152|	137255|	capital|	NULL|	NULL|
+286294|	132909|	Valle de Chalco Solidaridad|	Valle de Chalco Solidaridad|	valle-de-chalco-solidaridad|	152|	137927|	capital|	NULL|	NULL|
+286295|	132909|	Xonacatlán|	Xonacatlán|	xonacatlan|	152|	137635|	capital|	NULL|	NULL|
+286296|	132909|	Zumpango|	Zumpango|	zumpango|	152|	137832|	capital|	NULL|	NULL|
+286297|	138297|	Apatzingán de la Constitución|	Apatzingán de la Constitución|	apatzingan-de-la-constitucion|	152|	138734|	capital|	NULL|	NULL|
+286298|	138297|	Cotija de la Paz|	Cotija de la Paz|	cotija-de-la-paz|	152|	141385|	capital|	NULL|	NULL|
+286299|	138297|	Cuitzeo del Porvenir|	Cuitzeo del Porvenir|	cuitzeo-del-porvenir|	152|	141478|	capital|	NULL|	NULL|
+286300|	138297|	Ciudad Hidalgo|	Ciudad Hidalgo|	ciudad-hidalgo|	152|	142250|	capital|	NULL|	NULL|
+286301|	138297|	Huetamo de Núñez|	Huetamo de Núñez|	huetamo-de-nunez|	152|	142843|	capital|	NULL|	NULL|
+286302|	138297|	Jacona de Plancarte|	Jacona de Plancarte|	jacona-de-plancarte|	152|	143353|	capital|	NULL|	NULL|
+286303|	138297|	Jiquilpan de Juárez|	Jiquilpan de Juárez|	jiquilpan-de-juarez|	152|	143447|	capital|	NULL|	NULL|
+286304|	138297|	La piedad de Cabadas|	La piedad de Cabadas|	la-piedad-de-cabadas|	152|	145789|	capital|	NULL|	NULL|
+286305|	138297|	Ciudad Lázaro Cárdenas|	Ciudad Lázaro Cárdenas|	ciudad-lazaro-cardenas|	152|	144209|	capital|	NULL|	NULL|
+286306|	138297|	Las Guacamayas|	Las Guacamayas|	las-guacamayas|	152|	144209|	capital|	NULL|	NULL|
+286307|	138297|	Los Reyes de Salgado|	Los Reyes de Salgado|	los-reyes-de-salgado|	152|	146118|	capital|	NULL|	NULL|
+286308|	138297|	Maravatío de Ocampo|	Maravatío de Ocampo|	maravatio-de-ocampo|	152|	144014|	capital|	NULL|	NULL|
+286309|	138297|	Morelia|	Morelia|	morelia|	152|	144482|	capital|	NULL|	NULL|
+286310|	138297|	Nueva Italia de Ruiz|	Nueva Italia de Ruiz|	nueva-italia-de-ruiz|	152|	144854|	capital|	NULL|	NULL|
+286311|	138297|	Paracho de Verduzco|	Paracho de Verduzco|	paracho-de-verduzco|	152|	145472|	capital|	NULL|	NULL|
+286312|	138297|	Pátzcuaro|	Pátzcuaro|	patzcuaro|	152|	145511|	capital|	NULL|	NULL|
+286313|	138297|	Puruándiro|	Puruándiro|	puruandiro|	152|	145967|	capital|	NULL|	NULL|
+286314|	138297|	Sahuayo de Morelos|	Sahuayo de Morelos|	sahuayo-de-morelos|	152|	146181|	capital|	NULL|	NULL|
+286315|	138297|	Tacámbaro de Codallos|	Tacámbaro de Codallos|	tacambaro-de-codallos|	152|	146619|	capital|	NULL|	NULL|
+286316|	138297|	Tangancícuaro de Arista|	Tangancícuaro de Arista|	tangancicuaro-de-arista|	152|	146991|	capital|	NULL|	NULL|
+286317|	138297|	Uruapan|	Uruapan|	uruapan|	152|	149245|	capital|	NULL|	NULL|
+286318|	138297|	Yurécuaro|	Yurécuaro|	yurecuaro|	152|	149664|	capital|	NULL|	NULL|
+286319|	138297|	Zacapu|	Zacapu|	zacapu|	152|	149694|	capital|	NULL|	NULL|
+286320|	138297|	Zamora de Hidalgo|	Zamora de Hidalgo|	zamora-de-hidalgo|	152|	149768|	capital|	NULL|	NULL|
+286321|	138297|	Zinapécuaro de Figueroa|	Zinapécuaro de Figueroa|	zinapecuaro-de-figueroa|	152|	149935|	capital|	NULL|	NULL|
+286322|	138297|	Heroica Zitácuaro|	Heroica Zitácuaro|	heroica-zitacuaro|	152|	150088|	capital|	NULL|	NULL|
+286323|	150301|	Cuautla (Cuautla de Morelos)|	Cuautla (Cuautla de Morelos)|	cuautla-cuautla-de-morelos|	152|	150663|	capital|	NULL|	NULL|
+286324|	150301|	Cuernavaca|	Cuernavaca|	cuernavaca|	152|	150729|	capital|	NULL|	NULL|
+286325|	150301|	Jojutla|	Jojutla|	jojutla|	152|	150993|	capital|	NULL|	NULL|
+286326|	150301|	Puente de Ixtla|	Puente de Ixtla|	puente-de-ixtla|	152|	151259|	capital|	NULL|	NULL|
+286327|	150301|	Santa Rosa Treinta|	Santa Rosa Treinta|	santa-rosa-treinta|	152|	151639|	capital|	NULL|	NULL|
+286328|	150301|	Tlaquiltenango|	Tlaquiltenango|	tlaquiltenango|	152|	151733|	capital|	NULL|	NULL|
+286329|	150301|	Zacatepec de Hidalgo|	Zacatepec de Hidalgo|	zacatepec-de-hidalgo|	152|	152172|	capital|	NULL|	NULL|
+286330|	150301|	Galeana|	Galeana|	galeana|	152|	152172|	capital|	NULL|	NULL|
+286331|	152239|	Acaponeta|	Acaponeta|	acaponeta|	152|	152240|	capital|	NULL|	NULL|
+286332|	152239|	Ahuacatlán|	Ahuacatlán|	ahuacatlan|	152|	152427|	capital|	NULL|	NULL|
+286333|	152239|	Bucerías|	Bucerías|	bucerias|	152|	156100|	capital|	NULL|	NULL|
+286334|	152239|	Compostela|	Compostela|	compostela|	152|	152569|	capital|	NULL|	NULL|
+286335|	152239|	Las Varas|	Las Varas|	las-varas|	152|	152569|	capital|	NULL|	NULL|
+286336|	152239|	La peñita de Jaltemba|	La peñita de Jaltemba|	la-penita-de-jaltemba|	152|	152569|	capital|	NULL|	NULL|
+286337|	152239|	Ixtlán del Río|	Ixtlán del Río|	ixtlan-del-rio|	152|	153169|	capital|	NULL|	NULL|
+286338|	152239|	Jala|	Jala|	jala|	152|	153265|	capital|	NULL|	NULL|
+286339|	152239|	Ruiz|	Ruiz|	ruiz|	152|	154120|	capital|	NULL|	NULL|
+286340|	152239|	San Blas|	San Blas|	san-blas|	152|	154219|	capital|	NULL|	NULL|
+286341|	152239|	San pedro Lagunillas|	San pedro Lagunillas|	san-pedro-lagunillas|	152|	154358|	capital|	NULL|	NULL|
+286342|	152239|	Santiago Ixcuintla|	Santiago Ixcuintla|	santiago-ixcuintla|	152|	154574|	capital|	NULL|	NULL|
+286343|	152239|	Villa Hidalgo (El Nuevo)|	Villa Hidalgo (El Nuevo)|	villa-hidalgo-el-nuevo|	152|	154574|	capital|	NULL|	NULL|
+286344|	152239|	Tecuala|	Tecuala|	tecuala|	152|	154813|	capital|	NULL|	NULL|
+286345|	152239|	Tepic|	Tepic|	tepic|	152|	154969|	capital|	NULL|	NULL|
+286346|	152239|	Francisco I. Madero (Puga)|	Francisco I. Madero (Puga)|	francisco-i-madero-puga|	152|	154969|	capital|	NULL|	NULL|
+286347|	152239|	Xalisco|	Xalisco|	xalisco|	152|	153343|	capital|	NULL|	NULL|
+286348|	156524|	Anáhuac|	Anáhuac|	anahuac|	152|	156884|	capital|	NULL|	NULL|
+286349|	156524|	Ciudad Apodaca|	Ciudad Apodaca|	ciudad-apodaca|	152|	157562|	capital|	NULL|	NULL|
+286350|	156524|	Cadereyta Jiménez|	Cadereyta Jiménez|	cadereyta-jimenez|	152|	157984|	capital|	NULL|	NULL|
+286351|	156524|	Ciénega de Flores|	Ciénega de Flores|	cienega-de-flores|	152|	158634|	capital|	NULL|	NULL|
+286352|	156524|	Doctor Arroyo|	Doctor Arroyo|	doctor-arroyo|	152|	159341|	capital|	NULL|	NULL|
+286353|	156524|	García|	García|	garcia|	152|	160472|	capital|	NULL|	NULL|
+286354|	156524|	Ciudad General Escobedo|	Ciudad General Escobedo|	ciudad-general-escobedo|	152|	160902|	capital|	NULL|	NULL|
+286355|	156524|	Guadalupe|	Guadalupe|	guadalupe|	152|	161746|	capital|	NULL|	NULL|
+286356|	156524|	Hualahuises|	Hualahuises|	hualahuises|	152|	162002|	capital|	NULL|	NULL|
+286357|	156524|	Ciudad Benito Juárez|	Ciudad Benito Juárez|	ciudad-benito-juarez|	152|	162182|	capital|	NULL|	NULL|
+286358|	156524|	Linares|	Linares|	linares|	152|	162503|	capital|	NULL|	NULL|
+286359|	156524|	Montemorelos|	Montemorelos|	montemorelos|	152|	163438|	capital|	NULL|	NULL|
+286360|	156524|	Monterrey|	Monterrey|	monterrey|	152|	163982|	capital|	NULL|	NULL|
+286361|	156524|	Ciudad Sabinas Hidalgo|	Ciudad Sabinas Hidalgo|	ciudad-sabinas-hidalgo|	152|	164659|	capital|	NULL|	NULL|
+286362|	156524|	San Nicolás de los Garza|	San Nicolás de los Garza|	san-nicolas-de-los-garza|	152|	165223|	capital|	NULL|	NULL|
+286363|	156524|	San Pedro Garza García|	San Pedro Garza García|	san-pedro-garza-garcia|	152|	160612|	capital|	NULL|	NULL|
+286364|	156524|	Ciudad Santa Catarina|	Ciudad Santa Catarina|	ciudad-santa-catarina|	152|	165271|	capital|	NULL|	NULL|
+286365|	156524|	Santiago|	Santiago|	santiago|	152|	165369|	capital|	NULL|	NULL|
+286366|	156524|	El cercado|	El cercado|	el-cercado|	152|	165369|	capital|	NULL|	NULL|
+286367|	165935|	Vicente Camalote|	Vicente Camalote|	vicente-camalote|	152|	165939|	capital|	NULL|	NULL|
+286368|	165935|	Asunción Nochixtlán|	Asunción Nochixtlán|	asuncion-nochixtlan|	152|	166212|	capital|	NULL|	NULL|
+286369|	165935|	Chahuites|	Chahuites|	chahuites|	152|	166732|	capital|	NULL|	NULL|
+286370|	165935|	Ciudad Ixtepec|	Ciudad Ixtepec|	ciudad-ixtepec|	152|	166468|	capital|	NULL|	NULL|
+286371|	165935|	Cosolapa|	Cosolapa|	cosolapa|	152|	166613|	capital|	NULL|	NULL|
+286372|	165935|	Cuilápam de Guerrero|	Cuilápam de Guerrero|	cuilapam-de-guerrero|	152|	166667|	capital|	NULL|	NULL|
+286373|	165935|	Lagunas|	Lagunas|	lagunas|	152|	166304|	capital|	NULL|	NULL|
+286374|	165935|	Heroica Ciudad de Ejutla de Crespo|	Heroica Ciudad de Ejutla de Crespo|	heroica-ciudad-de-ejutla-de-crespo|	152|	166789|	capital|	NULL|	NULL|
+286375|	165935|	Heroica Ciudad de Huajuapan de León|	Heroica Ciudad de Huajuapan de León|	heroica-ciudad-de-huajuapan-de-leon|	152|	167098|	capital|	NULL|	NULL|
+286376|	165935|	Juchitán (Juchitán de Zaragoza)|	Juchitán (Juchitán de Zaragoza)|	juchitan-juchitan-de-zaragoza|	152|	167318|	capital|	NULL|	NULL|
+286377|	165935|	Heroica Ciudad de Tlaxiaco|	Heroica Ciudad de Tlaxiaco|	heroica-ciudad-de-tlaxiaco|	152|	175172|	capital|	NULL|	NULL|
+286378|	165935|	Loma Bonita|	Loma Bonita|	loma-bonita|	152|	167491|	capital|	NULL|	NULL|
+286379|	165935|	Mariscala de Juárez|	Mariscala de Juárez|	mariscala-de-juarez|	152|	167838|	capital|	NULL|	NULL|
+286380|	165935|	Matías Romero Avendaño|	Matías Romero Avendaño|	matias-romero-avendano|	152|	167858|	capital|	NULL|	NULL|
+286381|	165935|	Miahuatlán de Porfirio Díaz|	Miahuatlán de Porfirio Díaz|	miahuatlan-de-porfirio-diaz|	152|	168146|	capital|	NULL|	NULL|
+286382|	165935|	Natividad|	Natividad|	natividad|	152|	168274|	capital|	NULL|	NULL|
+286383|	165935|	El Camarón|	El Camarón|	el-camaron|	152|	168279|	capital|	NULL|	NULL|
+286384|	165935|	Oaxaca|	Oaxaca|	oaxaca|	152|	168385|	capital|	NULL|	NULL|
+286385|	165935|	Ocotlán de Morelos|	Ocotlán de Morelos|	ocotlan-de-morelos|	152|	168418|	capital|	NULL|	NULL|
+286386|	165935|	Putla Villa de Guerrero|	Putla Villa de Guerrero|	putla-villa-de-guerrero|	152|	168624|	capital|	NULL|	NULL|
+286387|	165935|	Salina Cruz|	Salina Cruz|	salina-cruz|	152|	168748|	capital|	NULL|	NULL|
+286388|	165935|	San Antonio de la Cal|	San Antonio de la Cal|	san-antonio-de-la-cal|	152|	169188|	capital|	NULL|	NULL|
+286389|	165935|	San Blas Atempa|	San Blas Atempa|	san-blas-atempa|	152|	169399|	capital|	NULL|	NULL|
+286390|	165935|	San Felipe Jalapa de Díaz|	San Felipe Jalapa de Díaz|	san-felipe-jalapa-de-diaz|	152|	169610|	capital|	NULL|	NULL|
+286391|	165935|	San Francisco Ixhuatán|	San Francisco Ixhuatán|	san-francisco-ixhuatan|	152|	169856|	capital|	NULL|	NULL|
+286392|	165935|	San Francisco Telixtlahuaca|	San Francisco Telixtlahuaca|	san-francisco-telixtlahuaca|	152|	169931|	capital|	NULL|	NULL|
+286393|	165935|	San Juan Bautista Cuicatlán|	San Juan Bautista Cuicatlán|	san-juan-bautista-cuicatlan|	152|	170470|	capital|	NULL|	NULL|
+286394|	165935|	San Juan Bautista lo de Soto|	San Juan Bautista lo de Soto|	san-juan-bautista-lo-de-soto|	152|	170518|	capital|	NULL|	NULL|
+286395|	165935|	San Juan Bautista Tuxtepec|	San Juan Bautista Tuxtepec|	san-juan-bautista-tuxtepec|	152|	170549|	capital|	NULL|	NULL|
+286396|	165935|	San Juan Bautista Valle Nacional|	San Juan Bautista Valle Nacional|	san-juan-bautista-valle-nacional|	152|	179017|	capital|	NULL|	NULL|
+286397|	165935|	San Juan Cacahuatepec|	San Juan Cacahuatepec|	san-juan-cacahuatepec|	152|	170799|	capital|	NULL|	NULL|
+286398|	165935|	San Miguel el Grande|	San Miguel el Grande|	san-miguel-el-grande|	152|	172500|	capital|	NULL|	NULL|
+286399|	165935|	San Pablo Huitzo|	San Pablo Huitzo|	san-pablo-huitzo|	152|	173057|	capital|	NULL|	NULL|
+286400|	165935|	San Pablo Villa de Mitla|	San Pablo Villa de Mitla|	san-pablo-villa-de-mitla|	152|	173106|	capital|	NULL|	NULL|
+286401|	165935|	San Pedro Pochutla|	San Pedro Pochutla|	san-pedro-pochutla|	152|	173481|	capital|	NULL|	NULL|
+286402|	165935|	San Pedro Tapanatepec|	San Pedro Tapanatepec|	san-pedro-tapanatepec|	152|	173698|	capital|	NULL|	NULL|
+286403|	165935|	San Pedro Totolapa|	San Pedro Totolapa|	san-pedro-totolapa|	152|	173935|	capital|	NULL|	NULL|
+286404|	165935|	San Sebastián Tecomaxtlahuaca|	San Sebastián Tecomaxtlahuaca|	san-sebastian-tecomaxtlahuaca|	152|	174351|	capital|	NULL|	NULL|
+286405|	165935|	El Rosario|	El Rosario|	el-rosario|	152|	174420|	capital|	NULL|	NULL|
+286406|	165935|	Santa Cruz Itundujia|	Santa Cruz Itundujia|	santa-cruz-itundujia|	152|	174743|	capital|	NULL|	NULL|
+286407|	165935|	Santa Lucia del Camino|	Santa Lucia del Camino|	santa-lucia-del-camino|	152|	175089|	capital|	NULL|	NULL|
+286408|	165935|	Santa María Huatulco|	Santa María Huatulco|	santa-maria-huatulco|	152|	175755|	capital|	NULL|	NULL|
+286409|	165935|	Huatulco|	Huatulco|	huatulco|	152|	175755|	capital|	NULL|	NULL|
+286410|	165935|	Santiago Jamiltepec|	Santiago Jamiltepec|	santiago-jamiltepec|	152|	176858|	capital|	NULL|	NULL|
+286411|	165935|	Santiago Juxtlahuaca|	Santiago Juxtlahuaca|	santiago-juxtlahuaca|	152|	176954|	capital|	NULL|	NULL|
+286412|	165935|	Santiago Pinotepa Nacional|	Santiago Pinotepa Nacional|	santiago-pinotepa-nacional|	152|	177248|	capital|	NULL|	NULL|
+286413|	165935|	Santiago Suchilquitongo|	Santiago Suchilquitongo|	santiago-suchilquitongo|	152|	177405|	capital|	NULL|	NULL|
+286414|	165935|	Santo Domingo Tehuantepec|	Santo Domingo Tehuantepec|	santo-domingo-tehuantepec|	152|	178211|	capital|	NULL|	NULL|
+286415|	165935|	Teotitlán de Flores Magón|	Teotitlán de Flores Magón|	teotitlan-de-flores-magon|	152|	178763|	capital|	NULL|	NULL|
+286416|	165935|	Tlacolula de Matamoros|	Tlacolula de Matamoros|	tlacolula-de-matamoros|	152|	178887|	capital|	NULL|	NULL|
+286417|	165935|	Unión Hidalgo|	Unión Hidalgo|	union-hidalgo|	152|	178987|	capital|	NULL|	NULL|
+286418|	165935|	Villa de Tamazulápam del Progreso|	Villa de Tamazulápam del Progreso|	villa-de-tamazulapam-del-progreso|	152|	178710|	capital|	NULL|	NULL|
+286419|	165935|	Villa de Zaachila|	Villa de Zaachila|	villa-de-zaachila|	152|	179125|	capital|	NULL|	NULL|
+286420|	165935|	Villa Sola de Vega|	Villa Sola de Vega|	villa-sola-de-vega|	152|	172635|	capital|	NULL|	NULL|
+286421|	165935|	Zimatlán de Álvarez|	Zimatlán de Álvarez|	zimatlan-de-alvarez|	152|	179231|	capital|	NULL|	NULL|
+286422|	179305|	Acatlán de Osorio|	Acatlán de Osorio|	acatlan-de-osorio|	152|	179460|	capital|	NULL|	NULL|
+286423|	179305|	Amozoc|	Amozoc|	amozoc|	152|	179836|	capital|	NULL|	NULL|
+286424|	179305|	Atlixco|	Atlixco|	atlixco|	152|	179956|	capital|	NULL|	NULL|
+286425|	179305|	Ciudad Serdán|	Ciudad Serdán|	ciudad-serdan|	152|	180819|	capital|	NULL|	NULL|
+286426|	179305|	Cuautlancingo|	Cuautlancingo|	cuautlancingo|	152|	180545|	capital|	NULL|	NULL|
+286427|	179305|	Huauchinango|	Huauchinango|	huauchinango|	152|	181938|	capital|	NULL|	NULL|
+286428|	179305|	Izúcar de Matamoros|	Izúcar de Matamoros|	izucar-de-matamoros|	152|	182586|	capital|	NULL|	NULL|
+286429|	179305|	Puebla|	Puebla|	puebla|	152|	183638|	capital|	NULL|	NULL|
+286430|	179305|	San Andrés Cholula|	San Andrés Cholula|	san-andres-cholula|	152|	183927|	capital|	NULL|	NULL|
+286431|	179305|	San Martín Texmelucan de Labastida|	San Martín Texmelucan de Labastida|	san-martin-texmelucan-de-labastida|	152|	184106|	capital|	NULL|	NULL|
+286432|	179305|	San Pedro Cholula|	San Pedro Cholula|	san-pedro-cholula|	152|	184284|	capital|	NULL|	NULL|
+286433|	179305|	Tecamachalco|	Tecamachalco|	tecamachalco|	152|	184719|	capital|	NULL|	NULL|
+286434|	179305|	Tehuacan|	Tehuacan|	tehuacan|	152|	184828|	capital|	NULL|	NULL|
+286435|	179305|	Tepeaca|	Tepeaca|	tepeaca|	152|	185182|	capital|	NULL|	NULL|
+286436|	179305|	Teziutlan|	Teziutlan|	teziutlan|	152|	185491|	capital|	NULL|	NULL|
+286437|	179305|	Xicotepec|	Xicotepec|	xicotepec|	152|	186430|	capital|	NULL|	NULL|
+286438|	179305|	Zacatlán|	Zacatlán|	zacatlan|	152|	186806|	capital|	NULL|	NULL|
+286439|	187255|	El Pueblito|	El Pueblito|	el-pueblito|	152|	188246|	capital|	NULL|	NULL|
+286440|	187255|	Querétaro|	Querétaro|	queretaro|	152|	189784|	capital|	NULL|	NULL|
+286441|	187255|	San Juan del Rio|	San Juan del Rio|	san-juan-del-rio|	152|	190166|	capital|	NULL|	NULL|
+286442|	190758|	Bacalar|	Bacalar|	bacalar|	152|	193818|	capital|	NULL|	NULL|
+286443|	190758|	Cancún|	Cancún|	cancun|	152|	192502|	capital|	NULL|	NULL|
+286444|	190758|	Cozumel|	Cozumel|	cozumel|	152|	190759|	capital|	NULL|	NULL|
+286445|	190758|	Felipe Carrillo Puerto|	Felipe Carrillo Puerto|	felipe-carrillo-puerto|	152|	190953|	capital|	NULL|	NULL|
+286446|	190758|	Isla Mujeres|	Isla Mujeres|	isla-mujeres|	152|	191284|	capital|	NULL|	NULL|
+286447|	190758|	Kantunilkín|	Kantunilkín|	kantunilkin|	152|	193059|	capital|	NULL|	NULL|
+286448|	190758|	Chetumal|	Chetumal|	chetumal|	152|	191462|	capital|	NULL|	NULL|
+286449|	190758|	Playa del Carmen|	Playa del Carmen|	playa-del-carmen|	152|	193235|	capital|	NULL|	NULL|
+286450|	194533|	Cárdenas|	Cárdenas|	cardenas|	152|	194984|	capital|	NULL|	NULL|
+286451|	194533|	Cedral|	Cedral|	cedral|	152|	195205|	capital|	NULL|	NULL|
+286452|	194533|	Cerritos|	Cerritos|	cerritos|	152|	195333|	capital|	NULL|	NULL|
+286453|	194533|	Charcas|	Charcas|	charcas|	152|	196687|	capital|	NULL|	NULL|
+286454|	194533|	Ciudad del Maíz|	Ciudad del Maíz|	ciudad-del-maiz|	152|	195426|	capital|	NULL|	NULL|
+286455|	194533|	Fracción el Refugio|	Fracción el Refugio|	fraccion-el-refugio|	152|	195572|	capital|	NULL|	NULL|
+286456|	194533|	Ciudad Valles|	Ciudad Valles|	ciudad-valles|	152|	195922|	capital|	NULL|	NULL|
+286457|	194533|	Ébano|	Ébano|	ebano|	152|	196907|	capital|	NULL|	NULL|
+286458|	194533|	El Naranjo|	El Naranjo|	el-naranjo|	152|	203476|	capital|	NULL|	NULL|
+286459|	194533|	Matehuala|	Matehuala|	matehuala|	152|	197358|	capital|	NULL|	NULL|
+286460|	194533|	Rioverde|	Rioverde|	rioverde|	152|	197952|	capital|	NULL|	NULL|
+286461|	194533|	Salinas de Hidalgo|	Salinas de Hidalgo|	salinas-de-hidalgo|	152|	198329|	capital|	NULL|	NULL|
+286462|	194533|	San Luis Potosí|	San Luis Potosí|	san-luis-potosi|	152|	198626|	capital|	NULL|	NULL|
+286463|	194533|	Santa María del Río|	Santa María del Río|	santa-maria-del-rio|	152|	199306|	capital|	NULL|	NULL|
+286464|	194533|	Soledad de Graciano Sánchez|	Soledad de Graciano Sánchez|	soledad-de-graciano-sanchez|	152|	199958|	capital|	NULL|	NULL|
+286465|	194533|	Tamasopo|	Tamasopo|	tamasopo|	152|	200161|	capital|	NULL|	NULL|
+286466|	194533|	Tamazunchale|	Tamazunchale|	tamazunchale|	152|	200382|	capital|	NULL|	NULL|
+286467|	194533|	Tamuin|	Tamuin|	tamuin|	152|	200928|	capital|	NULL|	NULL|
+286468|	194533|	Tierra Nueva|	Tierra Nueva|	tierra-nueva|	152|	201652|	capital|	NULL|	NULL|
+286469|	194533|	Villa de Reyes|	Villa de Reyes|	villa-de-reyes|	152|	202413|	capital|	NULL|	NULL|
+286470|	203611|	Los Mochis|	Los Mochis|	los-mochis|	152|	203612|	capital|	NULL|	NULL|
+286471|	203611|	Ahome|	Ahome|	ahome|	152|	203612|	capital|	NULL|	NULL|
+286472|	203611|	Higuera de Zaragoza|	Higuera de Zaragoza|	higuera-de-zaragoza|	152|	203612|	capital|	NULL|	NULL|
+286473|	203611|	Topolobampo|	Topolobampo|	topolobampo|	152|	203612|	capital|	NULL|	NULL|
+286474|	203611|	Angostura|	Angostura|	angostura|	152|	204153|	capital|	NULL|	NULL|
+286475|	203611|	Choix|	Choix|	choix|	152|	206620|	capital|	NULL|	NULL|
+286476|	203611|	Cosalá|	Cosalá|	cosala|	152|	205132|	capital|	NULL|	NULL|
+286477|	203611|	Culiacán Rosales|	Culiacán Rosales|	culiacan-rosales|	152|	205286|	capital|	NULL|	NULL|
+286478|	203611|	Aguaruto|	Aguaruto|	aguaruto|	152|	205286|	capital|	NULL|	NULL|
+286479|	203611|	Quila|	Quila|	quila|	152|	205286|	capital|	NULL|	NULL|
+286480|	203611|	La Cruz|	La Cruz|	la-cruz|	152|	207014|	capital|	NULL|	NULL|
+286481|	203611|	Escuinapa de Hidalgo|	Escuinapa de Hidalgo|	escuinapa-de-hidalgo|	152|	207193|	capital|	NULL|	NULL|
+286482|	203611|	Guasave|	Guasave|	guasave|	152|	207912|	capital|	NULL|	NULL|
+286483|	203611|	Mazatlán|	Mazatlán|	mazatlan|	152|	208573|	capital|	NULL|	NULL|
+286484|	203611|	Villa Unión|	Villa Unión|	villa-union|	152|	208573|	capital|	NULL|	NULL|
+286485|	203611|	Mocorito|	Mocorito|	mocorito|	152|	209172|	capital|	NULL|	NULL|
+286486|	203611|	Navolato|	Navolato|	navolato|	152|	211135|	capital|	NULL|	NULL|
+286487|	203611|	Lic. Benito Juárez (Campo Gobierno)|	Lic. Benito Juárez (Campo Gobierno)|	lic-benito-juarez-campo-gobierno|	152|	211135|	capital|	NULL|	NULL|
+286488|	203611|	El rosario|	El rosario|	el-rosario-22a06ef6-215c-41e0-a755-12f0a63ec830|	152|	209552|	capital|	NULL|	NULL|
+286489|	203611|	Guamúchil|	Guamúchil|	guamuchil|	152|	209952|	capital|	NULL|	NULL|
+286490|	203611|	Sinaloa de Leyva|	Sinaloa de Leyva|	sinaloa-de-leyva|	152|	210475|	capital|	NULL|	NULL|
+286491|	203611|	Estación Naranjo|	Estación Naranjo|	estacion-naranjo|	152|	210475|	capital|	NULL|	NULL|
+286492|	211609|	Agua Prieta|	Agua Prieta|	agua-prieta|	152|	211637|	capital|	NULL|	NULL|
+286493|	211609|	Heroica Caborca|	Heroica Caborca|	heroica-caborca|	152|	214026|	capital|	NULL|	NULL|
+286494|	211609|	Ciudad Obregón|	Ciudad Obregón|	ciudad-obregon|	152|	214608|	capital|	NULL|	NULL|
+286495|	211609|	Heroica Ciudad de Cananea|	Heroica Ciudad de Cananea|	heroica-ciudad-de-cananea|	152|	216274|	capital|	NULL|	NULL|
+286496|	211609|	Empalme|	Empalme|	empalme|	152|	217158|	capital|	NULL|	NULL|
+286497|	211609|	Sonoita|	Sonoita|	sonoita|	152|	226756|	capital|	NULL|	NULL|
+286498|	211609|	Heroica Guaymas|	Heroica Guaymas|	heroica-guaymas|	152|	217867|	capital|	NULL|	NULL|
+286499|	211609|	Hermosillo|	Hermosillo|	hermosillo|	152|	218440|	capital|	NULL|	NULL|
+286500|	211609|	Huatabampo|	Huatabampo|	huatabampo|	152|	219925|	capital|	NULL|	NULL|
+286501|	211609|	Magdalena de Kino|	Magdalena de Kino|	magdalena-de-kino|	152|	220428|	capital|	NULL|	NULL|
+286502|	211609|	Navojoa|	Navojoa|	navojoa|	152|	221428|	capital|	NULL|	NULL|
+286503|	211609|	Heroica Nogales|	Heroica Nogales|	heroica-nogales|	152|	221943|	capital|	NULL|	NULL|
+286504|	211609|	Puerto Peñasco|	Puerto Peñasco|	puerto-penasco|	152|	222779|	capital|	NULL|	NULL|
+286505|	211609|	San Luis Río Colorado|	San Luis Río Colorado|	san-luis-rio-colorado|	152|	223917|	capital|	NULL|	NULL|
+286506|	227404|	Villahermosa|	Villahermosa|	villahermosa|	152|	228174|	capital|	NULL|	NULL|
+286507|	227404|	Comalcalco|	Comalcalco|	comalcalco|	152|	228386|	capital|	NULL|	NULL|
+286508|	227404|	Cunduacán|	Cunduacán|	cunduacan|	152|	228505|	capital|	NULL|	NULL|
+286509|	227404|	Emiliano Zapata|	Emiliano Zapata|	emiliano-zapata|	152|	228621|	capital|	NULL|	NULL|
+286510|	227404|	Huimanguillo|	Huimanguillo|	huimanguillo|	152|	228708|	capital|	NULL|	NULL|
+286511|	227404|	Jalpa de Méndez|	Jalpa de Méndez|	jalpa-de-mendez|	152|	229122|	capital|	NULL|	NULL|
+286512|	227404|	Macuspana|	Macuspana|	macuspana|	152|	229358|	capital|	NULL|	NULL|
+286513|	227404|	Paraíso|	Paraíso|	paraiso|	152|	229655|	capital|	NULL|	NULL|
+286514|	227404|	Teapa|	Teapa|	teapa|	152|	229794|	capital|	NULL|	NULL|
+286515|	227404|	Tenosique de Pino Suárez|	Tenosique de Pino Suárez|	tenosique-de-pino-suarez|	152|	229852|	capital|	NULL|	NULL|
+286516|	229991|	Altamira|	Altamira|	altamira|	152|	230874|	capital|	NULL|	NULL|
+286517|	229991|	Ciudad Camargo|	Ciudad Camargo|	ciudad-camargo|	152|	231758|	capital|	NULL|	NULL|
+286518|	229991|	Ciudad Madero|	Ciudad Madero|	ciudad-madero|	152|	232417|	capital|	NULL|	NULL|
+286519|	229991|	Ciudad Mante|	Ciudad Mante|	ciudad-mante|	152|	235169|	capital|	NULL|	NULL|
+286520|	229991|	González|	González|	gonzalez|	152|	232755|	capital|	NULL|	NULL|
+286521|	229991|	Estación Manuel (Úrsulo Galván)|	Estación Manuel (Úrsulo Galván)|	estacion-manuel-ursulo-galvan|	152|	232755|	capital|	NULL|	NULL|
+286522|	229991|	Nueva Ciudad Guerrero|	Nueva Ciudad Guerrero|	nueva-ciudad-guerrero|	152|	233682|	capital|	NULL|	NULL|
+286523|	229991|	Ciudad Gustavo Díaz Ordaz|	Ciudad Gustavo Díaz Ordaz|	ciudad-gustavo-diaz-ordaz|	152|	233949|	capital|	NULL|	NULL|
+286524|	229991|	Jaumave|	Jaumave|	jaumave|	152|	234425|	capital|	NULL|	NULL|
+286525|	229991|	Heroica Matamoros|	Heroica Matamoros|	heroica-matamoros|	152|	235572|	capital|	NULL|	NULL|
+286526|	229991|	Ciudad Miguel Alemán|	Ciudad Miguel Alemán|	ciudad-miguel-aleman|	152|	237137|	capital|	NULL|	NULL|
+286527|	229991|	Nuevo Laredo|	Nuevo Laredo|	nuevo-laredo|	152|	237302|	capital|	NULL|	NULL|
+286528|	229991|	Reynosa|	Reynosa|	reynosa|	152|	238042|	capital|	NULL|	NULL|
+286529|	229991|	Ciudad Río Bravo|	Ciudad Río Bravo|	ciudad-rio-bravo|	152|	238753|	capital|	NULL|	NULL|
+286530|	229991|	San Fernando|	San Fernando|	san-fernando|	152|	239681|	capital|	NULL|	NULL|
+286531|	229991|	Soto la Marina|	Soto la Marina|	soto-la-marina|	152|	240434|	capital|	NULL|	NULL|
+286532|	229991|	Tampico|	Tampico|	tampico|	152|	241163|	capital|	NULL|	NULL|
+286533|	229991|	Ciudad Tula|	Ciudad Tula|	ciudad-tula|	152|	241171|	capital|	NULL|	NULL|
+286534|	229991|	Valle Hermoso|	Valle Hermoso|	valle-hermoso|	152|	241337|	capital|	NULL|	NULL|
+286535|	229991|	Ciudad Victoria|	Ciudad Victoria|	ciudad-victoria|	152|	241687|	capital|	NULL|	NULL|
+286536|	229991|	Xicoténcatl|	Xicoténcatl|	xicotencatl|	152|	242443|	capital|	NULL|	NULL|
+286537|	242707|	Apizaco|	Apizaco|	apizaco|	152|	242892|	capital|	NULL|	NULL|
+286538|	242707|	Calpulalpan|	Calpulalpan|	calpulalpan|	152|	242922|	capital|	NULL|	NULL|
+286539|	242707|	Chiautempan|	Chiautempan|	chiautempan|	152|	243156|	capital|	NULL|	NULL|
+286540|	242707|	Huamantla|	Huamantla|	huamantla|	152|	243255|	capital|	NULL|	NULL|
+286541|	242707|	Villa Vicente Guerrero|	Villa Vicente Guerrero|	villa-vicente-guerrero|	152|	243833|	capital|	NULL|	NULL|
+286542|	242707|	Tlaxcala (Tlaxcala de Xicotencatl)|	Tlaxcala (Tlaxcala de Xicotencatl)|	tlaxcala-tlaxcala-de-xicotencatl|	152|	244112|	capital|	NULL|	NULL|
+286543|	244709|	Acayucan|	Acayucan|	acayucan|	152|	244779|	capital|	NULL|	NULL|
+286544|	244709|	Agua dulce|	Agua dulce|	agua-dulce|	152|	269089|	capital|	NULL|	NULL|
+286545|	244709|	Altotonga|	Altotonga|	altotonga|	152|	245846|	capital|	NULL|	NULL|
+286546|	244709|	Alvarado|	Alvarado|	alvarado|	152|	245953|	capital|	NULL|	NULL|
+286547|	244709|	Paraje Nuevo|	Paraje Nuevo|	paraje-nuevo|	152|	246419|	capital|	NULL|	NULL|
+286548|	244709|	Ángel R. Cabada|	Ángel R. Cabada|	angel-r-cabada|	152|	246509|	capital|	NULL|	NULL|
+286549|	244709|	Atoyac|	Atoyac|	atoyac|	152|	246895|	capital|	NULL|	NULL|
+286550|	244709|	General Miguel Alemán (Potrero Nuevo)|	General Miguel Alemán (Potrero Nuevo)|	general-miguel-aleman-potrero-nuevo|	152|	246895|	capital|	NULL|	NULL|
+286551|	244709|	Banderilla|	Banderilla|	banderilla|	152|	247298|	capital|	NULL|	NULL|
+286552|	244709|	Boca del RÍo|	Boca del RÍo|	boca-del-rio|	152|	247419|	capital|	NULL|	NULL|
+286553|	244709|	Carlos A. Carrillo|	Carlos A. Carrillo|	carlos-a-carrillo|	152|	269703|	capital|	NULL|	NULL|
+286554|	244709|	Catemaco|	Catemaco|	catemaco|	152|	247586|	capital|	NULL|	NULL|
+286555|	244709|	Cazones de Herrera|	Cazones de Herrera|	cazones-de-herrera|	152|	247961|	capital|	NULL|	NULL|
+286556|	244709|	Cerro Azul|	Cerro Azul|	cerro-azul|	152|	248050|	capital|	NULL|	NULL|
+286557|	244709|	Coatepec|	Coatepec|	coatepec|	152|	248198|	capital|	NULL|	NULL|
+286558|	244709|	Coatzacoalcos|	Coatzacoalcos|	coatzacoalcos|	152|	248360|	capital|	NULL|	NULL|
+286559|	244709|	Coatzintla|	Coatzintla|	coatzintla|	152|	248456|	capital|	NULL|	NULL|
+286560|	244709|	Córdoba|	Córdoba|	cordoba|	152|	248770|	capital|	NULL|	NULL|
+286561|	244709|	Cosamaloapan|	Cosamaloapan|	cosamaloapan|	152|	248887|	capital|	NULL|	NULL|
+286562|	244709|	Cosoleacaque|	Cosoleacaque|	cosoleacaque|	152|	249132|	capital|	NULL|	NULL|
+286563|	244709|	Cuitláhuac|	Cuitláhuac|	cuitlahuac|	152|	249633|	capital|	NULL|	NULL|
+286564|	244709|	El Higo|	El Higo|	el-higo|	152|	269187|	capital|	NULL|	NULL|
+286565|	244709|	Fortín de las Flores|	Fortín de las Flores|	fortin-de-las-flores|	152|	251751|	capital|	NULL|	NULL|
+286566|	244709|	Gutiérrez Zamora|	Gutiérrez Zamora|	gutierrez-zamora|	152|	251828|	capital|	NULL|	NULL|
+286567|	244709|	Huatusco de Chicuellar|	Huatusco de Chicuellar|	huatusco-de-chicuellar|	152|	252099|	capital|	NULL|	NULL|
+286568|	244709|	Huayacocotla|	Huayacocotla|	huayacocotla|	152|	252177|	capital|	NULL|	NULL|
+286569|	244709|	Juan Díaz Covarrubias|	Juan Díaz Covarrubias|	juan-diaz-covarrubias|	152|	252287|	capital|	NULL|	NULL|
+286570|	244709|	Huiloapan de Cuauhtémoc|	Huiloapan de Cuauhtémoc|	huiloapan-de-cuauhtemoc|	152|	252436|	capital|	NULL|	NULL|
+286571|	244709|	Isla|	Isla|	isla|	152|	252532|	capital|	NULL|	NULL|
+286572|	244709|	Ixtaczoquitlán|	Ixtaczoquitlán|	ixtaczoquitlan|	152|	253462|	capital|	NULL|	NULL|
+286573|	244709|	Jáltipan de Morelos|	Jáltipan de Morelos|	jaltipan-de-morelos|	152|	253668|	capital|	NULL|	NULL|
+286574|	244709|	Juan Rodríguez Clara|	Juan Rodríguez Clara|	juan-rodriguez-clara|	152|	254387|	capital|	NULL|	NULL|
+286575|	244709|	José Cardel|	José Cardel|	jose-cardel|	152|	246733|	capital|	NULL|	NULL|
+286576|	244709|	Las Choapas|	Las Choapas|	las-choapas|	152|	250605|	capital|	NULL|	NULL|
+286577|	244709|	Lerdo de Tejada|	Lerdo de Tejada|	lerdo-de-tejada|	152|	254768|	capital|	NULL|	NULL|
+286578|	244709|	Minatitlán|	Minatitlán|	minatitlan|	152|	255597|	capital|	NULL|	NULL|
+286579|	244709|	Cuichapa|	Cuichapa|	cuichapa|	152|	256199|	capital|	NULL|	NULL|
+286580|	244709|	Naranjos|	Naranjos|	naranjos|	152|	246300|	capital|	NULL|	NULL|
+286581|	244709|	Nogales|	Nogales|	nogales|	152|	256601|	capital|	NULL|	NULL|
+286582|	244709|	Orizaba|	Orizaba|	orizaba|	152|	256789|	capital|	NULL|	NULL|
+286583|	244709|	Pánuco|	Pánuco|	panuco|	152|	257846|	capital|	NULL|	NULL|
+286584|	244709|	Papantla de Olarte|	Papantla de Olarte|	papantla-de-olarte|	152|	258728|	capital|	NULL|	NULL|
+286585|	244709|	Paso de Ovejas|	Paso de Ovejas|	paso-de-ovejas|	152|	259295|	capital|	NULL|	NULL|
+286586|	244709|	Paso del Macho|	Paso del Macho|	paso-del-macho|	152|	259137|	capital|	NULL|	NULL|
+286587|	244709|	Platón Sánchez|	Platón Sánchez|	platon-sanchez|	152|	259611|	capital|	NULL|	NULL|
+286588|	244709|	Playa Vicente|	Playa Vicente|	playa-vicente|	152|	259777|	capital|	NULL|	NULL|
+286589|	244709|	Poza Rica de Hidalgo|	Poza Rica de Hidalgo|	poza-rica-de-hidalgo|	152|	260099|	capital|	NULL|	NULL|
+286590|	244709|	Río Blanco|	Río Blanco|	rio-blanco|	152|	260506|	capital|	NULL|	NULL|
+286591|	244709|	San Andrés Tuxtla|	San Andrés Tuxtla|	san-andres-tuxtla|	152|	260565|	capital|	NULL|	NULL|
+286592|	244709|	Sihuapan|	Sihuapan|	sihuapan|	152|	260565|	capital|	NULL|	NULL|
+286593|	244709|	San Rafael|	San Rafael|	san-rafael|	152|	270045|	capital|	NULL|	NULL|
+286594|	244709|	Santiago Tuxtla|	Santiago Tuxtla|	santiago-tuxtla|	152|	261138|	capital|	NULL|	NULL|
+286595|	244709|	Soledad de Doblado|	Soledad de Doblado|	soledad-de-doblado|	152|	261859|	capital|	NULL|	NULL|
+286596|	244709|	Tampico Alto|	Tampico Alto|	tampico-alto|	152|	262531|	capital|	NULL|	NULL|
+286597|	244709|	Tantoyuca|	Tantoyuca|	tantoyuca|	152|	263046|	capital|	NULL|	NULL|
+286598|	244709|	Tempoal de Sánchez|	Tempoal de Sánchez|	tempoal-de-sanchez|	152|	264478|	capital|	NULL|	NULL|
+286599|	244709|	Tezonapa|	Tezonapa|	tezonapa|	152|	265686|	capital|	NULL|	NULL|
+286600|	244709|	Tierra Blanca|	Tierra Blanca|	tierra-blanca|	152|	265837|	capital|	NULL|	NULL|
+286601|	244709|	Tihuatlán|	Tihuatlán|	tihuatlan|	152|	266305|	capital|	NULL|	NULL|
+286602|	244709|	Tlacojalpan|	Tlacojalpan|	tlacojalpan|	152|	266727|	capital|	NULL|	NULL|
+286603|	244709|	Tlapacoyan|	Tlapacoyan|	tlapacoyan|	152|	267414|	capital|	NULL|	NULL|
+286604|	244709|	Tres Valles|	Tres Valles|	tres-valles|	152|	269371|	capital|	NULL|	NULL|
+286605|	244709|	Túxpam de Rodríguez Cano|	Túxpam de Rodríguez Cano|	tuxpam-de-rodriguez-cano|	152|	267634|	capital|	NULL|	NULL|
+286606|	244709|	Veracruz|	Veracruz|	veracruz|	152|	268390|	capital|	NULL|	NULL|
+286607|	244709|	Xalapa-Enríquez|	Xalapa-Enríquez|	xalapa-enriquez|	152|	253583|	capital|	NULL|	NULL|
+286608|	244709|	Yecuatla|	Yecuatla|	yecuatla|	152|	268590|	capital|	NULL|	NULL|
+286609|	270287|	Kanasín|	Kanasín|	kanasin|	152|	272819|	capital|	NULL|	NULL|
+286610|	270287|	Mérida|	Mérida|	merida|	152|	273303|	capital|	NULL|	NULL|
+286611|	270287|	Motul de Carrillo Puerto|	Motul de Carrillo Puerto|	motul-de-carrillo-puerto|	152|	273720|	capital|	NULL|	NULL|
+286612|	270287|	Ticul|	Ticul|	ticul|	152|	276359|	capital|	NULL|	NULL|
+286613|	270287|	Tizimín|	Tizimín|	tizimin|	152|	276771|	capital|	NULL|	NULL|
+286614|	270287|	Valladolid|	Valladolid|	valladolid|	152|	278129|	capital|	NULL|	NULL|
+286615|	278739|	Víctor Rosales|	Víctor Rosales|	victor-rosales|	152|	278928|	capital|	NULL|	NULL|
+286616|	278739|	Ciudad Cuauhtémoc|	Ciudad Cuauhtémoc|	ciudad-cuauhtemoc|	152|	279223|	capital|	NULL|	NULL|
+286617|	278739|	Fresnillo|	Fresnillo|	fresnillo|	152|	279384|	capital|	NULL|	NULL|
+286618|	278739|	Jalpa|	Jalpa|	jalpa|	152|	280882|	capital|	NULL|	NULL|
+286619|	278739|	Jerez de García Salinas|	Jerez de García Salinas|	jerez-de-garcia-salinas|	152|	281095|	capital|	NULL|	NULL|
+286620|	278739|	Luis Moya|	Luis Moya|	luis-moya|	152|	281643|	capital|	NULL|	NULL|
+286621|	278739|	Moyahua de Estrada|	Moyahua de Estrada|	moyahua-de-estrada|	152|	282613|	capital|	NULL|	NULL|
+286622|	278739|	Nochistlán de Mejía|	Nochistlán de Mejía|	nochistlan-de-mejia|	152|	282702|	capital|	NULL|	NULL|
+286623|	278739|	Ojocaliente|	Ojocaliente|	ojocaliente|	152|	282963|	capital|	NULL|	NULL|
+286624|	278739|	Río Grande|	Río Grande|	rio-grande|	152|	283667|	capital|	NULL|	NULL|
+286625|	278739|	Sombrerete|	Sombrerete|	sombrerete|	152|	283925|	capital|	NULL|	NULL|
+286626|	278739|	Valparaíso|	Valparaíso|	valparaiso|	152|	284653|	capital|	NULL|	NULL|
+286627|	278739|	Villa de Cos|	Villa de Cos|	villa-de-cos|	152|	285049|	capital|	NULL|	NULL|
+286628|	278739|	Villanueva|	Villanueva|	villanueva|	152|	285630|	capital|	NULL|	NULL|
+286629|	278739|	Zacatecas|	Zacatecas|	zacatecas|	152|	285805|	capital|	NULL|	NULL|
+286630|	132909|	Aculco|	Aculco|	aculco|	152|	133047|	capital|	NULL|	NULL|
+286632|	187255|	Peña de Bernal|	Peña de Bernal|	pena-de-bernal|	152|	188440|	capital|	NULL|	NULL|
+286633|	132909|	Valle de Bravo|	Valle de Bravo|	valle-de-bravo|	152|	137268|	capital|	NULL|	NULL|
+286634|	187255|	Tequisquiapan|	Tequisquiapan|	tequisquiapan|	152|	190460|	capital|	NULL|	NULL|
+286635|	150301|	Tequesquitengo|	Tequesquitengo|	tequesquitengo|	152|	150993|	capital|	NULL|	NULL|
+286636|	132909|	Malinalco|	Malinalco|	malinalco|	152|	134868|	capital|	NULL|	NULL|
+286637|	150301|	Tepoztlán|	Tepoztlán|	tepoztlan|	152|	151467|	capital|	NULL|	NULL|
+286638|	165935|	Puerto Escondido|	Puerto Escondido|	puerto-escondido|	152|	173368|	capital|	NULL|	NULL|
+286640|	165935|	Chacahua|	Chacahua|	chacahua|	152|	176266|	capital|	NULL|	NULL|
+286641|	165935|	San José de Manialtepec|	San José de Manialtepec|	san-jose-de-manialtepec|	152|	173957|	capital|	NULL|	NULL|
+286642|	132909|	San Juan Teotihuacan |	San Juan Teotihuacan |	san-juan-teotihuacan|	152|	136451|	capital|	NULL|	NULL|
+286643|	109086|	Tolantongo|	Tolantongo|	tolantongo|	152|	109877|	capital|	NULL|	NULL|
+286644|	99535|	Cacahuamilpa|	Cacahuamilpa|	cacahuamilpa|	152|	105478|	capital|	NULL|	NULL|
+286645|	132909|	Tenancingo de Degollado|	Tenancingo de Degollado|	tenancingo-de-degollado|	152|	136303|	capital|	NULL|	NULL|
+286646|	203611|	El Fuerte|	El Fuerte|	el-fuerte|	152|	NULL|	capital|	NULL|	NULL|
+286647|	211609|	San Carlos|	San Carlos|	san-carlos|	152|	217867|	capital|	NULL|	NULL|
+286648|	244709|	Cempoala|	Cempoala|	cempoala|	152|	268147|	capital|	NULL|	NULL|
+286649|	78563|	Xochimilco|	Xochimilco|	xochimilco|	152|	79131|	capital|	NULL|	NULL|
+286650|	114463|	Villa de Corona|	Villa de Corona|	villa-de-corona|	152|	131294|	capital|	NULL|	NULL|
+286651|	194533|	Xilitla|	Xilitla|	xilitla|	152|	202864|	capital|	NULL|	NULL|
+286652|	190758|	Tulum|	Tulum|	tulum|	152|	193497|	capital|	NULL|	NULL|
+286653|	190758|	Holbox|	Holbox|	holbox|	152|	193059|	capital|	NULL|	NULL|
+286654|	60202|	Creel|	Creel|	creel|	152|	62712|	capital|	NULL|	NULL|
+286655|	79238|	Mexiquillo|	Mexiquillo|	mexiquillo|	152|	84711|	capital|	NULL|	NULL|
+286656|	79238|	Mapimí|	Mapimí|	mapimi|	152|	82684|	capital|	NULL|	NULL|
+286657|	179305|	Cuetzalan|	Cuetzalan|	cuetzalan|	152|	180596|	capital|	NULL|	NULL|
+286658|	179305|	Chautla|	Chautla|	chautla|	152|	184411|	capital|	NULL|	NULL|
+286659|	109086|	Tasquillo|	Tasquillo|	tasquillo|	152|	112855|	capital|	NULL|	NULL|
+286660|	38799|	San Juan Chamula|	San Juan Chamula|	san-juan-chamula|	152|	42990|	capital|	NULL|	NULL|
+286661|	244709|	Tlacotalpan|	Tlacotalpan|	tlacotalpan|	152|	266798|	capital|	NULL|	NULL|
+286662|	244709|	Jalcomulco|	Jalcomulco|	jalcomulco|	152|	253652|	capital|	NULL|	NULL|
+286663|	270287|	Chichen Itza|	Chichen Itza|	chichen-itza|	152|	NULL|	capital|	NULL|	NULL|
+286664|	190758|	Cobá|	Cobá|	coba|	152|	NULL|	capital|	NULL|	NULL|
+286665|	190758|	Mahahual|	Mahahual|	mahahual|	152|	191462|	capital|	NULL|	NULL|
+286666|	270287|	Progreso|	Progreso|	progreso|	152|	274455|	capital|	NULL|	NULL|
+286667|	190758|	Xcalak|	Xcalak|	xcalak|	152|	191462|	capital|	NULL|	NULL|
+286668|	190758|	Xpu Há|	Xpu Há|	xpu-ha|	152|	193235|	capital|	NULL|	NULL|
+286669|	114463|	San Sebastián|	San Sebastián|	san-sebastian|	152|	126146|	capital|	NULL|	NULL|
+286670|	114463|	Talpa de Allende|	Talpa de Allende|	talpa-de-allende-53290a00-3fdd-452b-a1ad-885b9846df33|	152|	126648|	capital|	NULL|	NULL|
+286671|	152239|	Sayulita|	Sayulita|	sayulita|	152|	156100|	capital|	NULL|	NULL|
+286672|	152239|	San Pancho|	San Pancho|	san-pancho|	152|	156100|	capital|	NULL|	NULL|
+286673|	150301|	Cocoyoc|	Cocoyoc|	cocoyoc|	152|	150663|	capital|	NULL|	NULL|
+286674|	114463|	Nuevo Vallarta|	Nuevo Vallarta|	nuevo-vallarta|	152|	NULL|	capital|	NULL|	NULL|
+286675|	244709|	Antigua|	Antigua|	antigua|	152|	NULL|	capital|	NULL|	NULL|
+286676|	190758|	Puerto Aventuras|	Puerto Aventuras|	puerto-aventuras|	152|	193235|	capital|	NULL|	NULL|
+286677|	22134|	Calakmul|	Calakmul|	calakmul|	152|	25029|	capital|	NULL|	NULL|
